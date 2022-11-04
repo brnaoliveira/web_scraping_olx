@@ -1,0 +1,1397 @@
+|Título apartamento|Preço do apartamento|Quantidade de quarto|Area do apartamento|Taxa do condomínio|Vagas de garagem|Endereco do apartamento|Quantidade de suítes|Quantidade de banheiro
+0|Apartamento para venda possui 130 metros quadrados com 3 quartos em Praia do Meio - Natal|R$ 180.000|3 quartos|130m²|R$ 400|1 vaga|Natal, Praia do Meio | |1
+1| | | | | | | | | 
+2|Apartamento para venda com 180 metros quadrados com 3 quartos em Petrópolis - Natal - RN|R$ 700.000|3 quartos|180m²|R$ 1.500|2 vagas|Natal, Petrópolis | |2
+3|Apartamento para venda Plaza Center, 75m², com 2 quartos em Tirol - Natal|R$ 220.000|2 quartos|75m²|R$ 770|1 vaga|Natal, Tirol | |1
+4|Apartamento para venda tem 55 metros quadrados com 2 quartos em Capim Macio - Natal - RN|R$ 135.000|2 quartos|55m²|R$ 100|1 vaga|Natal, Capim Macio | |1
+5|Apartamento para venda com 50 metros quadrados com 2 quartos em Capim Macio - Natal - RN|R$ 108.000|2 quartos|50m²|R$ 100|1 vaga|Natal, Capim Macio | |1
+6|Apartamento para venda possui 98 metros quadrados com 3 quartos em Capim Macio - Natal - R|R$ 410.000|3 quartos|98m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+7|Apartamento para venda tem 57 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 295.000|2 quartos|57m²|R$ 363|1 vaga|Natal, Ponta Negra | |1
+8|Apartamento para venda Flamboyants, 58m², com 2 quartos em Capim Macio - Natal - RN|R$ 115.000|2 quartos|58m²|R$ 100|1 vaga|Natal, Capim Macio | |1
+9|Apartamento para venda Terramaris, 80m²,com 3 quartos em Ponta Negra - Natal - RN|R$ 590.000|3 quartos|80m²|R$ 550|2 vagas|Natal, Ponta Negra | |2
+10|Apartamento para venda com 250 metros quadrados com 4 quartos em Areia Preta - Natal - RN|R$ 2.270.000|4 quartos|250m²|R$ 2.000|4 vagas|Natal, Areia Preta | |4
+11|Apartamento para venda com 65 metros quadrados com 2 quartos em Praia do Meio - Natal - RN|R$ 120.000|2 quartos|55m²|R$ 250|1 vaga|Natal, Praia do Meio | |1
+12| | | | | | | | | 
+13|Apartamento para venda possui 97 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 669.000|2 quartos|82m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+14|Apartamento Sun River para venda com 75 metros quadrados com 3 quartos em Ribeira - Natal |R$ 369.900|3 quartos|75m²|R$ 300|2 vagas|Natal, Ribeira | |2
+15|Apartamento para venda possui 292 metros quadrados com 3 quartos em Petrópolis - Natal - R|R$ 1.500.000|3 quartos|292m²|R$ 1.600|3 vagas|Natal, Petrópolis | |3
+16|Apartamento para venda tem 88 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 710.000|3 quartos|88m²|R$ 440|2 vagas|Natal, Tirol | |2
+17|Apartamento para venda possui 57 metros quadrados com 1 quarto em Barro Vermelho - Natal -|R$ 275.000|1 quarto|57m²|R$ 600|1 vaga|Natal, Barro Vermelho | |1
+18|Apartamento para venda possui 58 metros quadrados com 2 quartos em Ponta Negra - Natal - R|R$ 179.000|2 quartos|58m²|R$ 320|1 vaga|Natal, Ponta Negra | |1
+19| | | | | | | | | 
+20|Apartamento para venda tem 200 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 800.000|4 quartos|200m²|R$ 1.400|2 vagas|Natal, Tirol | |2
+21|Apartamento para venda tem 282 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 1.400.000|3 quartos|282m²|R$ 3.000|4 vagas|Natal, Tirol | |4
+22|Apartamento para venda tem 53 metros quadrados com 2 quartos em Planalto - Natal - RN|R$ 128.000|2 quartos|53m²|R$ 0|1 vaga|Natal, Planalto | |1
+23|Apartamento para venda com 56 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 240.000|2 quartos|56m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+24|Apartamento para venda possui 87 metros quadrados com 3 quartos em Candelária - Natal - RN|R$ 470.000|3 quartos|87m²|R$ 0|2 vagas|Natal, Candelária | |2
+25|Apartamento para venda possui 60 metros quadrados com 2 quartos em Ponta Negra - Natal - R|R$ 210.000|2 quartos|60m²|R$ 750|1 vaga|Natal, Petrópolis | |1
+26| | | | | | | | | 
+27|Apartamento para venda com 80 metros quadrados com 3 quartos em Lagoa Seca - Natal - RN|R$ 255.000|3 quartos|80m²|R$ 340|2 vagas|Natal, Lagoa Seca | |2
+28|Apartamento para venda tem 208 metros quadrados com 4 quartos em Tirol - Natal - Rio Grand|R$ 1.560.000|4 quartos|208m²|R$ 1.350|4 vagas|Natal, Tirol | |4
+29|Apartamento para venda com 186 metros quadrados com 3 quartos em Petrópolis - Natal - RN|R$ 930.000|3 quartos|186m²|R$ 1.800|3 vagas|Natal, Petrópolis | |3
+30|Apartamento para venda possui 67m², 3 quartos em Ponta Negra - Natal - RN|R$ 420.000|3 quartos|67m²|R$ 530|2 vagas|Natal, Ponta Negra | |2
+31|Apartamento para aluguel e venda com 80 metros quadrados com 3 quartos em Ribeira - Natal |R$ 210.000|3 quartos|80m²|R$ 0|2 vagas|Natal, Ribeira | |2
+32| | | | | | | | | 
+33|Apartamento para venda tem 246 metros quadrados com 4 quartos em Lagoa Nova - Natal - RN|R$ 750.000|4 quartos|246m²|R$ 2.240|3 vagas|Natal, Lagoa Nova | |3
+34|Apartamento para venda com 503 metros quadrados com 4 quartos em Petrópolis - Natal - RN|R$ 5.000.000|4 quartos|503m²|R$ 0|4 vagas|Natal, Petrópolis | |4
+35|Apartamento para venda com 56 metros quadrados com 2 quartos em Pitimbu - Natal - RN|R$ 190.000|2 quartos|56m²|R$ 0|1 vaga|Natal, Pitimbu | |1
+36|Apartamento para venda Luau de Ponta Negra, 116m² ,  3 quartos em Ponta Negra - Natal|R$ 610.000|3 quartos|116m²|R$ 1.573|2 vagas|Natal, Ponta Negra | |2
+37|Apartamento para venda possui 75 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 459.900|3 quartos|75m²|R$ 510|2 vagas|Natal, Lagoa Nova | |2
+38|Apartamento para venda em Capim Macio - Natal - RN - Paradise Village|R$ 350.000|2 quartos|55m²|R$ 421|2 vagas|Natal, Capim Macio | |2
+39|Apartamento para venda com 60 metros quadrados com 2 quartos em Rocas - Natal - RN|R$ 250.000|2 quartos|60m²|R$ 462|1 vaga|Natal, Rocas | |1
+40|Apartamento para venda tem 96 metros quadrados com 3 quartos em Capim Macio - Natal - RN|R$ 480.000|3 quartos|96m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+41| | | | | | | | | 
+42|Apartamento para venda com 144 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 750.000|3 quartos|144m²|R$ 1.280|3 vagas|Natal, Lagoa Nova | |3
+43|Apartamento para venda possui 88 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 724.000|3 quartos|88m²|R$ 850|2 vagas|Natal, Tirol | |2
+44|Apartamento para venda tem 98 metros quadrados com 3 quartos em Tirol - Natal - Rio Grande|R$ 710.000|3 quartos|98m²|R$ 881|2 vagas|Natal, Tirol | |2
+45|Apartamento para venda com 49 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 185.000|2 quartos|49m²|R$ 200|1 vaga|Natal, Ponta Negra | |1
+46|Apartamento para venda com 230 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 750.000|4 quartos|230m²|R$ 0|3 vagas|Natal, Tirol | |3
+47|Apartamento para venda Soneto Potengi, Petrópolis - Natal - RN|R$ 1.050.000|4 quartos|330m²|R$ 1.542|3 vagas|Natal, Petrópolis | |3
+48|Apartamento para venda com 54 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 276.000|2 quartos|54m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+49|Apartamento para venda possui 57 metros quadrados com 2 quartos em Lagoa Nova - Natal - RN|R$ 240.000|2 quartos|57m²|R$ 470|1 vaga|Natal, Lagoa Nova | |1
+50|Apartamento para venda possui 65 metros quadrados com 2 quartos em Ponta Negra - Natal - R|R$ 120.000|2 quartos|65m²|R$ 400|1 vaga|Natal, Ponta Negra | |1
+51| | | | | | | | | 
+52|Apartamento para venda tem 75 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 420.000|3 quartos|75m²|R$ 620|2 vagas|Natal, Lagoa Nova | |2
+53|Apartamento para venda tem 59 metros quadrados com 2 quartos em Lagoa Seca - Natal - RN|R$ 280.000|2 quartos|59m²|R$ 265|1 vaga|Natal, Lagoa Seca | |1
+54|Apartamento para venda possui 146 metros quadrados com 2 quartos em Lagoa Nova - Natal - R|R$ 720.000|2 quartos|146m²|R$ 950|2 vagas|Natal, Lagoa Nova | |2
+55|Apartamento para venda Sports Park, 230m², 3 quartos em Ponta Negra - Natal|R$ 1.600.000|3 quartos|230m²|R$ 0|3 vagas|Natal, Ponta Negra | |3
+56|Apartamento para venda possui 57 metros quadrados com 2 quartos em Barro Vermelho - Natal |R$ 280.000|2 quartos|57m²|R$ 0|1 vaga|Natal, Barro Vermelho | |1
+57| | | | | | | | | 
+58|Apartamento para venda tem com 2 quartos em Ponta Negra - Natal - RN - Residencial Poetas|R$ 276.000|2 quartos|55m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+59|Apartamento para venda tem 109 metros quadrados com 2 quartos em Areia Preta - Natal - RN|R$ 460.000|2 quartos|109m²|R$ 900|1 vaga|Natal, Areia Preta | |1
+60|Apartamento para venda possui 75 metros quadrados com 3 quartos em Capim Macio - Natal - R|R$ 200.000|3 quartos|75m²|R$ 350|1 vaga|Natal, Capim Macio | |1
+61|Apartamento para venda possui 224 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 1.950.000|4 quartos|224m²|R$ 0|4 vagas|Natal, Tirol | |4
+62|Apartamento para venda tem 56 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 530.000|1 quarto|56m²|R$ 540.000|1 vaga|Natal, Ponta Negra | |1
+63|Apartamento para venda com 92 metros quadrados com 3 quartos em Capim Macio - Natal - RN|R$ 370.000|3 quartos|92m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+64|Apartamento para venda com 98 metros quadrados com 3 quartos em Petrópolis - Natal - RN|R$ 550.000|3 quartos|98m²|R$ 0|2 vagas|Natal, Petrópolis | |2
+65|Apartamento para venda com 136 metros quadrados com 3 quartos em Tirol - Natal -|R$ 799.000|3 quartos|136m²|R$ 1.000|2 vagas|Natal, Tirol | |2
+66|Apartamento para venda tem 50 metros quadrados com 2 quartos em Pitimbu - Natal - RN|R$ 110.000|2 quartos|50m²|R$ 0| |Natal, Pitimbu | |59067400
+67| | | | | | | | | 
+68|Apartamento para venda com 54 metros quadrados com uma suite com closet em Tirol - Natal -|R$ 340.000|1 quarto|54m²|R$ 0|1 vaga|Natal, Tirol | |1
+69|Apartamento para venda com 105 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 520.000|3 quartos|105m²|R$ 0|2 vagas|Natal, Tirol | |2
+70|Apartamento para venda tem 282 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 1.400.000|3 quartos|282m²|R$ 3.000|4 vagas|Natal, Tirol | |4
+71|Apartamento para venda possui 65 metros quadrados com 2 quartos em Tirol - Natal - RN|R$ 380.000|2 quartos|65m²|R$ 385|1 vaga|Natal, Tirol | |1
+72|Apartamento para venda com 92 metros quadrados com 2 quartos em Neópolis - Natal - RN|R$ 450.000|2 quartos|92m²|R$ 495|2 vagas|Natal, Neópolis | |2
+73|Apartamento para venda possui 53 metros quadrados com 2 quartos em Pitimbu - Natal - RN|R$ 99.800.000|2 quartos|53m²|R$ 0|1 vaga|Natal, Pitimbu | |1
+74|Apartamento para venda tem 56 metros quadrados com 2 quartos em Capim Macio - Natal - RN|R$ 330.000|2 quartos|56m²|R$ 300|1 vaga|Natal, Capim Macio | |1
+75|Apartamento para venda tem 96 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 460.000|3 quartos|96m²|R$ 847|2 vagas|Natal, Tirol | |2
+76|Apartamento para venda possui 94 metros quadrados com 3 quartos em Ponta Negra - Natal - R|R$ 750.000|3 quartos|94m²|R$ 742|2 vagas|Natal, Ponta Negra | |2
+77|Apartamento para venda possui 56 metros quadrados com 2 quartos em Ponta Negra - Natal - R|R$ 290.000|2 quartos|56m²|R$ 363|1 vaga|Natal, Ponta Negra | |1
+78|Apartamento para venda tem 87m²  com 3/4 COM MOVEIS PROJETADOS em Candelária - Natal - RN|R$ 485.000|3 quartos|87m²|R$ 500|2 vagas|Natal, Candelária | |2
+79|Apartamento para venda possui 160 metros quadrados com 3 quartos em Lagoa Nova - Natal - R|R$ 1.090.000|3 quartos|160m²|R$ 750|3 vagas|Natal, Lagoa Nova | |3
+80|Apartamento para venda possui 54 metros quadrados com 2 quartos em Lagoa Nova - Natal - RN|R$ 240.000|2 quartos|54m²|R$ 640|1 vaga|Natal, Lagoa Nova | |1
+81|Apartamento para venda com 157 metros quadrados com 4 quartos em Tirol - Natal - Rio Grand|R$ 1.200.000|4 quartos|157m²|R$ 900|3 vagas|Natal, Tirol | |3
+82| | | | | | | | | 
+83|Apartamento para venda Sun River, 75m², com 3 quartos em Ribeira - Natal|R$ 365.000|3 quartos|75m²|R$ 403|2 vagas|Natal, Ribeira | |2
+84|Apartamento para venda tem 54 metros quadrados com 2 quartos em Dix-Sept Rosado - Natal - |R$ 160.000|2 quartos|54m²|R$ 360|1 vaga|Natal, Dix-Sept Rosado | |1
+85|Apartamento para venda tem 85 metros quadrados com 3 quartos em Capim Macio - Natal - RN|R$ 655.000|3 quartos|85m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+86|Apartamento para venda possui 350 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 2.300.000|4 quartos|350m²|R$ 2.000|4 vagas|Natal, Tirol | |4
+87|Apartamento para venda com 125 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 380.000|3 quartos|125m²|R$ 0|2 vagas|Natal, Tirol | |2
+88|Apartamento para venda com 72 metros quadrados com 3 quartos em Capim Macio - Natal - RN|R$ 199.000|3 quartos|72m²|R$ 550|1 vaga|Natal, Capim Macio | |1
+89| | | | | | | | | 
+90|Apartamento para venda com 166 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 1.690.000|4 quartos|166m²|R$ 1.030|2 vagas|Natal, Tirol | |2
+91|Apartamento para venda possui 208 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 2.400.000|4 quartos|208m²|R$ 1.600|4 vagas|Natal, Tirol | |4
+92| | | | | | | | | 
+93|Apartamento para venda tem 140 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 400.000|3 quartos|95m²|R$ 950|2 vagas|Natal, Tirol | |2
+94|Apartamento para venda tem 186 metros quadrados com 3 quartos em Petrópolis - Natal - RN|R$ 930.000|3 quartos|186m²|R$ 1.800|3 vagas|Natal, Petrópolis | |3
+95|Apartamento para venda com 118 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 1.000.000|3 quartos|118m²|R$ 1.050|2 vagas|Natal, Lagoa Nova | |2
+96|Apartamento para venda com 98 metros quadrados com 3 quartos em Candelária - Natal - RN|R$ 410.000|3 quartos|98m²|R$ 1.000|3 vagas|Natal, Candelária | |3
+97|Apartamento para venda possui 220 metros quadrados com 4 quartos em Petrópolis - Natal - R|R$ 990.000|4 quartos|220m²|R$ 1.850|3 vagas|Natal, Petrópolis | |3
+98|Apartamento para venda possui 110 metros quadrados com 4 quartos em Candelária - Natal - R|R$ 620.000|4 quartos|110m²|R$ 900|2 vagas|Natal, Candelária | |2
+99|Apartamento para venda com 132 metros quadrados com 4 quartos em Ponta Negra - Natal - RN|R$ 680.000|4 quartos|132m²|R$ 600|2 vagas|Natal, Ponta Negra | |2
+100| | | | | | | | | 
+101|Apartamento para venda com 113 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 520.000|3 quartos|113m²|R$ 850|2 vagas|Natal, Lagoa Nova | |2
+102|Apartamento para venda com 110 metros quadrados com 3 quartos em Nova Descoberta - Natal -|R$ 230.000|3 quartos|110m²|R$ 350|1 vaga|Natal, Nova Descoberta | |1
+103|Apartamento para venda possui 157 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 1.200.000|4 quartos|157m²|R$ 921|3 vagas|Natal, Tirol | |3
+104|Apartamento para venda possui 101 metros quadrados com 3 quartos em Lagoa Nova - Natal - R|R$ 570.000|3 quartos|101m²|R$ 750|2 vagas|Natal, Lagoa Nova | |2
+105|Apartamento para venda com 170 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 569.000|3 quartos|170m²|R$ 1.500|3 vagas|Natal, Lagoa Nova | |3
+106|Apartamento para venda com 51 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 319.900|2 quartos|50m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+107| | | | | | | | | 
+108|Apartamento para venda possui 200 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 650.000|3 quartos|200m²|R$ 1.350|2 vagas|Natal, Tirol | |2
+109|Apartamento para venda possui 81 metros quadrados com 3 quartos em Candelária - Natal - RN|R$ 160.000|3 quartos|81m²|R$ 170|2 vagas|Natal, Candelária | |2
+110|Apartamento para venda com 101 metros quadrados com 3 quartos em Ponta Negra - Natal - RN|R$ 375.000|3 quartos|101m²|R$ 0|2 vagas|Natal, Ponta Negra | |2
+111|Apartamento para venda tem 220 metros quadrados com 4 quartos em Barro Vermelho - Natal - |R$ 595.000|4 quartos|220m²|R$ 970|2 vagas|Natal, Barro Vermelho | |2
+112|Apartamento para venda com 96 metros quadrados com 3 quartos em Barro Vermelho - Natal - R|R$ 400.000|3 quartos|96m²|R$ 910|2 vagas|Natal, Barro Vermelho | |2
+113|Apartamento para venda tem 141 metros quadrados com 3 quartos em Capim Macio - Natal - RN|R$ 895.000|3 quartos|141m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+114|Apartamento para venda com 136 metros quadrados com 3 quartos em Barro Vermelho - Natal - |R$ 360.000|3 quartos|136m²|R$ 1.000|2 vagas|Natal, Barro Vermelho | |2
+115|Apartamento para venda possui 96 metros quadrados com 3 quartos em Barro Vermelho - Natal |R$ 360.000|3 quartos|96m²|R$ 0|2 vagas|Natal, Barro Vermelho | |2
+116|Apartamento para venda tem 97 metros quadrados com 2 quartos em Candelária - Natal - RN.|R$ 170.000|2 quartos|97m²|R$ 385|1 vaga|Natal, Candelária | |1
+117|Apartamento 4 Quartos para Venda em Natal, Petrópolis, 4 dormitórios, 4 suítes, 6 banheiro|R$ 2.950.000|4 quartos|449m²|R$ 0|4 vagas|Natal, Petrópolis | |4
+118|Apartamento para venda com 3 quartos em Capim Macio - Natal - RN|R$ 110.000|3 quartos|61m²|R$ 100|1 vaga|Natal, Capim Macio | |1
+119| | | | | | | | | 
+120|Apartamento para venda com 220 metros quadrados com 3 quartos em Tirol - Natal - Rio Grand|R$ 730.000|3 quartos|220m²|R$ 1.850|2 vagas|Natal, Tirol | |2
+121|Apartamento para venda possui 65 metros quadrados com 2 quartos em Cidade Alta - Natal - R|R$ 260.000|2 quartos|65m²|R$ 630|1 vaga|Natal, Cidade Alta | |1
+122|Apartamento para venda com 163 metros quadrados com 3 quartos em Petrópolis - Natal - RN|R$ 1.699.900|3 quartos|163m²|R$ 1.050|4 vagas|Natal, Petrópolis | |4
+123|Apartamento para venda com 105 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 370.000|3 quartos|105m²|R$ 1.650|2 vagas|Natal, Tirol | |2
+124|Apartamento para venda com 117 metros quadrados com 3 quartos em Neópolis - Natal - RN|R$ 530.000|4 quartos|117m²|R$ 700|3 vagas|Natal, Neópolis | |3
+125| | | | | | | | | 
+126|Apartamento para venda possui 92 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 860.000|3 quartos|92m²|R$ 690|2 vagas|Natal, Lagoa Nova | |2
+127|Apartamento para venda possui 197 metros quadrados com 4 quartos em Petrópolis - Natal - R|R$ 1.099.000|4 quartos|197m²|R$ 1.180|3 vagas|Natal, Petrópolis | |3
+128|Apartamento para venda com 100 metros quadrados com 3 quartos em Cidade Alta - Natal - RN|R$ 200.000|3 quartos|100m²|R$ 563|1 vaga|Natal, Cidade Alta | |1
+129|Apartamento para venda com 57 metros quadrados com 2 quartos em Candelária - Natal - RN|R$ 335.000|2 quartos|57m²|R$ 500|1 vaga|Natal, Candelária | |1
+130|Apartamento para venda tem 56 metros quadrados com 2 quartos em Petrópolis - Natal - RN|R$ 240.000|2 quartos|56m²|R$ 650|1 vaga|Natal, Petrópolis | |1
+131|Apartamento para venda com 90 metros quadrados com 2 quartos em Lagoa Nova - Natal - RN|R$ 160.000|2 quartos|90m²|R$ 420|1 vaga|Natal, Lagoa Nova | |1
+132|Apartamento para venda tem 75 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 488.000|3 quartos|75m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+133|Apartamento para venda tem 85 metros quadrados com 3/4 , 2 Suítes  em Capim Macio - Natal |R$ 651.002|3 quartos|85m²|R$ 600|2 vagas|Natal, Capim Macio | |2
+134|Apartamento para venda tem 87 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 470.000|3 quartos|87m²|R$ 530|2 vagas|Natal, Candelária | |2
+135|Apartamento para venda possui 40 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 375.000|1 quarto|40m²|R$ 416|2 vagas|Natal, Ponta Negra | |2
+136|Apartamento para venda Jeronimo Costa, 87m², 3 quartos em Candelária - Natal - RN|R$ 480.000|3 quartos|87m²|R$ 481|1 vaga|Natal, Candelária | |1
+137|Apartamento para venda com 125 m2 c/ 3 quartos em Tirol - Natal - Rio Grande do Norte|R$ 280.000|3 quartos|125m²|R$ 1.200|1 vaga|Natal, Tirol | |1
+138|Apartamento para venda tem 56 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 255.000|2 quartos|56m²|R$ 280|1 vaga|Natal, Ponta Negra | |1
+139|Apartamento para venda possui 86 metros quadrados com 3 quartos em Neópolis - Natal - RN|R$ 220.000|3 quartos|86m²|R$ 0|1 vaga|Natal, Neópolis | |1
+140|Apartamento para venda possui 170 metros quadrados com 4 quartos em Alecrim - Natal - RN|R$ 1.450.000|4 quartos|170m²|R$ 780|4 vagas|Natal, Alecrim | |4
+141|Apartamento para venda tem 109 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 435.000|3 quartos|109m²|R$ 750|2 vagas|Natal, Lagoa Nova | |2
+142|Apartamento para venda possui 220 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 670.000|4 quartos|220m²|R$ 1.450|2 vagas|Natal, Tirol | |2
+143|Apartamento para venda com 56 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 315.000|2 quartos|56m²|R$ 680|1 vaga|Natal, Ponta Negra | |1
+144|Apartamento para venda com 60 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 315.000|2 quartos|60m²|R$ 630|1 vaga|Natal, Ponta Negra | |1
+145|Apartamento para venda com 51 m² com 3/4 em Capim Macio - Natal - RN|R$ 225.000|3 quartos|51m²|R$ 0|1 vaga|Natal, Capim Macio | |1
+146|Apartamento para venda tem 48 metros quadrados com 2 quartos em Igapó - Natal - RN|R$ 85.000|2 quartos|48m²|R$ 100|1 vaga|Natal, Igapó | |1
+147|Apartamento para venda com 102 metros quadrados com 3 quartos em Petrópolis - Natal - RN|R$ 365.000|3 quartos|102m²|R$ 1.200|2 vagas|Natal, Petrópolis | |2
+148|apartamento para venda possui 240 metros quadrados com 3 quartos em Areia Preta - Natal - |R$ 2.000.000|3 quartos|240m²|R$ 2.500|4 vagas|Natal, Areia Preta | |4
+149|Apartamento para venda com 142 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 750.000|3 quartos|142m²|R$ 1.000|3 vagas|Natal, Lagoa Nova | |3
+150|Apartamento para venda com 58 metros quadrados com 2 quartos em Capim Macio - Natal - RN|R$ 330.000|2 quartos|58m²|R$ 300|1 vaga|Natal, Capim Macio | |1
+151|Apartamento para venda com 85 metros quadrados com 3 quartos em Capim Macio - Natal - RN|R$ 650.000|3 quartos|85m²|R$ 600|2 vagas|Natal, Capim Macio | |2
+152| | | | | | | | | 
+153|Apartamento para venda Sun Garden, 57m², com 2 quartos em Cidade Satélite - Natal - RN|R$ 220.000|2 quartos|57m²|R$ 350|1 vaga|Natal, Pitimbu | |1
+154|Apartamento para venda Vila Park, 55m², com 2 quartos em Ponta Negra - Natal - RN|R$ 275.000|2 quartos|55m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+155|Apartamento para venda tem 156 metros quadrados com 3 quartos em Capim Macio - Natal - RN|R$ 1.090.000|3 quartos|156m²|R$ 880|3 vagas|Natal, Capim Macio | |3
+156|Apartamento para venda possui 98 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 670.000|3 quartos|98m²|R$ 550|2 vagas|Natal, Tirol | |2
+157|Apartamento para venda possui 265 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 899.999|4 quartos|265m²|R$ 1.600|3 vagas|Natal, Tirol | |3
+158|Apartamento para venda possui 100 metros quadrados com 3 quartos em Barro Vermelho - Natal|R$ 255.000|3 quartos|100m²|R$ 917|1 vaga|Natal, Barro Vermelho | |1
+159| | | | | | | | | 
+160|Apartamento para venda Marie Galante, 92m², com 3 quartos em Candelária - Natal - RN|R$ 550.000|3 quartos|92m²|R$ 600|3 vagas|Natal, Candelária | |3
+161|Apartamento para venda Sun Gardens, 55m², com 2 quartos em Cidade Satélite - Natal - RN|R$ 230.000|2 quartos|55m²|R$ 350|2 vagas|Natal, Pitimbu | |2
+162|Apartamento para venda Lual de Ponta Negra, 131m², com 4 quartos em Ponta Negra - Natal - |R$ 675.000|4 quartos|131m²|R$ 600|1 vaga|Natal, Ponta Negra | |1
+163|Apartamento para venda Ecogarden, 59m², com 2 quartos em Ponta Negra - Natal - RN|R$ 300.000|2 quartos|59m²|R$ 280|1 vaga|Natal, Ponta Negra | |1
+164|Apartamento para venda tem 61 metros quadrados com 2 quartos em Capim Macio - Natal - RN|R$ 375.000|2 quartos|61m²|R$ 0|1 vaga|Natal, Capim Macio | |1
+165|Apartamento para venda tem 49 metros quadrados com 2 quartos em Rocas - Natal - RN|R$ 125.000|2 quartos|49m²|R$ 0|1 vaga|Natal, Rocas | |1
+166|Apartamento para venda com 55 metros quadrados com 2 quartos em Tirol - Natal - RN|R$ 295.633|2 quartos|55m²|R$ 515|1 vaga|Natal, Tirol | |1
+167|Apartamento para venda com 95 metros quadrados com 3 quartos em Candelária - Natal - RN|R$ 220.000|3 quartos|95m²|R$ 0|1 vaga|Natal, Candelária | |1
+168|Apartamento para venda com 59 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 767.900|2 quartos|121m²|R$ 0|2 vagas|Natal, Ponta Negra | |2
+169| | | | | | | | | 
+170|Apartamento para venda com 102m² 3/4 2 Suítes todo reformado em Lagoa Nova - Natal - RN|R$ 866.000|3 quartos|102m²|R$ 625|2 vagas|Natal, Lagoa Nova | |2
+171|Apartamento para venda com 3 quartos em Barro Vermelho - Natal - RN|R$ 485.000|3 quartos|96m²|R$ 740|2 vagas|Natal, Barro Vermelho | |2
+172|Apartamento para venda com 105 metros quadrados com 3 quartos em Candelária - Natal - RN|R$ 570.000|3 quartos|105m²|R$ 987|2 vagas|Natal, Candelária | |2
+173|Apartamento para venda possui 108 metros quadrados com 3 quartos em Ponta Negra - Natal - |R$ 610.000|3 quartos|108m²|R$ 0|2 vagas|Natal, Ponta Negra | |2
+174|Apartamento Palazzo Barro Vermelho para venda Com 83m²  com 3/4  em Barro Vermelho - Natal|R$ 714.000|3 quartos|83m²|R$ 445|2 vagas|Natal, Barro Vermelho | |2
+175|Apartamento para venda possui 150 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 1.233.000|4 quartos|150m²|R$ 0|3 vagas|Natal, Tirol | |3
+176| | | | | | | | | 
+177|Apartamento para venda tem 51 m² com 1 suíte em Ponta Negra - Natal - RN|R$ 559.000|1 quarto|51m²|R$ 612|1 vaga|Natal, Ponta Negra | |1
+178|Apartamento em Capim macio para venda possui 85m² com 3 quartos - Natal - RN|R$ 680.000|3 quartos|85m²|R$ 600|2 vagas|Natal, Capim Macio | |2
+179|Apartamento para venda possui 55 metros quadrados com 2 quartos em Pitimbu - Natal - RN|R$ 215.000|2 quartos|55m²|R$ 0|1 vaga|Natal, Pitimbu | |1
+180|Apartamento para venda com 60 metros quadrados com 2 quartos em Tirol - Natal - RN|R$ 320.000|2 quartos|60m²|R$ 650|1 vaga|Natal, Tirol | |1
+181|Apartamento para venda com 142 metros em Candelária - Natal - RN|R$ 800.000|4 quartos|142m²|R$ 0|3 vagas|Natal, Candelária | |3
+182|Apartamento para venda possui 85 metros quadrados com 2 quartos em Tirol - Natal - RN|R$ 190.000|2 quartos|85m²|R$ 0|2 vagas|Natal, Tirol | |2
+183|Apartamento para venda possui 40 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 155.000|1 quarto|40m²|R$ 0| |Natal, Ponta Negra | |Piscina
+184|Apartamento para venda possui 58 metros quadrados com 2 quartos em Ponta Negra - Natal - R|R$ 250.000|2 quartos|57m²|R$ 280|1 vaga|Natal, Ponta Negra | |1
+185|Apartamento para venda tem 56 metros quadrados com 2 quartos em Lagoa Nova - Natal - RN|R$ 210.000|2 quartos|56m²|R$ 0|1 vaga|Natal, Lagoa Nova | |1
+186|Apartamento para venda possui 178 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 950.000|4 quartos|178m²|R$ 0|3 vagas|Natal, Tirol | |3
+187|Apartamento para venda possui 82 metros quadrados com 3 quartos em Petrópolis - Natal - RN|R$ 580.000|3 quartos|82m²|R$ 1.000|2 vagas|Natal, Petrópolis | |2
+188|Apartamento 3 Quartos para Venda em Natal, PONTA NEGRA, 3 dormitórios, 1 suíte, 2 banheiro|R$ 640.000|3 quartos|79m²|R$ 650|2 vagas|Natal, Ponta Negra | |2
+189|Apartamento para venda possui 57 metros quadrados com 2 quartos em Pitimbu - Natal - RN|R$ 220.000|2 quartos|57m²|R$ 350|2 vagas|Natal, Pitimbu | |2
+190|Apartamento para venda tem 56 metros quadrados com 2 quartos em Tirol - Natal|R$ 279.000|2 quartos|56m²|R$ 0|1 vaga|Natal, Tirol | |1
+191|Apartamento para venda possui 57 metros quadrados com 2 quartos em Pitimbu - Natal - RN|R$ 110.000|2 quartos|57m²|R$ 0|1 vaga|Natal, Pitimbu | |1
+192|Apartamento para venda tem 40 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 380.000|1 quarto|40m²|R$ 420|1 vaga|Natal, Ponta Negra | |1
+193|Apartamento para venda com 92 metros quadrados com 3 quartos em Barro Vermelho - Natal - R|R$ 380.000|3 quartos|92m²|R$ 740|2 vagas|Natal, Barro Vermelho | |2
+194| | | | | | | | | 
+195|Apartamento para venda possui 222 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 1.899.900|4 quartos|222m²|R$ 873|4 vagas|Natal, Tirol | |4
+196|Apartamento para venda tem 88 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 660.000|3 quartos|88m²|R$ 650|2 vagas|Natal, Tirol | |2
+197|Apartamento para venda tem 85 metros quadrados com 3 quartos em Candelária - Natal - RN|R$ 480.000|3 quartos|85m²|R$ 580|2 vagas|Natal, Candelária | |2
+198|Apartamento para venda possui 103 metros quadrados com 3 quartos em Petrópolis - Natal - R|R$ 599.000|3 quartos|103m²|R$ 0|2 vagas|Natal, Petrópolis | |2
+199|Apartamento para venda com 56 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 520.000|2 quartos|56m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+200|Apartamento para venda com 95 metros quadrados com 2 quartos em Lagoa Nova - Natal - RN|R$ 630.000|2 quartos|95m²|R$ 700|2 vagas|Natal, Lagoa Nova | |2
+201| | | | | | | | | 
+202|Apartamento para venda com 100 metros quadrados com 3 quartos em Ponta Negra - Natal - RN|R$ 750.000|3 quartos|100m²|R$ 0|2 vagas|Natal, Ponta Negra | |2
+203|Apartamento para venda tem 194 metros quadrados com 4 quartos em Ribeira - Natal - RN|R$ 430.000|4 quartos|194m²|R$ 800|1 vaga|Natal, Ribeira | |1
+204|Apartamento para venda possui 332 metros quadrados com 4 quartos em Petrópolis - Natal - R|R$ 430.000|4 quartos|332m²|R$ 1.500|2 vagas|Natal, Petrópolis | |2
+205|Apartamento para venda tem 55 metros quadrados com 2 quartos em Planalto - Natal - RN|R$ 100.000|2 quartos|55m²|R$ 356|1 vaga|Natal, Planalto | |1
+206|Apartamento para venda possui 52 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 270.000|1 quarto|52m²|R$ 578|1 vaga|Natal, Ponta Negra | |1
+207|Apartamento para venda possui 50 metros quadrados com 2 quartos em Ponta Negra - Natal - R|R$ 319.000|2 quartos|50m²|R$ 250|1 vaga|Natal, Ponta Negra | |1
+208|Apartamento para venda possui 95 metros com 3 quartos SENDO 1 SUÍTE em Candelária - Natal|R$ 218.900|3 quartos|95m²|R$ 500|1 vaga|Natal, Candelária | |1
+209|Apartamento para venda com 103 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 560.000|3 quartos|103m²|R$ 800|2 vagas|Natal, Tirol | |2
+210|Apartamento para venda tem 190 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 590.000|3 quartos|190m²|R$ 1.400|2 vagas|Natal, Lagoa Nova | |2
+211| | | | | | | | | 
+212|Apartamento para venda possui 103 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 560.000|3 quartos|103m²|R$ 0|2 vagas|Natal, Tirol | |2
+213|Apartamento para venda possui 164 metros quadrados com 4 quartos em Petrópolis - Natal - R|R$ 1.980.000|4 quartos|164m²|R$ 0|4 vagas|Natal, Petrópolis | |4
+214|Apartamento para venda tem 88 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 675.000|3 quartos|88m²|R$ 0|2 vagas|Natal, Tirol | |2
+215| | | | | | | | | 
+216|Apartamento para venda Crystal Green, 369m², com 5 quartos em Lagoa Nova - Natal - RN|R$ 2.400.000|5 ou mais quartos|369m²|R$ 1.300|4 vagas|Natal, Lagoa Nova | |4
+217|Lindo Apartamento para venda no condomínio lacqua, 3 quartos sendo um suíte, natal - rn|R$ 450.000|3 quartos|92m²|R$ 513|2 vagas|Natal, Neópolis | |2
+218|Apartamento para venda com 55 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 390.000|2 quartos|55m²|R$ 600|1 vaga|Natal, Ponta Negra | |1
+219|Apartamento para venda tem 57 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 270.000|2 quartos|57m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+220|Apartamento para venda com 81 metros quadrados com 3 quartos em Neópolis - Natal - RN|R$ 180.000|3 quartos|81m²|R$ 140|1 vaga|Natal, Neópolis | |1
+221|Apartamento para venda possui 85 m² com 2 qtos em Nova Descoberta - Natal - RN|R$ 385.000|2 quartos|85m²|R$ 640|2 vagas|Natal, Nova Descoberta | |2
+222|Apartamento para venda possui 59 metros quadrados com 3 quartos em Planalto - Natal - RN|R$ 122.000|3 quartos|59m²|R$ 200|1 vaga|Natal, Planalto | |1
+223|Apartamento para venda tem 32 metros quadrados com 1 quarto em Pitimbu - Natal - RN|R$ 150.000|1 quarto|32m²|R$ 0|1 vaga|Natal, Pitimbu | |1
+224|Apartamento para venda Parque Cidade Jardim, 76m², com 3 quartos em Capim Macio - Natal - |R$ 450.000|3 quartos|76m²|R$ 400|1 vaga|Natal, Capim Macio | |1
+225|Apartamento para venda possui 118 metros quadrados com 3 quartos em Petrópolis - Natal - R|R$ 665.000|3 quartos|118m²|R$ 1.000|2 vagas|Natal, Petrópolis | |2
+226|Apartamento para venda tem 97 metros quadrados com 2 quartos em Candelária - Natal - RN|R$ 165.000|2 quartos|97m²|R$ 0|5 ou mais vagas|Natal, Candelária | |5 ou mais
+227| | | | | | | | | 
+228|Apartamento para venda tem 98 metros quadrados com 3 quartos em Petrópolis - Natal - RN|R$ 285.000|3 quartos|98m²|R$ 0|2 vagas|Natal, Petrópolis | |2
+229|Apartamento para venda possui 85 metros quadrados com 3 quartos em Capim Macio - Natal - R|R$ 655.000|3 quartos|85m²|R$ 600|2 vagas|Natal, Capim Macio | |2
+230|Apartamento para venda tem 55 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 125.000|2 quartos|55m²|R$ 140|1 vaga|Natal, Ponta Negra | |1
+231|Apartamento para venda tem 90 metros quadrados com 2 quartos em Praia do Meio - Natal - RN|R$ 80.000|2 quartos|90m²|R$ 580|1 vaga|Natal, Praia do Meio | |1
+232| | | | | | | | | 
+233|Apartamento para venda tem 270 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 1.200.000|4 quartos|270m²|R$ 1.800|3 vagas|Natal, Tirol | |3
+234|Apartamento para venda possui 75 metros quadrados com 2 quartos em Lagoa Nova - Natal - RN|R$ 320.000|2 quartos|75m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+235|Apartamento para venda com 150 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 980.000|4 quartos|150m²|R$ 958| |Natal, Tirol | |Churrasqueira, Academia, Ar condicionado, Piscina, Varanda
+236|Apartamento para venda tem 52 metros quadrados com 1 quarto em Tirol - Natal - RN|R$ 178.999|1 quarto|52m²|R$ 520|1 vaga|Natal, Tirol | |1
+237|Apartamento para venda tem 100 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 500.000|3 quartos|100m²|R$ 790|2 vagas|Natal, Tirol | |2
+238|Apartamento para venda com 57 metros quadrados com 2 quartos em Capim Macio - Natal - RN|R$ 349.000|2 quartos|57m²|R$ 0|1 vaga|Natal, Capim Macio | |1
+239|Apartamento Residencial para venda e locação, Ponta Negra, Natal - AP0005.|R$ 450.000|2 quartos|56m²|R$ 0| |Natal, Ponta Negra | |Condomínio fechado
+240|Apartamento para venda tem 50 metros quadrados com 2 quartos em Capim Macio - Natal - RN|R$ 285.000|2 quartos|50m²|R$ 60.012|1 vaga|Natal, Capim Macio | |1
+241|Apartamento para venda possui 60 metros quadrados com 1 quarto em Lagoa Nova - Natal - RN|R$ 150.000|1 quarto|60m²|R$ 430|1 vaga|Natal, Lagoa Nova | |1
+242| | | | | | | | | 
+243|Apartamento para venda tem 120 metros quadrados com 3 quartos em Petrópolis - Natal - RN|R$ 700.000|3 quartos|120m²|R$ 1.000|3 vagas|Natal, Petrópolis | |3
+244|Apartamento para venda tem 191 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 750.000|4 quartos|191m²|R$ 1.376|2 vagas|Natal, Tirol | |2
+245|Apartamento para venda com 119 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 800.000|3 quartos|119m²|R$ 600|2 vagas|Natal, Lagoa Nova | |2
+246|Apartamento 2 Suítes Para Venda No Comfort Hotel Suítes Natal - Ponta Negra|R$ 319.000|2 quartos|52m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+247|Apartamento para venda tem 50 metros quadrados com 2 quartos em Capim Macio - Natal - RN|R$ 285.000|2 quartos|50m²|R$ 60.012|1 vaga|Natal, Capim Macio | |1
+248|Apartamento para venda -Barro Vermelho - Natal - RN|R$ 340.000|3 quartos|101m²|R$ 0|2 vagas|Natal, Barro Vermelho | |2
+249|Apartamento para venda Jardim Satélite, 50m², com 2 quartos em Cidade Satélite - Natal - R|R$ 100.000|2 quartos|50m²|R$ 250|1 vaga|Natal, Pitimbu | |1
+250| | | | | | | | | 
+251|Apartamento para venda tem 64 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 400.000|2 quartos|64m²|R$ 650|1 vaga|Natal, Ponta Negra | |1
+252|Apartamento para venda com 230 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 680.000|4 quartos|230m²|R$ 1.100|3 vagas|Natal, Tirol | |3
+253|Apartamento para venda com 56 metros quadrados com 2 quartos em Tirol - Natal - RN|R$ 380.000|2 quartos|56m²|R$ 360|1 vaga|Natal, Tirol | |1
+254|Apartamento para venda tem 98 metros quadrados com 2 quartos em Candelária - Natal - RN|R$ 670.000|2 quartos|98m²|R$ 450|2 vagas|Natal, Candelária | |2
+255|Apartamento para venda com 78 metros quadrados em Tirol - Natal - RN|R$ 170.000|3 quartos|78m²|R$ 560|1 vaga|Natal, Tirol | |1
+256|Apartamento para venda tem 98 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 430.000|3 quartos|98m²|R$ 1.500|2 vagas|Natal, Tirol | |2
+257|Apartamento para venda tem 79 metros quadrados com 3 quartos em Ponta Negra - Natal - RN|R$ 630.000|3 quartos|79m²|R$ 520|2 vagas|Natal, Ponta Negra | |2
+258|Apartamento para venda possui 101 metros quadrados com 2 quartos em Lagoa Nova - Natal - R|R$ 310.000|2 quartos|101m²|R$ 1.000|1 vaga|Natal, Lagoa Nova | |1
+259|Apartamento para venda com 49 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 185.000|2 quartos|49m²|R$ 200|1 vaga|Natal, Ponta Negra | |1
+260|Apartamento para venda tem 160 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 900.000|3 quartos|160m²|R$ 1.100|3 vagas|Natal, Lagoa Nova | |3
+261|Apartamento para venda com 45 m² e 2 quartos em Ponta Negra - Natal - RN|R$ 170.000|2 quartos|45m²|R$ 270|1 vaga|Natal, Ponta Negra | |1
+262|Apartamento para venda tem 222 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 2.200.000|4 quartos|222m²|R$ 0| |Natal, Tirol | |Churrasqueira, Piscina, Academia
+263|Apartamento para venda tem 85 metros quadrados com 3 quartos em Capim Macio - Natal - RN|R$ 650.000|3 quartos|85m²|R$ 650|2 vagas|Natal, Capim Macio | |2
+264|Apartamento para venda possui 96m² com 3 quartos em Ponta Negra /Natal - RN.|R$ 395.000|3 quartos|96m²|R$ 775|2 vagas|Natal, Ponta Negra | |2
+265|Apartamento para venda com 136 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 810.000|3 quartos|136m²|R$ 1.100|2 vagas|Natal, Tirol | |2
+266|Apartamento para venda tem 173 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 280.000|3 quartos|173m²|R$ 1.000|1 vaga|Natal, Tirol | |1
+267|Apartamento para venda com 108 metros quadrados com 4 quartos em Capim Macio - Natal - RN|R$ 700.000|4 quartos|108m²|R$ 590|2 vagas|Natal, Capim Macio | |2
+268| | | | | | | | | 
+269|Apartamento para venda tem 60m² com 2/4 em Cidade Alta - Natal - RN|R$ 150.000|2 quartos|60m²|R$ 380|1 vaga|Natal, Cidade Alta | |1
+270|Apartamento para venda Lual de Ponta Negra, 131m², 4 quartos em Ponta Negra - Natal - RN|R$ 675.000|4 quartos|131m²|R$ 600|1 vaga|Natal, Ponta Negra | |1
+271|Apartamento para venda possui 73 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 265.000|3 quartos|72m²|R$ 660|1 vaga|Natal, Tirol | |1
+272|Apartamento para venda tem 137 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 950.000|3 quartos|137m²|R$ 1.100|2 vagas|Natal, Tirol | |2
+273|Apartamento para venda possui 55 metros quadrados com 2 quartos em Tirol - Natal - RN|R$ 300.000|2 quartos|55m²|R$ 600|1 vaga|Natal, Tirol | |1
+274|Apartamento para venda tem 137 metros quadrados com 3 quartos em Praia do Meio - Natal - R|R$ 170.000|3 quartos|137m²|R$ 600| |Natal, Praia do Meio | |Condomínio fechado
+275|Apartamento para venda com 165 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 1.450.000|3 quartos|165m²|R$ 980|3 vagas|Natal, Lagoa Nova | |3
+276| | | | | | | | | 
+277|Apartamento para venda com 165 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 1.450.000|3 quartos|165m²|R$ 980|3 vagas|Natal, Lagoa Nova | |3
+278|Apartamento  para venda Ponta Negra - Natal - RN, 3 quartos , 1 suíte.|R$ 370.000|3 quartos|98m²|R$ 490|2 vagas|Natal, Ponta Negra | |2
+279|Apartamento para venda com 108 metros quadrados com 3 quartos em Capim Macio - Natal - RN|R$ 650.000|3 quartos|108m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+280|Apartamento para venda Parque Cidade Jardim, 76m², com 3 quartos em Capim Macio - Natal - |R$ 520.000|3 quartos|76m²|R$ 400|1 vaga|Natal, Capim Macio | |1
+281|Apartamento para venda possui 98 metros quadrados com 3 quartos em Capim Macio - Natal - R|R$ 470.000|3 quartos|98m²|R$ 957|3 vagas|Natal, Capim Macio | |3
+282|Apartamento para venda com 79 metros quadrados com 3 quartos em Ponta Negra - Natal - RN|R$ 430.000|3 quartos|79m²|R$ 450|2 vagas|Natal, Ponta Negra | |2
+283|Apartamento para venda tem 163 metros quadrados com 3 quartos em Capim Macio - Natal - RN|R$ 716.118|3 quartos|163m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+284|Apartamento para venda com 73 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 490.000|3 quartos|73m²|R$ 540|2 vagas|Natal, Lagoa Nova | |2
+285|Apartamento para venda com 138 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 950.000|3 quartos|138m²|R$ 1.100|2 vagas|Natal, Tirol | |2
+286|Apartamento para venda possui 84 metros quadrados com 3 quartos em Capim Macio - Natal - R|R$ 210.000|3 quartos|84m²|R$ 0|1 vaga|Natal, Capim Macio | |1
+287|Apartamento para venda Reserva da Lagoa tem 75m²  com 3 quartos em Dix-Sept Rosado - Natal|R$ 470.000|3 quartos|75m²|R$ 0|2 vagas|Natal, Dix-Sept Rosado | |2
+288| | | | | | | | | 
+289|Apartamento para venda possui 220 metros quadrados com 4 quartos em Petrópolis - Natal - R|R$ 900.000|4 quartos|220m²|R$ 1.850|2 vagas|Natal, Petrópolis | |2
+290|Apartamento para venda com 136 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 1.300.000|3 quartos|136m²|R$ 850|3 vagas|Natal, Lagoa Nova | |3
+291|Apartamento para venda possui 113 metros quadrados com 3 quartos em Lagoa Nova - Natal - R|R$ 645.000|3 quartos|113m²|R$ 920|2 vagas|Natal, Lagoa Nova | |2
+292|Apartamento para venda possui 50 metros quadrados com 2 quartos em Pitimbu - Natal - RN|R$ 210.000|2 quartos|50m²|R$ 259|1 vaga|Natal, Pitimbu | |1
+293|Apartamento para venda Versailles, 135m², com 4 quartos em Lagoa Nova - Natal - RN|R$ 370.000|4 quartos|135m²|R$ 870|2 vagas|Natal, Lagoa Nova | |2
+294|Apartamento para venda possui 95 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 270.000|3 quartos|95m²|R$ 1.100|2 vagas|Natal, Lagoa Nova | |2
+295|Apartamento para venda com 141 metros quadrados com 3 quartos em Capim Macio - Natal - RN|R$ 895.000|3 quartos|141m²|R$ 550|2 vagas|Natal, Capim Macio | |2
+296|Apartamento para venda possui 40 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 450.000|1 quarto|40m²|R$ 1.080|1 vaga|Natal, Ponta Negra | |1
+297|Apartamento para venda possui 50 metros quadrados com 2 quartos em Ponta Negra - Natal - R|R$ 270.000|2 quartos|50m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+298|Apartamento para venda com 86 metros quadrados com 2 quartos em Lagoa Nova - Natal - RN|R$ 550.000|2 quartos|86m²|R$ 723|2 vagas|Natal, Lagoa Nova | |2
+299|Apartamento para venda com 86 metros quadrados com 2 quartos em Lagoa Nova - Natal - RN|R$ 550.000|2 quartos|86m²|R$ 723|2 vagas|Natal, Lagoa Nova | |2
+300|Apartamento para venda tem 134 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 890.000|3 quartos|134m²|R$ 750|3 vagas|Natal, Lagoa Nova | |3
+301|Apartamento para venda possui 160 metros quadrados com 4 quartos em Lagoa Nova - Natal - R|R$ 1.100.000|4 quartos|160m²|R$ 650|3 vagas|Natal, Lagoa Nova | |3
+302| | | | | | | | | 
+303|Apartamento para venda com 5m²  com 2/4, 2 vagas em Capim Macio - Natal - RN|R$ 400.000|2 quartos|59m²|R$ 620|2 vagas|Natal, Capim Macio | |2
+304|Apartamento para venda tem 140m² com 3 quartos em Barro Vermelho - Natal - RN|R$ 480.000|3 quartos|140m²|R$ 0|2 vagas|Natal, Barro Vermelho | |2
+305|Apartamento para venda com 56 metros quadrados com 2 quartos em Petrópolis - Natal - RN|R$ 240.000|2 quartos|56m²|R$ 0|1 vaga|Natal, Petrópolis | |1
+306|Apartamento para venda tem 55 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 630.001|3 quartos|117m²|R$ 0|2 vagas|Natal, Ponta Negra | |2
+307|Apartamento para venda com 57 metros quadrados com 2 quartos em Lagoa Nova - Natal - RN|R$ 170.000|2 quartos|57m²|R$ 550|1 vaga|Natal, Lagoa Nova | |1
+308| | | | | | | | | 
+309|Apartamento para venda com 480 metros quadrados com 4 quartos em Petrópolis - Natal - RN|R$ 5.000.000|4 quartos|480m²|R$ 2.500|4 vagas|Natal, Petrópolis | |4
+310|Apartamento para venda tem 45 metros quadrados com 2 quartos em Areia Preta - Natal - RN|R$ 270.000|2 quartos|45m²|R$ 1.030|1 vaga|Natal, Areia Preta | |1
+311|Apartamento para venda com 160 metros quadrados com 4 quartos em Lagoa Nova - Natal - RN|R$ 1.090.000|4 quartos|160m²|R$ 650|3 vagas|Natal, Lagoa Nova | |3
+312|Apartamento para venda possui 89 metros quadrados com 1 quarto em Cidade Alta - Natal - RN|R$ 350.000|1 quarto|89m²|R$ 0|2 vagas|Natal, Cidade Alta | |2
+313|Apartamento para venda tem 56 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 170.000|2 quartos|56m²|R$ 250|1 vaga|Natal, Ponta Negra | |1
+314|Apartamento para venda com 90 metros quadrados com 2 quartos em Capim Macio - Natal - RN|R$ 250.000|2 quartos|90m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+315|Apartamento para venda possui 42 metros quadrados com 2 quartos em Pajuçara - Natal - RN|R$ 179.490|2 quartos|42m²|R$ 0|1 vaga|Natal, Pajuçara | |1
+316|Apartamento para venda com 56 metros quadrados com 2 quartos em Capim Macio - Natal - RN|R$ 150.000|2 quartos|56m²|R$ 0| |Natal, Capim Macio | |Piscina, Varanda
+317|Apartamento para venda possui 141 metros quadrados com 3 quartos em Capim Macio - Natal - |R$ 780.000|3 quartos|141m²|R$ 3.864|2 vagas|Natal, Capim Macio | |2
+318|Apartamento para venda possui 42 metros quadrados com 2 quartos em Pajuçara - Natal - RN|R$ 177.490|2 quartos|42m²|R$ 0|1 vaga|Natal, Pajuçara | |1
+319|Apartamento para venda tem 240 metros quadrados com 4 quartos em Petrópolis - Natal - RN|R$ 620.000|4 quartos|240m²|R$ 1.700|2 vagas|Natal, Tirol | |2
+320| | | | | | | | | 
+321|Apartamento para venda, tem 57 m² e 2 quartos em Neópolis - Natal - RN|R$ 270.000|2 quartos|57m²|R$ 0|1 vaga|Natal, Neópolis | |1
+322|Apartamento para venda possui 160 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 560.000|3 quartos|160m²|R$ 0|2 vagas|Natal, Tirol | |2
+323|Apartamento para venda possui 52 metros quadrados com 2 quartos em Ponta Negra - Natal - R|R$ 299.000|2 quartos|52m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+324|Apartamento para venda em Tirol - Francisco Cabral - Natal - RN - 88m 3/4 sendo um suite|R$ 650.000|3 quartos|88m²|R$ 0|2 vagas|Natal, Tirol | |2
+325| | | | | | | | | 
+326|Apartamento para venda com 160 metros quadrados com 4 quartos em Lagoa Nova - Natal - RN|R$ 1.090.000|4 quartos|160m²|R$ 650|3 vagas|Natal, Lagoa Nova | |3
+327|Apartamento para venda possui com 2 quartos em Pitimbu - Natal - RN|R$ 195.000|2 quartos|49m²|R$ 295|1 vaga|Natal, Pitimbu | |1
+328|Apartamento para venda com 78 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 180.000|3 quartos|78m²|R$ 350|1 vaga|Natal, Tirol | |1
+329|Apartamento para venda tem 57 metros quadrados com 2 quartos em Lagoa Nova - Natal - RN|R$ 488.000|2 quartos|57m²|R$ 400|1 vaga|Natal, Lagoa Nova | |1
+330|Apartamento para venda com 84 metros quadrados com 2 quartos em Tirol - Natal - RN|R$ 160.000|2 quartos|84m²|R$ 550|1 vaga|Natal, Tirol | |1
+331|Apartamento para venda com 100 metros quadrados com 3 quartos em Candelária - Natal - RN|R$ 350.000|3 quartos|100m²|R$ 580|3 vagas|Natal, Candelária | |3
+332|Apartamento para venda tem 57 metros quadrados com 2 quartos em Tirol - Natal - RN|R$ 300.000|2 quartos|57m²|R$ 420|1 vaga|Natal, Tirol | |1
+333|Apartamento para venda tem 123 metros quadrados com 3 quartos em Candelária - Natal - RN|R$ 620.000|3 quartos|123m²|R$ 550|2 vagas|Natal, Candelária | |2
+334|Apartamento para venda possui 90 metros quadrados com 3 quartos em Barro Vermelho - Natal |R$ 580.000|3 quartos|90m²|R$ 0|1 vaga|Natal, Barro Vermelho | |1
+335| | | | | | | | | 
+336|Apartamento para venda com 71 metros quadrados com 3 quartos em Areia Preta - Natal - RN|R$ 250.000|3 quartos|71m²|R$ 915|2 vagas|Natal, Areia Preta | |2
+337|Apartamento para venda com 123 metros quadrados com 3 quartos em Barro Vermelho - Natal - |R$ 645.000|3 quartos|123m²|R$ 870|2 vagas|Natal, Barro Vermelho | |2
+338|Apartamento para venda com 233 metros quadrados com 6 quartos em Barro Vermelho - Natal - |R$ 900.000|5 ou mais quartos|233m²|R$ 1.750|3 vagas|Natal, Barro Vermelho | |3
+339|Apartamento para venda com 235 m² com 4 qtos em Tirol - Natal - RN|R$ 900.000|4 quartos|235m²|R$ 1.350|4 vagas|Natal, Tirol | |4
+340|Apartamento para venda com 56 metros quadrados com 2 quartos em Tirol - Natal -|R$ 300.000|2 quartos|56m²|R$ 450|1 vaga|Natal, Tirol | |1
+341| | | | | | | | | 
+342|Apartamento para venda com 95 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 39.000|3 quartos|95m²|R$ 0|2 vagas|Natal, Tirol | |2
+343|Apartamento para venda tem 208 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 2.100.000|4 quartos|208m²|R$ 1.260|3 vagas|Natal, Tirol | |3
+344|Apartamento para venda possui 56 metros quadrados com 2 quartos em Pitimbu - Natal - RN|R$ 260.000|2 quartos|56m²|R$ 380|1 vaga|Natal, Pitimbu | |1
+345| | | | | | | | | 
+346|Apartamento para venda com 335 metros quadrados com 3 quartos em Petrópolis - Natal - RN|R$ 2.590.000|3 quartos|335m²|R$ 3.000|3 vagas|Natal, Tirol | |3
+347|Apartamento para venda com 56 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 175.000|2 quartos|56m²|R$ 450|1 vaga|Natal, Ponta Negra | |1
+348|Apartamento para venda com 60 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 415.500|1 quarto|60m²|R$ 430|1 vaga|Natal, Ponta Negra | |1
+349|Apartamento para venda Serrambi III, 75m², com 2 quartos em Neópolis - Natal - RN|R$ 140.000|2 quartos|75m²|R$ 226|1 vaga|Natal, Capim Macio | |1
+350| | | | | | | | | 
+351|Apartamento para venda possui 103 metros quadrados com 3 quartos em Lagoa Nova - Natal - R|R$ 560.000|3 quartos|103m²|R$ 690|2 vagas|Natal, Lagoa Nova | |2
+352|Apartamento para venda Parque dos Rios, 67m², com 2 quartos em Neópolis - Natal - RN|R$ 110.000|2 quartos|67m²|R$ 100|1 vaga|Natal, Capim Macio | |1
+353|Apartamento para venda Serrambi I, 65m², com 2 quartos em Neópolis - Natal - RN|R$ 115.000|2 quartos|65m²|R$ 100|1 vaga|Natal, Ponta Negra | |1
+354|Apartamento para venda com 150 metros quadrados com 3 quartos em Pajuçara - Natal - RN|R$ 350.000|3 quartos|150m²|R$ 1.140|2 vagas|Natal, Pajuçara | |2
+355|Apartamento para venda Sun Golden, 55m², com 2 quartos em Neópolis - Natal - RN|R$ 230.000|2 quartos|55m²|R$ 400|1 vaga|Natal, Ponta Negra | |1
+356| | | | | | | | | 
+357|Apartamento para venda Poetas, 64m², com 2 quartos em Ponta Negra - Natal - RN|R$ 372.000|2 quartos|64m²|R$ 650|1 vaga|Natal, Ponta Negra | |1
+358|Apartamento para venda Paul Cezanne, 99m², com 3 quartos em Neópolis - Natal - RN|R$ 530.000|3 quartos|99m²|R$ 635|2 vagas|Natal, Capim Macio | |2
+359|Apartamento para venda Porto Tropical, 56m², com 2 quartos em Ponta Negra - Natal - RN|R$ 250.000|2 quartos|56m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+360|Apartamento para venda Portamaris, 80m², com 3 quartos em Ponta Negra - Natal - RN|R$ 500.000|3 quartos|80m²|R$ 422|2 vagas|Natal, Ponta Negra | |2
+361|Apartamento para venda possui 132 metros quadrados com 4 quartos em Ponta Negra - Natal - |R$ 680.000|4 quartos|132m²|R$ 600|2 vagas|Natal, Ponta Negra | |2
+362|Apartamento para venda possui 76 metros quadrados com 3 quartos em Dix-Sept Rosado - Natal|R$ 350.000|3 quartos|76m²|R$ 0|2 vagas|Natal, Dix-Sept Rosado | |2
+363| | | | | | | | | 
+364|Apartamento para venda Mediterranê, 148m², com 3 quartos em Capim Macio - Natal - RN|R$ 600.000|3 quartos|148m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+365|Apartamento para venda Terra Mater, 90m², com 3 quartos em Lagoa Nova - Natal - RN|R$ 350.000|3 quartos|90m²|R$ 520|2 vagas|Natal, Alecrim | |2
+366|Apartamento para venda Solar Mares, 282m², com 4 quartos em Ponta Negra - Natal - RN|R$ 900.000|4 quartos|282m²|R$ 1.400|4 vagas|Natal, Ponta Negra | |4
+367|Apartamento para venda com 80 metros quadrados com 2 quartos em Lagoa Nova - Natal - RN|R$ 134.000|2 quartos|80m²|R$ 330|2 vagas|Natal, Lagoa Nova | |2
+368|Apartamento 2/4 Suíte, Varanda Para Venda No Condomínio Estrela de Natal|R$ 223.000|2 quartos|56m²|R$ 0|1 vaga|Natal, Pitimbu | |1
+369|Apartamento 3/4  89m² Para Venda com Localização privilegiada, entre o Natal Shopping e o |R$ 199.990|3 quartos|89m²|R$ 0|1 vaga|Natal, Candelária | |1
+370|Apartamento para venda possui 235 metros quadrados com 5 quartos em Lagoa Nova - Natal - R|R$ 850.000|5 ou mais quartos|235m²|R$ 1.900|3 vagas|Natal, Lagoa Nova | |3
+371|Apartamento para venda com 220 metros quadrados com 4 quartos em Barro Vermelho - Natal - |R$ 700.000|4 quartos|220m²|R$ 960|2 vagas|Natal, Barro Vermelho | |2
+372|Apartamento para venda possui 138 metros quadrados com 3 quartos em Lagoa Nova - Natal - R|R$ 890.000|3 quartos|138m²|R$ 630|2 vagas|Natal, Lagoa Nova | |2
+373|Apartamento para venda com 120 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 280.000|3 quartos|120m²|R$ 0|2 vagas|Natal, Tirol | |2
+374|Apartamento para venda com 280 metros quadrados com 3 quartos em Areia Preta - Natal - RN|R$ 1.900.000|3 quartos|280m²|R$ 2.900|3 vagas|Natal, Areia Preta | |3
+375|Apartamento para venda tem 55 metros quadrados com 2 quartos em Capim Macio - Natal - RN|R$ 350.000|2 quartos|55m²|R$ 344|2 vagas|Natal, Capim Macio | |2
+376|Apartamento para venda tem 108 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 628.834|3 quartos|108m²|R$ 800|2 vagas|Natal, Tirol | |2
+377|Apartamento para venda com 109 metros quadrados com 3 quartos em Capim Macio - Natal - RN|R$ 650.000|3 quartos|109m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+378|Apartamento para venda tem 96 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 410.000|3 quartos|96m²|R$ 789|2 vagas|Natal, Tirol | |2
+379|Apartamento para venda Serra do Cabugi, 65m², 2 quartos em Capim Macio - Natal|R$ 170.000|2 quartos|65m²|R$ 345|1 vaga|Natal, Capim Macio | |1
+380|Apartamento para venda em Capim Macio - Natal - RN - Paradise Village|R$ 350.000|2 quartos|55m²|R$ 421|2 vagas|Natal, Capim Macio | |2
+381|Apartamento para venda em Ponta Negra - Natal - RN - Studio da Praia - 2/4 um suite|R$ 250.000|2 quartos|53m²|R$ 400|1 vaga|Natal, Ponta Negra | |1
+382|Apartamento para venda possui 130 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 300.000|3 quartos|130m²|R$ 978|1 vaga|Natal, Tirol | |1
+383|Apartamento para venda com 74m² com 2 quartos em Lagoa Nova - Natal - RN|R$ 170.000|2 quartos|74m²|R$ 380|2 vagas|Natal, Lagoa Nova | |2
+384| | | | | | | | | 
+385|Apartamento para venda com 60 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 320.000|2 quartos|60m²|R$ 670|1 vaga|Natal, Ponta Negra | |1
+386|Apartamento para venda tem aproximadamente  250 m2,com 4 quartos em Areia Preta - Natal - |R$ 2.800.000|4 quartos|250m²|R$ 0|4 vagas|Natal, Areia Preta | |4
+387|Apartamento para venda Pallazo de Lacqua,220m², com 4 quartos em Lagoa Nova - Natal - RN|R$ 850.000|4 quartos|220m²|R$ 1.200|3 vagas|Natal, Nova Descoberta | |3
+388|Apartamento para venda tem 250 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 1.000.000|4 quartos|250m²|R$ 1.800|4 vagas|Natal, Tirol | |4
+389|Apartamento para venda possui 83 metros quadrados com 3 quartos em Candelária - Natal - RN|R$ 250.000|3 quartos|83m²|R$ 955|2 vagas|Natal, Candelária | |2
+390|Apartamento para venda tem 240 metros quadrados em Tirol - Natal - RN|R$ 1.500.000|4 quartos|240m²|R$ 2.000|3 vagas|Natal, Tirol | |3
+391|Apartamento para venda com 70 metros quadrados com 3 quartos em Capim Macio - Natal - RN|R$ 210.000|3 quartos|75m²|R$ 350|1 vaga|Natal, Capim Macio | |1
+392|Apartamento para venda possui 180 metros quadrados com 4 quartos em Lagoa Nova - Natal - R|R$ 1.350.000|4 quartos|180m²|R$ 0|3 vagas|Natal, Lagoa Nova | |3
+393|Apartamento para venda possui 96 metros quadrados com 3 quartos em Capim Macio - Natal - R|R$ 495.000|3 quartos|96m²|R$ 675|2 vagas|Natal, Capim Macio | |2
+394|Apartamento para venda com 98 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 850.000|3 quartos|98m²|R$ 475|2 vagas|Natal, Tirol | |2
+395| | | | | | | | | 
+396|Apartamento para venda possui 140 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 1.315.000|3 quartos|140m²|R$ 0|3 vagas|Natal, Tirol | |3
+397|Apartamento para venda possui 98 metros quadrados com 3 quartos em Candelária - Natal - RN|R$ 480.000|3 quartos|98m²|R$ 550|2 vagas|Natal, Candelária | |2
+398|Apartamento para venda possui 110 metros quadrados com 3 quartos em Lagoa Nova - Natal - R|R$ 450.000|3 quartos|110m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+399|Apartamento para venda possui 80 metros quadrados com 3 quartos em Candelária - Natal - RN|R$ 320.000|3 quartos|80m²|R$ 380|2 vagas|Natal, Candelária | |2
+400|Apartamento para venda possui 208 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 2.200.000|3 quartos|208m²|R$ 1.350|4 vagas|Natal, Tirol | |4
+401| | | | | | | | | 
+402|Apartamento para venda com 64m²  com 2/4 , 2 vagas em Neópolis - Natal - RN|R$ 350.000|2 quartos|64m²|R$ 385|2 vagas|Natal, Neópolis | |2
+403|Apartamento para venda tem 51 metros quadrados com 2 quartos em Pitimbu - Natal - RN|R$ 190.000|2 quartos|51m²|R$ 300|1 vaga|Natal, Pitimbu | |1
+404|Apartamento para venda possui 108 metros quadrados com 3 quartos em Lagoa Nova - Natal - R|R$ 635.000|3 quartos|108m²|R$ 635|2 vagas|Natal, Lagoa Nova | |2
+405|Apartamento para venda Serrambi II, 57m², com 2 quartos em Neópolis - Natal - RN|R$ 137.500|2 quartos|57m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+406|Apartamento para venda tem 57 metros quadrados com 2 quartos em Tirol - Natal - RN|R$ 290.000|2 quartos|57m²|R$ 370|1 vaga|Natal, Tirol | |1
+407|Apartamento para venda com 101 metros quadrados com 3 quartos em Ponta Negra - Natal - RN|R$ 690.000|3 quartos|101m²|R$ 550|2 vagas|Natal, Ponta Negra | |2
+408|Apartamento para venda com 290 metros quadrados com 3 quartos em Barro Vermelho - Natal - |R$ 615.000|3 quartos|290m²|R$ 1.350|2 vagas|Natal, Barro Vermelho | |2
+409|Apartamento para venda tem 96 metros quadrados com 3 quartos em Candelária - Natal - RN|R$ 550.000|3 quartos|96m²|R$ 549|2 vagas|Natal, Candelária | |2
+410|Apartamento para venda com 56 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 240.000|2 quartos|56m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+411|Apartamento para venda com 127 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 820.000|3 quartos|127m²|R$ 700|3 vagas|Natal, Lagoa Nova | |3
+412|Apartamento para venda com 50m² com 2 quartos em Lagoa Nova - Natal - RN|R$ 170.000|2 quartos|50m²|R$ 490|1 vaga|Natal, Lagoa Nova | |1
+413| | | | | | | | | 
+414|Apartamento para venda tem 58 metros quadrados com 2 quartos em Lagoa Nova - Natal - RN|R$ 385.000|2 quartos|58m²|R$ 550|2 vagas|Natal, Lagoa Nova | |2
+415|Apartamento para venda tem 88 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 790.000|3 quartos|88m²|R$ 600|2 vagas|Natal, Tirol | |2
+416|Apartamento para venda tem 52 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 230.000|2 quartos|52m²|R$ 345|1 vaga|Natal, Ponta Negra | |1
+417|Apartamento para venda com 47 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 400.000|1 quarto|47m²|R$ 477|1 vaga|Natal, Ponta Negra | |1
+418|Apartamento para venda tem 54 metros quadrados com 2 quartos em Lagoa Nova - Natal - RN|R$ 317.000|2 quartos|54m²|R$ 0|1 vaga|Natal, Lagoa Nova | |1
+419|Apartamento para venda possui 90 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 400.000|3 quartos|90m²|R$ 900|2 vagas|Natal, Lagoa Nova | |2
+420|Apartamento para venda com 222 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 3.000.000|4 quartos|222m²|R$ 1.000|3 vagas|Natal, Tirol | |3
+421|Apartamento para venda tem 96 metros quadrados com 3 quartos em Lagoa Seca - Natal - RN|R$ 410.000|3 quartos|96m²|R$ 824|2 vagas|Natal, Lagoa Seca | |2
+422|Apartamento para venda possui 185 metros quadrados com 4 quartos em Barro Vermelho - Natal|R$ 300.000|4 quartos|185m²|R$ 995|1 vaga|Natal, Barro Vermelho | |1
+423|Apartamento para venda possui 185 metros quadrados com 4 quartos em Barro Vermelho - Natal|R$ 300.000|4 quartos|185m²|R$ 995|1 vaga|Natal, Barro Vermelho | |1
+424|Apartamento para venda possui 34 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 290.000|1 quarto|34m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+425|Apartamento para venda possui 56 m² com 2/4 em Lagoa Nova - Natal|R$ 135.000|2 quartos|56m²|R$ 0|1 vaga|Natal, Lagoa Nova | |1
+426|Apartamento para venda tem 98 metros quadrados com 3 quartos em Capim Macio - Natal - RN|R$ 380.000|3 quartos|98m²|R$ 1.300|2 vagas|Natal, Capim Macio | |2
+427|Apartamento para venda possui 98 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 815.000|3 quartos|98m²|R$ 470|2 vagas|Natal, Tirol | |2
+428|Apartamento para venda Villagio de Ponta Negra, 74m², com 2 quartos em Ponta Negra - Natal|R$ 155.000|2 quartos|74m²|R$ 350|1 vaga|Natal, Ponta Negra | |1
+429|Apartamento para venda Porto Arena, 56m², com 2 quartos em Candelária - Natal - RN|R$ 375.000|2 quartos|56m²|R$ 0|1 vaga|Natal, Candelária | |1
+430|Apartamento para venda Corais de Ponta Negra, 89m², com 3 quartos em Ponta Negra - Natal -|R$ 350.000|3 quartos|89m²|R$ 0|2 vagas|Natal, Ponta Negra | |2
+431| | | | | | | | | 
+432|Apartamento para venda Corais de Ponta Negra, 89m², com 3 quartos em Ponta Negra - Natal -|R$ 350.000|3 quartos|89m²|R$ 0|2 vagas|Natal, Ponta Negra | |2
+433|Apartamento para venda tem 160 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 400.000|3 quartos|160m²|R$ 900|2 vagas|Natal, Tirol | |2
+434|Apartamento para venda tem 100 metros quadrados com 3 quartos em Barro Vermelho - Natal - |R$ 460.000|3 quartos|100m²|R$ 870|2 vagas|Natal, Barro Vermelho | |2
+435|Apartamento para venda com 98 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 850.000|3 quartos|98m²|R$ 0|2 vagas|Natal, Tirol | |2
+436|Apartamento para venda com 236 metros quadrados com 3 quartos em Areia Preta - Natal - RN|R$ 1.900.000|3 quartos|236m²|R$ 2.400|4 vagas|Natal, Areia Preta | |4
+437|Apartamento para venda tem 136 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 835.000|3 quartos|136m²|R$ 1.100|2 vagas|Natal, Tirol | |2
+438|Apartamento para venda com 79 metros quadrados com 3 quartos em Ponta Negra - Natal - RN|R$ 730.000|3 quartos|79m²|R$ 650|2 vagas|Natal, Ponta Negra | |2
+439|Apartamento para venda com 57 metros quadrados com 2 quartos em Candelária - Natal - RN|R$ 310.000|2 quartos|57m²|R$ 400|1 vaga|Natal, Candelária | |1
+440|Apartamento para venda possui 89 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 315.000|3 quartos|89m²|R$ 583|2 vagas|Natal, Lagoa Nova | |2
+441|Apartamento para venda tem 160 metros quadrados com 2 quartos em Petrópolis - Natal - RN|R$ 580.000|2 quartos|160m²|R$ 1.000|1 vaga|Natal, Petrópolis | |1
+442|Apartamento para venda com 70 metros quadrados com 3 quartos em Cidade Alta - Natal - RN|R$ 130.000|3 quartos|70m²|R$ 0| |Natal, Cidade Alta | |Permitido animais, Condomínio fechado
+443|Apartamento para venda tem 96 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 400.000|3 quartos|96m²|R$ 1.000|2 vagas|Natal, Tirol | |2
+444|Apartamento para venda com 98 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 850.000|3 quartos|98m²|R$ 0|2 vagas|Natal, Tirol | |2
+445| | | | | | | | | 
+446|Apartamento para venda com 92 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 350.000|3 quartos|92m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+447|Apartamento para venda possui 57 metros quadrados com 2 quartos em Lagoa Nova - Natal - RN|R$ 265.000|2 quartos|57m²|R$ 430|1 vaga|Natal, Lagoa Nova | |1
+448|Apartamento para venda com 190 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 700.000|3 quartos|1901m²|R$ 0|2 vagas|Natal, Tirol | |2
+449|Apartamento para venda tem 100 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 710.000|3 quartos|100m²|R$ 0|2 vagas|Natal, Tirol | |2
+450| | | | | | | | | 
+451|Apartamento para venda com 296 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 1.000.000|4 quartos|296m²|R$ 1.800|4 vagas|Natal, Tirol | |4
+452|Apartamento para venda possui 79 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 185.000|3 quartos|79m²|R$ 260|1 vaga|Natal, Lagoa Nova | |1
+453|Apartamento para venda possui 100 metros quadrados com 3 quartos em Lagoa Nova - Natal - R|R$ 680.000|3 quartos|100m²|R$ 850|2 vagas|Natal, Lagoa Nova | |2
+454|Apartamento para venda possui 131 metros quadrados com 3 quartos em Lagoa Nova - Natal - R|R$ 750.000|3 quartos|131m²|R$ 1.100|2 vagas|Natal, Lagoa Nova | |2
+455| | | | | | | | | 
+456|Apartamento para venda possui 370 metros quadrados com 4 quartos em Ribeira - Natal - RN|R$ 1.997.000|4 quartos|370m²|R$ 2.875|4 vagas|Natal, Ribeira | |4
+457|Apartamento para venda possui 57 metros quadrados com 2 quartos em Tirol - Natal - RN|R$ 320.000|2 quartos|57m²|R$ 450|1 vaga|Natal, Tirol | |1
+458|Apartamento para venda com 71 metros quadrados com 3 quartos em Areia Preta - Natal - RN|R$ 250.000|3 quartos|71m²|R$ 915|2 vagas|Natal, Areia Preta | |2
+459|Apartamento para venda tem 58 metros quadrados com 2 quartos em Lagoa Nova - Natal - RN|R$ 370.000|2 quartos|58m²|R$ 480|2 vagas|Natal, Lagoa Nova | |2
+460|Apartamento MOBILIADO para VENDA com 2 quartos em Ponta Negra - Natal - RN|R$ 450.000|2 quartos|58m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+461|Apartamento para venda, 117m² com 4 quartos em Neópolis - Natal - RN|R$ 650.000|4 quartos|117m²|R$ 643|2 vagas|Natal, Neópolis | |2
+462|Apartamento para venda tem 198 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 600.000|4 quartos|198m²|R$ 0|3 vagas|Natal, Tirol | |3
+463|Apartamento para venda possui 225 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 2.200.000|4 quartos|225m²|R$ 0|4 vagas|Natal, Tirol | |4
+464| | | | | | | | | 
+465|Apartamento para venda com 53 metros quadrados com 2 quartos em Planalto - Natal - RN|R$ 97.000|2 quartos|53m²|R$ 245|1 vaga|Natal, Planalto | |1
+466|Apartamento para venda com 184 metros quadrados com 5 quartos em Tirol - Natal - RN|R$ 720.000|5 ou mais quartos|184m²|R$ 1.000|3 vagas|Natal, Tirol | |3
+467|Apartamento para venda possui 119 metros quadrados com 3 quartos em Lagoa Nova - Natal - R|R$ 520.000|3 quartos|119m²|R$ 1.150|2 vagas|Natal, Lagoa Nova | |2
+468|Apartamento para venda com 296 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 1.100.000|4 quartos|296m²|R$ 1.800|5 ou mais vagas|Natal, Tirol | |5 ou mais
+469|Apartamento para venda tem 58 metros em Lagoa Nova - Natal - RN|R$ 220.000|2 quartos|58m²|R$ 600|1 vaga|Natal, Lagoa Nova | |1
+470| | | | | | | | | 
+471|Apartamento para venda com 54 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 135.000|2 quartos|54m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+472|Apartamento para venda tem 50 metros quadrados com 1 quarto em Bom Pastor - Natal - RN|R$ 108.000|1 quarto|50m²|R$ 220|1 vaga|Natal, Bom Pastor | |1
+473|Apartamento para venda com 83 metros quadrados com 3 quartos em Candelária - Natal - RN|R$ 250.000|3 quartos|83m²|R$ 750|1 vaga|Natal, Candelária | |1
+474|Apartamento para venda com 83 metros quadrados com 3 quartos em Candelária - Natal - RN|R$ 250.000|3 quartos|83m²|R$ 750|1 vaga|Natal, Candelária | |1
+475|Apartamento para venda possui 55 metros quadrados com 2 quartos em Pitimbu - Natal - RN|R$ 250.000|2 quartos|55m²|R$ 371|1 vaga|Natal, Pitimbu | |1
+476|Apartamento para venda Solar Nabor Maia com 55m²  2/4 em Tirol - Natal - RN|R$ 279.000|2 quartos|55m²|R$ 425|1 vaga|Natal, Tirol | |1
+477|Apartamento para venda  com 2 quartos no Natal River em Nova Parnamirim|R$ 215.000|2 quartos|57m²|R$ 0|1 vaga|Parnamirim, Nova Parnamirim | |1
+478|Apartamento para venda com 28 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 240.000|1 quarto|28m²|R$ 0| |Natal, Ponta Negra | |59092300
+479|Apartamento para venda tem 59 metros quadrados com 2 quartos em Capim Macio - Natal - RN|R$ 400.000|2 quartos|59m²|R$ 634|2 vagas|Natal, Capim Macio | |2
+480|Apartamento para venda tem 137 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 950.000|3 quartos|137m²|R$ 1.100|2 vagas|Natal, Tirol | |2
+481|Apartamento para venda possui 87 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 485.000|3 quartos|87m²|R$ 550|2 vagas|Natal, Lagoa Nova | |2
+482| | | | | | | | | 
+483|Apartamento para venda com 77 metros quadrados com 3 quartos em Dix-Sept Rosado - Natal - |R$ 360.000|3 quartos|77m²|R$ 399|2 vagas|Natal, Dix-Sept Rosado | |2
+484|Apartamento para venda com 55 metros quadrados com 2 quartos em Planalto - Natal - RN|R$ 114.999|2 quartos|55m²|R$ 0|1 vaga|Natal, Planalto | |1
+485|Apartamento para venda possui 236 metros quadrados com 3 quartos em Areia Preta - Natal - |R$ 2.000.000|3 quartos|236m²|R$ 2.400|4 vagas|Natal, Areia Preta | |4
+486|Apartamento para venda com 65 metros quadrados com 2 quartos em Capim Macio - Natal - RN|R$ 144.800|2 quartos|65m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+487| | | | | | | | | 
+488|Apartamento para venda Ed. Mediterranee, 137m²,com 4 quartos em Capim Macio - Natal - RN|R$ 550.000|4 quartos|137m²|R$ 1.290|2 vagas|Natal, Capim Macio | |2
+489|Apartamento para venda Parque Amazônico, 98m², com 3 quartos em Tirol - Natal - RN|R$ 250.000|3 quartos|98m²|R$ 415|2 vagas|Natal, Tirol | |2
+490|Apartamento para venda Villagio Veritá, 56m², com 2 quartos em Cidade Satélite - Natal - R|R$ 105.000|2 quartos|56m²|R$ 250|1 vaga|Natal, Pitimbu | |1
+491|Apartamento para venda Jardim Botânico, 89m², com 3 quartos em Neópolis - Natal - RN|R$ 180.000|3 quartos|89m²|R$ 140|1 vaga|Natal, Neópolis | |1
+492| | | | | | | | | 
+493|Apartamento para venda Veritá II, 56m²,com 2 quartos em Cidade Satélite - Natal - RN|R$ 105.000|2 quartos|56m²|R$ 250|1 vaga|Natal, Pitimbu | |1
+494|Apartamento para venda Atalaia, 89m², com 3 quartos em Areia Preta - Natal - RN|R$ 480.000|3 quartos|89m²|R$ 800|2 vagas|Natal, Areia Preta | |2
+495|Apartamento para venda possui 98 metros quadrados com 3 quartos em Candelária - Natal - RN|R$ 598.000|3 quartos|98m²|R$ 450|2 vagas|Natal, Candelária | |2
+496|Apartamento para venda com 104 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 380.000|3 quartos|104m²|R$ 1.300|2 vagas|Natal, Tirol | |2
+497|Apartamento para venda tem 55 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 300.000|2 quartos|55m²|R$ 1.453|1 vaga|Natal, Ponta Negra | |1
+498|Apartamento para venda tem 117 metros quadrados com 3 quartos em Neópolis - Natal - RN|R$ 620.000|3 quartos|117m²|R$ 0|3 vagas|Natal, Neópolis | |3
+499| | | | | | | | | 
+500|Apartamento para venda com 45 metros quadrados com 2 quartos em Planalto - Natal - RN|R$ 169.900|2 quartos|45m²|R$ 0|1 vaga|Natal, Planalto | |1
+501|Apartamento para venda tem 80 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 430.000|3 quartos|80m²|R$ 480|2 vagas|Natal, Lagoa Nova | |2
+502|Apartamento para venda com 220 metros quadrados com 4 quartos em Lagoa Nova - Natal - RN|R$ 540.000|4 quartos|220m²|R$ 1.200|2 vagas|Natal, Lagoa Nova | |2
+503|Apartamento para venda tem 80 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 360.000|3 quartos|80m²|R$ 570|2 vagas|Natal, Lagoa Nova | |2
+504|Apartamento para venda tem 52 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 309.990|2 quartos|52m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+505|Apartamento para venda tem 119 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 850.000|3 quartos|119m²|R$ 607|3 vagas|Natal, Lagoa Nova | |3
+506|Apartamento para venda possui 93 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 550.000|3 quartos|93m²|R$ 550|2 vagas|Natal, Tirol | |2
+507|Apartamento para venda com 80 metros quadrados com 3 quartos em Lagoa Seca - Natal - RN|R$ 280.000|3 quartos|80m²|R$ 340|2 vagas|Natal, Lagoa Seca | |2
+508|Apartamento para venda Sun Golden, 54m², com 2 quartos em Neópolis - Natal - RN|R$ 250.000|2 quartos|54m²|R$ 350|1 vaga|Natal, Ponta Negra | |1
+509|Apartamento para venda Burle Marx, 200m², com 4 quartos em Candelária - Natal - RN|R$ 690.000|4 quartos|200m²|R$ 1.700|3 vagas|Natal, Candelária | |3
+510|Apartamento para venda Louvre(Paris), 91m², com 3 quartos em Lagoa Nova - Natal - RN|R$ 255.000|3 quartos|91m²|R$ 800|1 vaga|Natal, Lagoa Nova | |1
+511|Apartamento para venda com 59 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 450.000|2 quartos|59m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+512| | | | | | | | | 
+513|Apartamento para venda tem 109 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 440.000|3 quartos|109m²|R$ 750|2 vagas|Natal, Lagoa Nova | |2
+514|Apartamento para venda tem 287 metros quadrados com 3 quartos em Petrópolis - Natal - RN|R$ 650.000|3 quartos|287m²|R$ 1.600|4 vagas|Natal, Petrópolis | |4
+515|Apartamento para venda tem 60 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 360.000|2 quartos|60m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+516|Apartamento para venda possui 136 metros quadrados com 3 quartos em Lagoa Nova - Natal - R|R$ 300.000|3 quartos|136m²|R$ 1.000|2 vagas|Natal, Lagoa Nova | |2
+517|Apartamento para venda com 220 metros quadrados com 4 quartos em Petrópolis - Natal - RN|R$ 900.000|4 quartos|220m²|R$ 1.850| |Natal, Petrópolis | |Churrasqueira, Piscina
+518|Apartamento para venda tem 296 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 1.000.000|4 quartos|296m²|R$ 1.800|4 vagas|Natal, Tirol | |4
+519|Apartamento para venda com 334 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 2.350.000|4 quartos|334m²|R$ 3.500|4 vagas|Natal, Tirol | |4
+520|Apartamento para venda possui 105 metros quadrados com 2 quartos em Areia Preta - Natal - |R$ 445.000|2 quartos|105m²|R$ 900|1 vaga|Natal, Areia Preta | |1
+521|Apartamento para venda tem 44 metros quadrados com 1 quarto em Lagoa Nova - Natal - RN|R$ 1.300|2 quartos|55m²|R$ 0|1 vaga|Parnamirim, Nova Parnamirim | |1
+522|Apartamento para venda Jardim satélite, 57m², com 2 quartos em Cidade Satélite - Natal - R|R$ 100.000|2 quartos|57m²|R$ 280|1 vaga|Natal, Pitimbu | |1
+523|Apartamento para venda tem 96 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 460.000|3 quartos|96m²|R$ 630|2 vagas|Natal, Tirol | |2
+524|Apartamento para venda possui 191 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 800.000|4 quartos|191m²|R$ 1.376|2 vagas|Natal, Tirol | |2
+525|Apartamento para venda Ilhas Gregas, 55m², com 2 quartos em Capim Macio - Natal - RN|R$ 230.000|2 quartos|55m²|R$ 0|1 vaga|Natal, Capim Macio | |1
+526|Apartamento para venda Crystal Green, 369m², com 5 quartos em Candelária - Natal - RN|R$ 1.500.000|5 ou mais quartos|369m²|R$ 2.500|4 vagas|Natal, Lagoa Nova | |4
+527|Apartamento para venda tem 274 metros quadrados com 4 quartos em Lagoa Nova - Natal - RN|R$ 1.600.000|4 quartos|274m²|R$ 1.880|3 vagas|Natal, Lagoa Nova | |3
+528|Apartamento para venda possui 57 metros quadrados com 2 quartos em Barro Vermelho - Natal |R$ 269.000|2 quartos|57m²|R$ 560|1 vaga|Natal, Barro Vermelho | |1
+529|Apartamento para venda possui 162 metros quadrados com 4 quartos em Petrópolis - Natal - R|R$ 1.700.000|4 quartos|162m²|R$ 1.300|4 vagas|Natal, Petrópolis | |4
+530|Apartamento para venda tem 59 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 330.000|2 quartos|59m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+531|Apartamento para venda com 85 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 480.000|3 quartos|85m²|R$ 600|2 vagas|Natal, Lagoa Nova | |2
+532| | | | | | | | | 
+533|Apartamento para venda Louvre (Paris), 91m², com 3 quartos em Lagoa Nova - Natal - RN|R$ 255.000|3 quartos|91m²|R$ 800|1 vaga|Natal, Lagoa Nova | |1
+534|Apartamento para venda tem 145 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 1.500.000|3 quartos|145m²|R$ 0|3 vagas|Natal, Tirol | |3
+535|Apartamento para venda tem 56 metros quadrados com 2 quartos em Tirol - Natal - RN|R$ 320.000|2 quartos|56m²|R$ 275|1 vaga|Natal, Tirol | |1
+536|Apartamento para venda tem 102 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 750.000|3 quartos|102m²|R$ 625|2 vagas|Natal, Lagoa Nova | |2
+537|Apartamento Para Venda em Capim Macio - Natal -RN|R$ 130.000|2 quartos|57m²|R$ 150|1 vaga|Natal, Capim Macio | |1
+538| | | | | | | | | 
+539|Apartamento para venda tem 80 metros quadrados com 2 quartos em Candelária - Natal - RN|R$ 149.000|2 quartos|80m²|R$ 300| |Natal, Candelária | |59064480
+540|Apartamento para venda com 56 metros quadrados com 2 quartos em Petrópolis - Natal - RN|R$ 220.000|2 quartos|56m²|R$ 0|1 vaga|Natal, Petrópolis | |1
+541|Apartamento para venda Bairro Latino, 89m², com 3 quartos em Candelária - Natal - RN|R$ 210.000|3 quartos|89m²|R$ 0|1 vaga|Natal, Candelária | |1
+542|Apartamento para venda tem 92 metros quadrados com 3 quartos em Ponta Negra - Natal - RN|R$ 450.000|3 quartos|92m²|R$ 600|1 vaga|Natal, Ponta Negra | |1
+543|Apartamento para venda possui 60 metros quadrados com 2 quartos em Ponta Negra - Natal - R|R$ 280.000|2 quartos|60m²|R$ 370|1 vaga|Natal, Ponta Negra | |1
+544|Apartamento para venda tem 120 metros quadrados com 3 quartos em Capim Macio - Natal - RN|R$ 840.000|3 quartos|120m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+545|Apartamento para venda com 105 metros quadrados com 3 quartos em Pitimbú- Natal|R$ 49.000|3 quartos|105m²|R$ 0|2 vagas|Natal, Pitimbu | |2
+546|Apartamento para venda tem 56 metros quadrados com 2 quartos em Planalto - Natal - RN|R$ 95.000|2 quartos|56m²|R$ 0|1 vaga|Natal, Planalto | |1
+547|Apartamento para venda com 98 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 800.000|3 quartos|98m²|R$ 500| |Natal, Tirol | |Ar condicionado, Piscina, Varanda, Academia, Churrasqueira
+548|Apartamento para venda tem 54 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 314.490|2 quartos|54m²|R$ 0| |Natal, Ponta Negra | |Churrasqueira, Piscina
+549|Apartamento para venda com 53 metros quadrados com 2 quartos em Planalto - Natal - RN|R$ 120.000|2 quartos|53m²|R$ 0|1 vaga|Natal, Planalto | |1
+550|Apartamento para venda com 98 metros quadrados com 3 quartos em Barro Vermelho - Natal - R|R$ 380.000|3 quartos|98m²|R$ 600|2 vagas|Natal, Barro Vermelho | |2
+551| | | | | | | | | 
+552|Apartamento para venda com 49 metros quadrados com 2 quartos no Planalto - Natal - RN|R$ 100.000|2 quartos|49m²|R$ 365|1 vaga|Natal, Planalto | |1
+553|Apartamento para venda com 100 metros quadrados com 2 quartos em Tirol - Natal - RN|R$ 650.000|2 quartos|100m²|R$ 582|2 vagas|Natal, Tirol | |2
+554|Apartamento para venda Poetas, 64m², 2 quartos em Ponta Negra - Natal|R$ 372.000|2 quartos|64m²|R$ 650|1 vaga|Natal, Ponta Negra | |1
+555|Apartamento para venda com 102 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 910.000|3 quartos|102m²|R$ 650|2 vagas|Natal, Lagoa Nova | |2
+556| | | | | | | | | 
+557|Apartamento para venda Jardim Botânico, 82m²,  com 3 quartos em Neópolis - Natal|R$ 180.000|3 quartos|82m²|R$ 130|1 vaga|Natal, Neópolis | |1
+558|Apartamento para venda Porto Tropical, 56m², com 2 quartos em Ponta Negra - Natal - RN|R$ 250.000|2 quartos|56m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+559|Apartamento para venda Therramare, 57m², com 2 quartos em Ponta Negra - Natal - RN|R$ 230.000|2 quartos|57m²|R$ 500|1 vaga|Natal, Ponta Negra | |1
+560|Apartamento para venda com 97 metros quadrados com 3 quartos em Barro Vermelho - Natal - R|R$ 400.000|3 quartos|97m²|R$ 650|2 vagas|Natal, Barro Vermelho | |2
+561|Apartamento para venda Voltaire, 171m², com 3 quartos em Lagoa Nova - Natal - RN|R$ 650.000|3 quartos|171m²|R$ 1.700|3 vagas|Natal, Lagoa Nova | |3
+562|Apartamento para venda Royal Palms, 142m², 3 quartos em Capim Macio - Natal - RN|R$ 780.000|3 quartos|142m²|R$ 701|2 vagas|Natal, Capim Macio | |2
+563|Apartamento para venda possui 52 metros quadrados com 2 quartos em Planalto - Natal - RN|R$ 90.000|2 quartos|52m²|R$ 220|1 vaga|Natal, Planalto | |1
+564|Apartamento para venda Les Amis, 61m², com 2 quartos em Lagoa Nova - Natal - RN|R$ 424.000|2 quartos|61m²|R$ 0|1 vaga|Natal, Lagoa Nova | |1
+565| | | | | | | | | 
+566|Apartamento para venda com 95 metros quadrados com 3 quartos em Ponta Negra - Natal - RN|R$ 349.990|3 quartos|95m²|R$ 530|2 vagas|Natal, Ponta Negra | |2
+567|Apartamento para venda com 55 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 250.000|2 quartos|55m²|R$ 500|1 vaga|Natal, Ponta Negra | |1
+568|Apartamento para venda tem 108 metros quadrados com 4 quartos em Capim Macio - Natal - RN|R$ 750.000|4 quartos|108m²|R$ 550|2 vagas|Natal, Capim Macio | |2
+569|Apartamento para venda Les Amis, 82m², com 3 quartos em Lagoa Nova - Natal - RN|R$ 669.000|3 quartos|82m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+570| | | | | | | | | 
+571|Apartamento para venda Les Amis, 97m², com 3 quartos em Lagoa Nova - Natal - RN|R$ 681.000|3 quartos|97m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+572|Apartamento para venda Corais Terra do Sol,  99m², com 3 quartos em Capim Macio - Natal - |R$ 450.000|3 quartos|99m²|R$ 760|3 vagas|Natal, Capim Macio | |3
+573|Apartamento para venda com 59 metros quadrados com 2 quartos em Capim Macio - Natal - RN|R$ 379.900|2 quartos|59m²|R$ 585|1 vaga|Natal, Capim Macio | |1
+574|Apartamento para venda Serra do Cabugi II, 58m², 2 quartos em Capim Macio - Natal - RN|R$ 130.000|2 quartos|58m²|R$ 360|1 vaga|Natal, Capim Macio | |1
+575|Apartamento para venda Res. Versailles, 100m², com 3 quartos em Lagoa Seca - Natal - RN|R$ 370.000|3 quartos|100m²|R$ 750|2 vagas|Natal, Lagoa Seca | |2
+576|Apartamento para venda com 40 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 150.000|1 quarto|40m²|R$ 1.100|1 vaga|Natal, Ponta Negra | |1
+577|Apartamento para venda Alameda Capim Macio, 60m², com 2 quartos em Capim Macio - Natal - R|R$ 370.000|2 quartos|60m²|R$ 497|1 vaga|Natal, Capim Macio | |1
+578|Apartamento para venda tem 127 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 845.000|3 quartos|127m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+579|Apartamento para venda possui 98 metros quadrados com 3 quartos em Ponta Negra - Natal - R|R$ 430.000|3 quartos|98m²|R$ 0|2 vagas|Natal, Ponta Negra | |2
+580|Apartamento para venda possui 98 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 560.000|3 quartos|98m²|R$ 0|2 vagas|Natal, Tirol | |2
+581|Apartamento para venda com 80 metros quadrados com 3 quartos em Lagoa Seca - Natal - RN|R$ 250.000|3 quartos|80m²|R$ 340|2 vagas|Natal, Lagoa Seca | |2
+582| | | | | | | | | 
+583|Apartamento para venda Antônio Alves Pereira, 102m², com 3 quartos em Lagoa Nova - Natal -|R$ 860.000|3 quartos|102m²|R$ 625|2 vagas|Natal, Lagoa Nova | |2
+584|Apartamento para venda Portamaris, 79m², 3 quartos em Ponta Negra - Natal - RN|R$ 750.000|3 quartos|79m²|R$ 513|2 vagas|Natal, Ponta Negra | |2
+585|Apartamento para venda Mandacaru, 98m², com 4 quartos em Capim Macio - Natal - RN|R$ 400.000|4 quartos|98m²|R$ 750|2 vagas|Natal, Capim Macio | |2
+586|Apartamento para venda com 45 metros quadrados com 1 quarto em Candelária - Natal - RN|R$ 157.000|1 quarto|45m²|R$ 400|1 vaga|Natal, Candelária | |1
+587|Apartamento para venda possui 117 metros quadrados com 4 quartos em Lagoa Nova - Natal - R|R$ 395.000|4 quartos|117m²|R$ 1.020|2 vagas|Natal, Lagoa Nova | |2
+588|Apartamento para venda Apto. Capim Macio, 120m², com 4 quartos em Capim Macio - Natal - RN|R$ 795.000|4 quartos|120m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+589|Apartamento para venda Villagio Veritá, 55m², com 2 quartos em Cidade Satélite - Natal - R|R$ 105.000|2 quartos|55m²|R$ 225|1 vaga|Natal, Pitimbu | |1
+590|Apartamento para venda Vila Park Royal, 78m², com 3 quartos em Neópolis - Natal - RN|R$ 395.000|3 quartos|78m²|R$ 370|2 vagas|Natal, Ponta Negra | |2
+591|Apartamento para venda com 74 metros quadrados com 2 quartos em Capim Macio - Natal - RN|R$ 165.000|2 quartos|74m²|R$ 360|1 vaga|Natal, Capim Macio | |1
+592|Apartamento para venda tem 47 metros quadrados com 2 quartos em Planalto - Natal - RN|R$ 127.000|2 quartos|47m²|R$ 0|1 vaga|Natal, Planalto | |1
+593|Apartamento para venda tem 137 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 1.350.000|3 quartos|137m²|R$ 1.100|3 vagas|Natal, Tirol | |3
+594| | | | | | | | | 
+595|Apartamento para venda possui 50 metros quadrados com 2 quartos em Pajuçara - Natal - RN|R$ 175.000|2 quartos|50m²|R$ 250|1 vaga|Natal, Pajuçara | |1
+596|Apartamento para venda possui 50 metros quadrados com 2 quartos em Lagoa Seca - Natal - RN|R$ 280.000|2 quartos|50m²|R$ 265|1 vaga|Natal, Lagoa Seca | |1
+597|Apartamento para venda possui 59 metros quadrados com 2 quartos em Ponta Negra - Natal - R|R$ 365.000|2 quartos|59m²|R$ 0|2 vagas|Natal, Ponta Negra | |2
+598|Apartamento para venda possui 100 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 730.000|3 quartos|100m²|R$ 650|2 vagas|Natal, Tirol | |2
+599|Apartamento para venda possui 96 metros quadrados com 3 quartos em Ponta Negra - Natal - R|R$ 480.000|3 quartos|96m²|R$ 0|2 vagas|Natal, Ponta Negra | |2
+600|Apartamento para venda com 58 metros quadrados com 2 quartos em Candelária - Natal - RN|R$ 240.000|2 quartos|58m²|R$ 480|1 vaga|Natal, Candelária | |1
+601|Apartamento para venda tem 96 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 560.000|3 quartos|96m²|R$ 790|2 vagas|Natal, Tirol | |2
+602|Apartamento para venda Village de Ponta Negra, 88m², 3 quartos em Ponta Negra - Natal - RN|R$ 220.000|3 quartos|88m²|R$ 300|2 vagas|Natal, Ponta Negra | |2
+603|Apartamento para venda tem 51 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 150.000|2 quartos|51m²|R$ 200|1 vaga|Natal, Ponta Negra | |1
+604|Apartamento para venda possui 55 metros quadrados com 2 quartos em Pitimbu - Natal - RN|R$ 270.000|2 quartos|55m²|R$ 320|1 vaga|Natal, Pitimbu | |1
+605|Apartamento para venda tem 35 metros quadrados com 1 quarto em Areia Preta - Natal - RN|R$ 210.000|1 quarto|35m²|R$ 624|1 vaga|Natal, Areia Preta | |1
+606|Apartamento para venda tem 137 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 1.350.000|3 quartos|137m²|R$ 1.100|3 vagas|Natal, Tirol | |3
+607|Apartamento para venda possui 178 metros quadrados com 4 quartos em Lagoa Nova - Natal - R|R$ 1.580.000|4 quartos|178m²|R$ 0|3 vagas|Natal, Lagoa Nova | |3
+608|Apartamento para venda possui 170 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 350.001|3 quartos|170m²|R$ 1.150|2 vagas|Natal, Tirol | |2
+609| | | | | | | | | 
+610|Apartamento em Capim macio para vender em Natal rn.|R$ 160.000|2 quartos|65m²|R$ 375|1 vaga|Natal, Capim Macio | |1
+611|Apartamento para venda tem 240 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 620.000|4 quartos|240m²|R$ 1.600|2 vagas|Natal, Tirol | |2
+612|Apartamento para venda possui 56 metros quadrados com 2 quartos em Candelária - Natal - RN|R$ 300.000|2 quartos|56m²|R$ 397|1 vaga|Natal, Candelária | |1
+613|Apartamento para venda tem 52 metros quadrados com 2 quartos em Pitimbu - Natal - RN|R$ 219.999|2 quartos|52m²|R$ 300|1 vaga|Natal, Pitimbu | |1
+614|Apartamento para venda tem 94 metros quadrados com 3 quartos em Capim Macio - Natal - RN|R$ 499.000|3 quartos|94m²|R$ 750|2 vagas|Natal, Capim Macio | |2
+615|Apartamento para venda com 55 metros quadrados com 2 quartos em Capim Macio - Natal - RN|R$ 265.000|2 quartos|55m²|R$ 0|1 vaga|Natal, Capim Macio | |1
+616| | | | | | | | | 
+617|Apartamento para venda possui 96 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 359.000|4 quartos|96m²|R$ 840|2 vagas|Natal, Tirol | |2
+618|Apartamento para venda possui 60 metros quadrados com 2 quartos em Pitimbu - Natal - RN|R$ 110.000|2 quartos|60m²|R$ 450|1 vaga|Natal, Pitimbu | |1
+619|Apartamento para venda tem 109 metros quadrados com 3 quartos em Capim Macio - Natal - RN|R$ 700.000|3 quartos|109m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+620|Apartamento para venda tem 86 metros quadrados com 2 quartos em Tirol - Natal - RN|R$ 185.000|2 quartos|86m²|R$ 700|2 vagas|Natal, Tirol | |2
+621|Apartamento para venda tem 48 metros quadrados com 2 quartos em Pitimbu - Natal - RN|R$ 112.000|2 quartos|48m²|R$ 0|1 vaga|Natal, Pitimbu | |1
+622|Apartamento para venda com 96 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 339.000|4 quartos|96m²|R$ 840|2 vagas|Natal, Tirol | |2
+623| | | | | | | | | 
+624|Apartamento para venda possui 79 metros quadrados com 3 quartos em Ponta Negra - Natal - R|R$ 427.000|3 quartos|79m²|R$ 0| |Natal, Ponta Negra | |59092500
+625|Apartamento para venda tem 96 metros quadrados com 3 quartos em Ponta Negra - Natal - RN|R$ 430.000|3 quartos|96m²|R$ 0|2 vagas|Natal, Ponta Negra | |2
+626|Apartamento para venda com 138 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 950.000|3 quartos|138m²|R$ 0|2 vagas|Natal, Tirol | |2
+627|Apartamento para venda tem 267 metros quadrados com 4 quartos em Petrópolis - Natal - RN|R$ 299.000|4 quartos|267m²|R$ 0|2 vagas|Natal, Petrópolis | |2
+628|Apartamento para venda com 143 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 841.000|3 quartos|143m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+629|Apartamento para venda possui 79 metros quadrados com 3 quartos em Capim Macio - Natal - R|R$ 482.315|3 quartos|79m²|R$ 0|1 vaga|Natal, Capim Macio | |1
+630|Apartamento para venda possui 60 metros quadrados com 2 quartos em Tirol - Natal - RN|R$ 250.000|2 quartos|60m²|R$ 0|1 vaga|Natal, Tirol | |1
+631|Apartamento para venda possui 98 metros quadrados com 3 quartos em Capim Macio - Natal - R|R$ 580.000|3 quartos|98m²|R$ 700|3 vagas|Natal, Capim Macio | |3
+632|Apartamento para venda com 55 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 550.000|2 quartos|55m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+633|Apartamento para venda possui 65 metros quadrados com 2 quartos em Areia Preta - Natal - R|R$ 450.000|2 quartos|65m²|R$ 0|1 vaga|Natal, Areia Preta | |1
+634|Apartamento para venda com 68 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 209.000|2 quartos|68m²|R$ 400|1 vaga|Natal, Ponta Negra | |1
+635|Apartamento para venda com 58 metros quadrados com 2 quartos em Petrópolis - Natal - RN|R$ 180.000|2 quartos|58m²|R$ 800|1 vaga|Natal, Petrópolis | |1
+636| | | | | | | | | 
+637|Apartamento para venda tem 99 metros quadrados com 4 quartos em Tirol - Natal - Rio Grande|R$ 715.000|4 quartos|99m²|R$ 665|2 vagas|Natal, Tirol | |2
+638|Apartamento residencial para venda e locação, Cidade Alta, Natal - AP0122.|R$ 231.000|2 quartos|55m²|R$ 350|1 vaga|Natal, Cidade Alta | |1
+639|Apartamento para venda com 200 m² e 4 quartos, sendo 02 suites em Capim Macio - Natal - RN|R$ 360.000|4 quartos|200m²|R$ 950|2 vagas|Natal, Capim Macio | |2
+640|Apartamento para venda possui 98 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 380.000|3 quartos|98m²|R$ 1.100|2 vagas|Natal, Lagoa Nova | |2
+641|Apartamento para venda tem 55 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 250.000|2 quartos|55m²|R$ 290|1 vaga|Natal, Ponta Negra | |1
+642|Apartamento para venda com 59 metros quadrados com 2 quartos em Guarapes - Natal - RN|R$ 168.900|2 quartos|59m²|R$ 0|1 vaga|Natal, Guarapes | |1
+643|Apartamento para venda com 75 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 499.000|3 quartos|75m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+644|Apartamento para venda possui 56 metros quadrados com 2 quartos em Ponta Negra - Natal - R|R$ 540.000|2 quartos|56m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+645|Apartamento para venda possui 60 metros quadrados com 2 quartos em Ponta Negra - Natal - R|R$ 390.000|2 quartos|60m²|R$ 562|1 vaga|Natal, Ponta Negra | |1
+646|Apartamento para venda tem 38 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 350.000|1 quarto|38m²|R$ 333|1 vaga|Natal, Ponta Negra | |1
+647|Apartamento para venda possui 38 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 190.000|1 quarto|38m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+648|Apartamento para venda com 85 metros quadrados com 3 quartos em Capim Macio - Natal - RN|R$ 650.000|3 quartos|85m²|R$ 600|2 vagas|Natal, Capim Macio | |2
+649|Apartamento para venda com 191 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 750.000|4 quartos|191m²|R$ 1.400|2 vagas|Natal, Tirol | |2
+650|Apartamento para venda tem 80 metros quadrados com 2 quartos em Nova Descoberta - Natal - |R$ 170.000|2 quartos|80m²|R$ 330|2 vagas|Natal, Nova Descoberta | |2
+651|Apartamento Para Venda em Capim Macio - Natal -RN|R$ 650.000|4 quartos|236m²|R$ 1.400|3 vagas|Natal, Capim Macio | |3
+652|Apartamento para venda com 58 metros quadrados com 2 quartos em Tirol - Natal - RN|R$ 315.000|2 quartos|58m²|R$ 275|1 vaga|Natal, Tirol | |1
+653|Apartamento para venda tem 80 metros quadrados com 3 quartos em Ponta Negra - Natal - RN|R$ 730.000|3 quartos|80m²|R$ 0|2 vagas|Natal, Ponta Negra | |2
+654|Apartamento para venda tem 61 metros quadrados com 2 quartos em Lagoa Nova - Natal - RN|R$ 387.000|2 quartos|61m²|R$ 0|1 vaga|Natal, Lagoa Nova | |1
+655| | | | | | | | | 
+656|Apartamento para venda com 55 metros quadrados com 2 quartos em Planalto - Natal - RN|R$ 155.000|2 quartos|55m²|R$ 260|1 vaga|Natal, Planalto | |1
+657|Apartamento para venda possui 230 metros quadrados com 4 quartos em Petrópolis - Natal - R|R$ 680.000|4 quartos|230m²|R$ 1.200|3 vagas|Natal, Petrópolis | |3
+658|Apartamento para venda com 55 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 550.000|2 quartos|55m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+659|Apartamento para venda com 79 metros quadrados com 3 quartos em Capim Macio - Natal - RN|R$ 477.000|3 quartos|79m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+660| | | | | | | | | 
+661|Apartamento para venda com 98 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 560.000|3 quartos|98m²|R$ 0|2 vagas|Natal, Tirol | |2
+662|Apartamento Para Venda em Capim Macio - Natal -RN|R$ 340.000|2 quartos|58m²|R$ 435|1 vaga|Natal, Capim Macio | |1
+663|Apartamento para venda possui 62 metros quadrados com 2 quartos em Ponta Negra - Natal - R|R$ 278.000|2 quartos|62m²|R$ 410|1 vaga|Natal, Ponta Negra | |1
+664|Apartamento para venda tem 56 metros quadrados com 2 quartos em Tirol - Natal - RN|R$ 349.331|2 quartos|56m²|R$ 0|1 vaga|Natal, Tirol | |1
+665|Apartamento para venda possui 92 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 415.000|3 quartos|92m²|R$ 602|2 vagas|Natal, Tirol | |2
+666|Apartamento para venda com 150 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 870.000|3 quartos|150m²|R$ 1.200|3 vagas|Natal, Lagoa Nova | |3
+667|Apartamento para venda com 51 metros quadrados com 2 quartos em Pitimbu - Natal - RN|R$ 180.000|2 quartos|51m²|R$ 350|1 vaga|Natal, Pitimbu | |1
+668|Apartamento para venda tem 57 metros quadrados com 2 quartos em Neópolis - Natal - RN|R$ 230.000|2 quartos|57m²|R$ 430|1 vaga|Natal, Neópolis | |1
+669|Apartamento para venda tem 58 metros quadrados com 2 quartos em Lagoa Nova - Natal - RN|R$ 350.000|2 quartos|58m²|R$ 388|1 vaga|Natal, Lagoa Nova | |1
+670|Apartamento para venda com 54 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 270.000|1 quarto|54m²|R$ 400|1 vaga|Natal, Ponta Negra | |1
+671|Apartamento para venda tem 50 metros quadrados com 2 quartos em Lagoa Seca - Natal - RN|R$ 269.000|2 quartos|50m²|R$ 280|1 vaga|Natal, Lagoa Seca | |1
+672|Apartamento para venda possui 70 metros quadrados com 2 quartos em Capim Macio - Natal - R|R$ 135.000|2 quartos|70m²|R$ 400|1 vaga|Natal, Capim Macio | |1
+673|Apartamento para venda com 90 metros quadrados com 3 quartos em Neópolis - Natal - RN|R$ 595.000|3 quartos|90m²|R$ 0|2 vagas|Natal, Neópolis | |2
+674|Apartamento para venda com 56 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 550.000|2 quartos|56m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+675| | | | | | | | | 
+676|Apartamento para venda tem 54 metros quadrados com 2 quartos em Pitimbu - Natal - RN|R$ 105.000|2 quartos|54m²|R$ 0|1 vaga|Natal, Pitimbu | |1
+677|Apartamento para venda possui 110 metros quadrados com 3 quartos em Tirol - Natal - RN|R$ 440.000|3 quartos|110m²|R$ 0|2 vagas|Natal, Tirol | |2
+678|Apartamento para venda com 156 metros quadrados com 4 quartos em Capim Macio - Natal - RN|R$ 1.126.638|4 quartos|156m²|R$ 0|3 vagas|Natal, Capim Macio | |3
+679|Apartamento para venda com 57 mts² com 2 quartos 2 Wc's Início da Cidade satélite Natal RN|R$ 220.000|2 quartos|57m²|R$ 0|2 vagas|Natal, Pitimbu | |2
+680|Apartamento para venda com 52 metros quadrados com 2 quartos em Capim Macio - Natal - RN|R$ 285.000|2 quartos|52m²|R$ 0| |Natal, Capim Macio | |Varanda, Ar condicionado, Armários na cozinha, Piscina, Armários embutidos, Área de serviço
+681|Apartamento para venda com 103 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 560.000|3 quartos|103m²|R$ 770|2 vagas|Natal, Lagoa Nova | |2
+682|Apartamento para venda possui 136 metros quadrados com 3 quartos em Alecrim - Natal - RN|R$ 1.000.000|3 quartos|136m²|R$ 0|3 vagas|Natal, Alecrim | |3
+683| | | | | | | | | 
+684|Apartamento para venda com 61 metros quadrados com 2 quartos em Lagoa Nova - Natal - RN|R$ 387.000|2 quartos|61m²|R$ 0|1 vaga|Natal, Lagoa Nova | |1
+685|Apartamento para venda possui 89 metros quadrados com 3 quartos em Pitimbu - Natal - RN|R$ 335.000|3 quartos|89m²|R$ 0|1 vaga|Natal, Pitimbu | |1
+686|Apartamento para venda com 480 metros quadrados com 4 quartos em Petrópolis - Natal - RN|R$ 6.000.000|4 quartos|480m²|R$ 0|4 vagas|Natal, Petrópolis | |4
+687|Apartamento para venda tem 64 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 380.000|2 quartos|64m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+688|Apartamento para venda com 55 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 550.000|2 quartos|55m²|R$ 799|1 vaga|Natal, Ponta Negra | |1
+689| | | | | | | | | 
+690|Apartamento para venda tem 57 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 550.000|2 quartos|57m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+691|Apartamento para venda possui 55 metros quadrados com 2 quartos em Lagoa Nova - Natal - RN|R$ 381.000|2 quartos|55m²|R$ 0|1 vaga|Natal, Lagoa Nova | |1
+692|Apartamento para venda possui 54 metros quadrados com 2 quartos em Ponta Negra - Natal - R|R$ 304.900|2 quartos|54m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+693|Apartamento para venda tem 50 metros quadrados com 2 quartos em Pitimbu - Natal - RN|R$ 195.700|2 quartos|50m²|R$ 0| |Natal, Pitimbu | |Piscina, Academia, Churrasqueira
+694| | | | | | | | | 
+695|Apartamento para venda com 57 metros quadrados com 2 quartos em Lagoa Nova - Natal - RN|R$ 354.000|2 quartos|57m²|R$ 0|1 vaga|Natal, Lagoa Nova | |1
+696|Apartamento para venda tem 98 metros quadrados com 2 quartos em Tirol - Natal - RN|R$ 850.000|2 quartos|98m²|R$ 0|2 vagas|Natal, Tirol | |2
+697|Apartamento para venda tem 57 metros quadrados com 2 quartos em Candelária - Natal - RN|R$ 320.000|2 quartos|57m²|R$ 414|1 vaga|Natal, Candelária | |1
+698|Apartamento para venda tem 49 metros quadrados com 2 quartos em Pitimbu - Natal - RN|R$ 220.000|2 quartos|49m²|R$ 0|1 vaga|Natal, Pitimbu | |1
+699|Apartamento para venda com 56 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 500.000|2 quartos|56m²|R$ 620|1 vaga|Natal, Ponta Negra | |1
+700| | | | | | | | | 
+701|Apartamento para venda possui 55 metros quadrados com 2 quartos em Tirol - Natal - RN|R$ 353.331|2 quartos|55m²|R$ 0|1 vaga|Natal, Tirol | |1
+702|Apartamento para venda tem 82 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 506.000|3 quartos|82m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+703|Apartamento Para Venda em Capim Macio - Natal-RN|R$ 230.000|3 quartos|84m²|R$ 530|1 vaga|Natal, Capim Macio | |1
+704|Apartamento Para Venda em Neópolis  Condomínio Club- Natal -RN|R$ 320.000|2 quartos|64m²|R$ 464|1 vaga|Natal, Neópolis | |1
+705|Apartamento Para Venda em Capim Macio - Natal-RN|R$ 120.000|2 quartos|59m²|R$ 300|1 vaga|Natal, Capim Macio | |1
+706|Apartamento para Venda em Natal, Capim Macio, 4 dormitórios, 2 suítes, 4 banheiros, 2 vaga|R$ 700.000|4 quartos|123m²|R$ 670|2 vagas|Natal, Capim Macio | |2
+707| | | | | | | | | 
+708|Apartamento para Venda em Natal, Lagoa Nova, 4 dormitórios, 3 suítes, 5 banheiros, 3 vagas|R$ 1.090.000|4 quartos|160m²|R$ 600|3 vagas|Natal, Lagoa Nova | |3
+709|Apartamento para Venda em Natal, alecrim, 1 dormitório, 1 suíte, 2 banheiros, 3 vagas|R$ 340.000|1 quarto|61m²|R$ 0|3 vagas|Natal, Tirol | |3
+710|Apartamento para Venda em Natal, Tirol, 3 dormitórios, 1 suíte, 2 banheiros, 2 vagas|R$ 550.000|3 quartos|98m²|R$ 1.080|2 vagas|Natal, Tirol | |2
+711|Apartamento para Vender no Apartamento para Vender no Condomínio TIROL WAY RESIDENCE |R$ 640.000|3 quartos|98m²|R$ 790|2 vagas|Natal, Tirol | |2
+712|Apartamento para venda em Candelária - Natal - 3/4 sendo 3 suites e closet totalmente refo|R$ 980.000|3 quartos|176m²|R$ 1.300|3 vagas|Natal, Candelária | |3
+713|Apartamento para Venda em Natal, Cidade da Esperança, 2 dormitórios, 1 banheiro, 1 vaga|R$ 110.000|2 quartos|55m²|R$ 0|1 vaga|Natal, Cidade da Esperança | |1
+714|Apartamento para venda em Neópolis - Natal - RN - Lacqua 3/4 com 117m|R$ 530.000|3 quartos|117m²|R$ 700|3 vagas|Natal, Neópolis | |3
+715|Apartamento para Venda em Natal, Pajuçara, 2 dormitórios, 1 banheiro, 1 vaga|R$ 115.000|2 quartos|58m²|R$ 0|1 vaga|Natal, Pajuçara | |1
+716|Apartamento para Venda em Natal, Lagoa Nova, 3 dormitórios, 1 suíte, 3 banheiros, 2 vagas|R$ 435.000|3 quartos|92m²|R$ 716|2 vagas|Natal, Lagoa Nova | |2
+717|Apartamento para vender no tirol|R$ 500.000|3 quartos|150m²|R$ 0|2 vagas|Natal, Tirol | |2
+718| | | | | | | | | 
+719|Apartamento para venda em Candelária - Natal - RN - 2/4|R$ 155.000|2 quartos|60m²|R$ 182| |Natal, Candelária | |59066900
+720|Apartamento para Venda em Natal, Capim Macio, 4 dormitórios, 3 suítes, 4 banheiros, 2 vaga|R$ 650.000|4 quartos|224m²|R$ 1.700|2 vagas|Natal, Capim Macio | |2
+721|Apartamento para Venda em Natal, Lagoa Nova, 4 dormitórios, 4 suítes, 5 banheiros, 4 vagas|R$ 1.022.463|4 quartos|144m²|R$ 0|4 vagas|Natal, Lagoa Nova | |4
+722|Apartamento para Venda em Natal, Capim Macio, 3 dormitórios, 2 suítes, 3 banheiros, 2 vaga|R$ 650.000|3 quartos|85m²|R$ 600|2 vagas|Natal, Capim Macio | |2
+723| | | | | | | | | 
+724|Apartamento para Venda em Natal, Areia Preta, 3 dormitórios, 3 suítes, 5 banheiros, 4 vaga|R$ 2.800.000|3 quartos|282m²|R$ 2.470|4 vagas|Natal, Areia Preta | |4
+725|Apartamento para venda em Tirol - Natal - RN - Perto do hospital são lucas|R$ 1.050.000|3 quartos|187m²|R$ 0|3 vagas|Natal, Tirol | |3
+726|Apartamento para Venda em Natal, Tirol, 2 dormitórios, 1 suíte, 2 banheiros, 1 vaga|R$ 400.000|2 quartos|57m²|R$ 397|1 vaga|Natal, Tirol | |1
+727|Apartamento para Venda em Natal, TIROL, 1 dormitório, 1 suíte, 1 vaga|R$ 270.000|1 quarto|57m²|R$ 600|1 vaga|Natal, Barro Vermelho | |1
+728|Apartamento para Venda em Natal, Pitimbu, 2 dormitórios, 1 banheiro, 1 vaga|R$ 175.000|2 quartos|44m²|R$ 0|1 vaga|Natal, Pitimbu | |1
+729|Apartamento para Venda em Natal, Ponta Negra, 3 dormitórios, 1 suíte, 2 banheiros, 2 vagas|R$ 380.000|3 quartos|90m²|R$ 0|2 vagas|Natal, Ponta Negra | |2
+730|Apartamento para Venda em Natal, Lagoa Nova, 4 dormitórios, 4 suítes, 5 banheiros, 2 vagas|R$ 1.100.000|4 quartos|270m²|R$ 1.984|2 vagas|Natal, Lagoa Nova | |2
+731|Apartamento para Venda em Natal, Tirol, 3 dormitórios, 2 suítes, 4 banheiros, 2 vagas|R$ 841.490|3 quartos|100m²|R$ 0|2 vagas|Natal, Tirol | |2
+732|Apartamento para Venda em Natal, Tirol, 3 dormitórios, 2 suítes, 3 banheiros, 2 vagas|R$ 480.000|3 quartos|90m²|R$ 560|2 vagas|Natal, Tirol | |2
+733|Apartamento para Venda em Natal, BARRO VERMELHO, 2 dormitórios, 1 suíte, 2 banheiros, 1 v|R$ 280.000|2 quartos|57m²|R$ 390|1 vaga|Natal, Barro Vermelho | |1
+734|Apartamento para Venda em Natal, Petrópolis, 3 dormitórios, 3 suítes, 4 banheiros, 2 vagas|R$ 680.000|3 quartos|181m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+735| | | | | | | | | 
+736|Apartamento para Venda em Natal, Lagoa Nova, 2 dormitórios, 1 banheiro, 1 vaga|R$ 220.000|2 quartos|70m²|R$ 250|1 vaga|Natal, Lagoa Nova | |1
+737|Apartamento para Venda em Natal, Ponta Negra, 2 dormitórios, 1 suíte, 2 banheiros, 1 vaga|R$ 325.990|2 quartos|48m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+738|Apartamento para Venda em Natal, Lagoa Nova, 3 dormitórios, 3 suítes, 5 banheiros, 2 vagas|R$ 1.000.000|3 quartos|120m²|R$ 640|2 vagas|Natal, Lagoa Nova | |2
+739|Apartamento para Venda em Natal, Tirol, 2 dormitórios, 1 suíte, 1 banheiro, 1 vaga|R$ 290.000|2 quartos|57m²|R$ 500|1 vaga|Natal, Tirol | |1
+740|Apartamento para Venda em Natal, Lagoa Nova, 3 dormitórios, 3 suítes, 5 banheiros, 2 vagas|R$ 590.000|3 quartos|190m²|R$ 1.400|2 vagas|Natal, Lagoa Nova | |2
+741|Apartamento para Venda em Natal, Ponta Negra, 2 dormitórios, 1 suíte, 1 banheiro, 1 vaga|R$ 250.000|2 quartos|47m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+742|Apartamento para Venda em Natal, Capim Macio, 4 dormitórios, 2 suítes, 2 banheiros, 2 vaga|R$ 882.000|4 quartos|163m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+743|Apartamento para Venda em Natal, Candelária, 1 dormitório, 1 banheiro, 1 vaga|R$ 250.000|1 quarto|50m²|R$ 340|1 vaga|Natal, Candelária | |1
+744|Apartamento para Venda em Natal, Lagoa Nova, 3 dormitórios, 2 suítes, 4 banheiros, 3 vagas|R$ 550.000|3 quartos|170m²|R$ 1.500|3 vagas|Natal, Alecrim | |3
+745| | | | | | | | | 
+746|Apartamento para Venda em Natal, Barro Vermelho, 3 dormitórios, 1 suíte, 2 banheiros, 1 va|R$ 300.000|3 quartos|104m²|R$ 580|1 vaga|Natal, Tirol | |1
+747|Apartamento para Venda em Natal, Candelária, 3 dormitórios, 1 suíte, 3 banheiros, 3 vagas|R$ 549.490|3 quartos|98m²|R$ 775|3 vagas|Natal, Candelária | |3
+748|Apartamento para Venda em Natal, Neópolis, 3 dormitórios, 3 suítes, 1 banheiro, 2 vagas|R$ 380.500|3 quartos|90m²|R$ 0|2 vagas|Natal, Neópolis | |2
+749|Apartamento para Venda em Natal, Tirol, 3 dormitórios, 3 suítes, 5 banheiros, 2 vagas|R$ 750.000|3 quartos|168m²|R$ 1.800|2 vagas|Natal, Tirol | |2
+750| | | | | | | | | 
+751|Apartamento para Venda em Natal, Capim Macio, 4 dormitórios, 3 suítes, 5 banheiros, 2 vaga|R$ 590.000|4 quartos|148m²|R$ 1.246|2 vagas|Natal, Lagoa Nova | |2
+752|Apartamento para Venda em Natal, Barro Vermelho, 3 dormitórios, 1 suíte, 3 banheiros, 2 va|R$ 380.000|3 quartos|98m²|R$ 600|2 vagas|Natal, Barro Vermelho | |2
+753|Apartamento para Venda em Natal, Alecrim, 1 dormitório, 1 banheiro, 1 vaga|R$ 250.000|1 quarto|45m²|R$ 300|1 vaga|Natal, Lagoa Seca | |1
+754|Apartamento para Venda em Natal, Tirol, 2 dormitórios, 1 suíte, 2 banheiros, 1 vaga|R$ 390.000|2 quartos|80m²|R$ 0|1 vaga|Natal, Tirol | |1
+755|Apartamento para Venda em Natal, Capim Macio, 5 dormitórios, 2 suítes, 4 banheiros, 2 vag|R$ 882.000|5 ou mais quartos|42m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+756|Apartamento para Venda em Natal, Lagoa Nova, 3 dormitórios, 1 banheiro, 2 vagas|R$ 240.000|3 quartos|69m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+757|Apartamento para Venda em Natal, Candelaria, 4 dormitórios, 1 suíte, 3 banheiros, 2 vagas|R$ 400.000|4 quartos|98m²|R$ 882|2 vagas|Natal, Candelária | |2
+758|Apartamento para Venda em Natal, AREIA PRETA, 4 dormitórios, 4 suítes, 5 banheiros, 3 vag|R$ 1.900.000|4 quartos|225m²|R$ 0|3 vagas|Natal, Areia Preta | |3
+759|Apartamento para Venda em Natal, Ponta Negra, 1 dormitório, 1 suíte, 1 banheiro, 1 vaga|R$ 284.990|1 quarto|42m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+760| | | | | | | | | 
+761|Apartamento para Venda em Natal, Petropolis, 4 dormitórios, 4 suítes, 6 banheiros, 3 vagas|R$ 750.000|4 quartos|274m²|R$ 1.375|3 vagas|Natal, Petrópolis | |3
+762|Apartamento para Venda em Natal, Tirol, 5 dormitórios, 4 suítes, 1 banheiro, 3 vagas|R$ 900.000|5 ou mais quartos|300m²|R$ 0|3 vagas|Natal, Tirol | |3
+763|Apartamento para Venda em Natal, Petrópolis, 4 dormitórios, 4 suítes, 5 banheiros, 5 vaga|R$ 5.767.000|4 quartos|480m²|R$ 0|5 ou mais vagas|Natal, Petrópolis | |5 ou mais
+764|Apartamento para Venda em Natal, Ponta Negra, 2 dormitórios, 1 suíte, 2 banheiros, 1 vaga|R$ 340.990|2 quartos|51m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+765|Apartamento para Venda em Natal, Ponta Negra, 2 dormitórios, 1 suíte, 2 banheiros, 1 vaga|R$ 445.490|2 quartos|51m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+766| | | | | | | | | 
+767|Apartamento para Venda em Natal, Tirol, 3 dormitórios, 3 suítes, 5 banheiros, 3 vagas|R$ 800.000|3 quartos|200m²|R$ 1.500|3 vagas|Natal, Tirol | |3
+768|Apartamento para Venda em Natal, Candelária, 3 dormitórios, 1 suíte, 3 banheiros, 2 vagas|R$ 480.000|3 quartos|87m²|R$ 0|2 vagas|Natal, Candelária | |2
+769|Apartamento para Venda em Natal, Barro Vermelho, 3 dormitórios, 2 suítes, 4 banheiros, 2 v|R$ 550.000|3 quartos|108m²|R$ 650|2 vagas|Natal, Barro Vermelho | |2
+770|Apartamento para Venda em Natal, Neopolis, 2 dormitórios, 1 suíte, 2 banheiros, 1 vaga|R$ 300.000|2 quartos|57m²|R$ 365|1 vaga|Natal, Neópolis | |1
+771|Apartamento para Venda em Natal, LAGOA NOVA, 3 dormitórios, 1 suíte, 2 banheiros, 2 vagas|R$ 370.000|3 quartos|70m²|R$ 335|2 vagas|Natal, Nossa Senhora de Nazaré | |2
+772|Apartamento para Venda em Natal, Tirol, 2 dormitórios, 1 suíte, 2 banheiros, 2 vagas|R$ 315.000|2 quartos|55m²|R$ 0|2 vagas|Natal, Tirol | |2
+773| | | | | | | | | 
+774|Apartamento para Venda em Natal, Petropolis, 3 dormitórios, 1 suíte, 3 banheiros, 2 vagas|R$ 450.000|3 quartos|150m²|R$ 670|2 vagas|Natal, Petrópolis | |2
+775|Apartamento para Venda em Natal, Tirol, 4 dormitórios, 4 suítes, 5 banheiros, 3 vagas|R$ 1.261.490|4 quartos|150m²|R$ 0|3 vagas|Natal, Tirol | |3
+776|Apartamento Verano Ponta Negra RN para vender com 56 metros quadrados com 2/4 quarto sem 0|R$ 269.000|2 quartos|50m²|R$ 480|1 vaga|Natal, Ponta Negra | |1
+777|Apartamento para Venda em Natal, Tirol, 3 dormitórios, 3 suítes, 5 banheiros, 2 vagas|R$ 1.260.000|3 quartos|150m²|R$ 1.007|2 vagas|Natal, Tirol | |2
+778|Apartamento para Venda em Natal, Areia Preta, 4 dormitórios, 4 suítes, 5 banheiros, 5 vaga|R$ 2.150.000|4 quartos|279m²|R$ 2.216|5 ou mais vagas|Natal, Areia Preta | |5 ou mais
+779|Apartamento para venda em Tirol - Natal - RN - Alto Padrão -|R$ 1.490.000|3 quartos|187m²|R$ 1.250|3 vagas|Natal, Tirol | |3
+780|Apartamento para Venda em Natal, Tirol, 3 dormitórios, 1 suíte, 3 banheiros, 2 vagas|R$ 430.000|3 quartos|90m²|R$ 830|2 vagas|Natal, Tirol | |2
+781|Apartamento para venda em Candelária - Natal - RN - 2/4 totalmente mobiliado|R$ 155.000|2 quartos|60m²|R$ 182|1 vaga|Natal, Candelária | |1
+782|Apartamento para Venda em Natal, Tirol, 4 dormitórios, 3 suítes, 5 banheiros, 2 vagas|R$ 660.000|4 quartos|221m²|R$ 1.300|2 vagas|Natal, Tirol | |2
+783|Apartamento para Venda em Natal, NEÓPOLIS, 2 dormitórios, 1 banheiro, 1 vaga|R$ 140.000|2 quartos|57m²|R$ 195|1 vaga|Natal, Ponta Negra | |1
+784|Apartamento para Venda em Natal, Ponta Negra, 2 dormitórios, 1 banheiro, 1 vaga|R$ 110.000|2 quartos|48m²|R$ 260|1 vaga|Natal, Ponta Negra | |1
+785|Apartamento de Praia para Venda em Natal, PONTA NEGRA, 1 dormitório, 1 banheiro, 1 vaga|R$ 399.000|1 quarto|38m²|R$ 366|1 vaga|Natal, Ponta Negra | |1
+786| | | | | | | | | 
+787|Apartamento para Venda em Natal, Ponta Negra, 2 dormitórios, 1 banheiro, 1 vaga|R$ 270.000|2 quartos|48m²|R$ 270|1 vaga|Natal, Ponta Negra | |1
+788|Apartamento para Venda em Natal, Barro Vermelho, 1 dormitório, 1 suíte, 2 banheiros, 1 vag|R$ 260.000|1 quarto|57m²|R$ 560|1 vaga|Natal, Barro Vermelho | |1
+789|Apartamento para Venda em Natal, Barro Vermelho, 3 dormitórios, 3 suítes, 4 banheiros, 2 v|R$ 550.000|3 quartos|119m²|R$ 0|2 vagas|Natal, Barro Vermelho | |2
+790|Apartamento para Venda em Natal, TIROL, 4 dormitórios, 4 suítes, 6 banheiros, 3 vagas|R$ 1.200.000|4 quartos|157m²|R$ 650|3 vagas|Natal, Tirol | |3
+791|Apartamento para Venda em Natal, Nossa Senhora de Nazaré, 2 dormitórios, 1 suíte, 2 banhei|R$ 250.000|2 quartos|55m²|R$ 300|1 vaga|Natal, Dix-Sept Rosado | |1
+792|Apartamento para venda Natal Plaza, 61m², com 2 quartos em Ponta Negra - Natal - RN|R$ 340.000|2 quartos|61m²|R$ 1.322|1 vaga|Natal, Ponta Negra | |1
+793|Apartamento para Venda em Natal, Nossa Senhora de Nazaré, 3 dormitórios, 1 suíte, 2 banhe|R$ 320.000|3 quartos|70m²|R$ 0|2 vagas|Natal, Nossa Senhora de Nazaré | |2
+794| | | | | | | | | 
+795|Apartamento para Venda em Natal / RN no bairro Capim Macio|R$ 692.990|4 quartos|108m²|R$ 560|2 vagas|Natal, Capim Macio | |2
+796|Apartamento para Venda em Natal, Lagoa Nova, 3 dormitórios, 1 suíte, 3 banheiros, 2 vagas|R$ 270.000|3 quartos|119m²|R$ 600|2 vagas|Natal, Lagoa Nova | |2
+797|Apartamento para Venda em Natal, Ponta Negra, 2 dormitórios, 1 suíte, 2 banheiros, 1 vaga|R$ 481.190|2 quartos|48m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+798|Apartamento para Venda em Natal, Lagoa Nova, 3 dormitórios, 2 suítes, 4 banheiros, 2 vagas|R$ 720.000|3 quartos|119m²|R$ 658|2 vagas|Natal, Lagoa Nova | |2
+799|Apartamento para Venda em Natal, Lagoa Nova, 3 dormitórios, 3 suítes, 5 banheiros, 3 vagas|R$ 880.000|3 quartos|136m²|R$ 0|3 vagas|Natal, Lagoa Nova | |3
+800|Apartamento para Venda em Natal, Capim Macio, 3 dormitórios, 2 banheiros, 1 vaga|R$ 175.000|3 quartos|80m²|R$ 0|1 vaga|Natal, Capim Macio | |1
+801|Apartamento para Venda em Natal / RN no bairro Capim Macio|R$ 692.490|4 quartos|108m²|R$ 560|2 vagas|Natal, Capim Macio | |2
+802|Apartamento para Venda em Natal, Neopolis, 2 dormitórios, 1 suíte, 2 banheiros, 1 vaga|R$ 260.000|2 quartos|57m²|R$ 0|1 vaga|Natal, Neópolis | |1
+803|Apartamento para Venda em Natal, Lagoa Nova, 3 dormitórios, 2 banheiros, 1 vaga|R$ 199.000|3 quartos|96m²|R$ 350|1 vaga|Natal, Lagoa Nova | |1
+804|Apartamento para Venda em Natal, Barro Vermelho, 4 dormitórios, 3 suítes, 5 banheiros, 2 v|R$ 600.000|4 quartos|210m²|R$ 0|2 vagas|Natal, Barro Vermelho | |2
+805|Apartamento para Venda em Natal, Nova Descoberta, 2 dormitórios, 1 suíte, 2 banheiros, 1 v|R$ 220.000|2 quartos|59m²|R$ 430|1 vaga|Natal, Nova Descoberta | |1
+806| | | | | | | | | 
+807|Apartamento para Venda em Natal, Dix-Sept Rosado, 2 dormitórios, 1 banheiro, 1 vaga|R$ 110.000|2 quartos|57m²|R$ 190|1 vaga|Natal, Dix-Sept Rosado | |1
+808|Apartamento para Venda em Natal, Ponta Negra, 4 dormitórios, 3 suítes, 4 banheiros, 2 vaga|R$ 520.000|4 quartos|102m²|R$ 680|2 vagas|Natal, Ponta Negra | |2
+809|Apartamento para Venda em Natal, Lagoa Seca, 3 dormitórios, 1 suíte, 3 banheiros, 2 vagas|R$ 480.000|3 quartos|109m²|R$ 950|2 vagas|Natal, Lagoa Seca | |2
+810|Apartamento para Venda em Natal, Neopolis, 2 dormitórios, 1 banheiro, 1 vaga|R$ 125.000|2 quartos|60m²|R$ 230|1 vaga|Natal, Neópolis | |1
+811|Apartamento para Venda em Natal, Pitimbu, 2 dormitórios, 1 banheiro, 1 vaga|R$ 110.000|2 quartos|50m²|R$ 250|1 vaga|Natal, Pitimbu | |1
+812|Apartamento para Venda em Natal, Lagoa Nova, 2 dormitórios, 1 suíte, 3 banheiros, 2 vagas|R$ 550.000|2 quartos|87m²|R$ 722|2 vagas|Natal, Lagoa Nova | |2
+813|Apartamento para Venda em Natal, Petropolis, 3 dormitórios, 1 suíte, 3 banheiros, 2 vagas|R$ 380.000|3 quartos|172m²|R$ 1.122|2 vagas|Natal, Petrópolis | |2
+814|Apartamento para Venda em Natal, Ponta Negra, 2 dormitórios, 1 suíte, 2 banheiros, 1 vaga|R$ 250.000|2 quartos|60m²|R$ 670|1 vaga|Natal, Ponta Negra | |1
+815|Apartamento para Venda em Natal, Pitimbu, 2 dormitórios, 1 suíte, 1 banheiro, 2 vagas|R$ 255.000|2 quartos|57m²|R$ 350|2 vagas|Natal, Pitimbu | |2
+816|Apartamento para Venda em Natal, Tirol, 2 dormitórios, 2 suítes, 4 banheiros, 2 vagas|R$ 650.000|2 quartos|134m²|R$ 1.400|2 vagas|Natal, Tirol | |2
+817|Apartamento para Venda em Natal, Tirol, 3 dormitórios, 1 suíte, 3 banheiros, 2 vagas|R$ 500.000|3 quartos|140m²|R$ 0|2 vagas|Natal, Tirol | |2
+818|Apartamento para Venda em Natal, Lagoa Nova, 3 dormitórios, 2 suítes, 4 banheiros, 2 vagas|R$ 665.000|3 quartos|113m²|R$ 770|2 vagas|Natal, Lagoa Nova | |2
+819| | | | | | | | | 
+820|Apartamento para Venda em Natal, Areia Preta, 4 dormitórios, 4 suítes, 6 banheiros, 5 vaga|R$ 3.200.000|4 quartos|450m²|R$ 3.800|5 ou mais vagas|Natal, Areia Preta | |5 ou mais
+821|Apartamento para Venda em Natal, Barro Vermelho, 2 dormitórios, 1 suíte, 2 banheiros, 1 va|R$ 278.899|2 quartos|55m²|R$ 425|1 vaga|Natal, Tirol | |1
+822|Apartamento para Venda em Natal, alecrim, 3 dormitórios, 1 suíte, 2 banheiros, 2 vagas|R$ 200.000|3 quartos|100m²|R$ 440|2 vagas|Natal, Cidade Nova | |2
+823|Apartamento para Venda em Natal, Lagoa Nova, 2 dormitórios, 1 suíte, 2 banheiros, 1 vaga|R$ 290.000|2 quartos|56m²|R$ 0|1 vaga|Natal, Lagoa Nova | |1
+824|Apartamento para Venda em Natal, Tirol, 2 dormitórios, 1 suíte, 1 banheiro, 1 vaga|R$ 285.000|2 quartos|55m²|R$ 515|1 vaga|Natal, Tirol | |1
+825|Apartamento para Venda em Natal, Planalto, 2 dormitórios, 1 banheiro, 1 vaga|R$ 120.000|2 quartos|52m²|R$ 215|1 vaga|Natal, Planalto | |1
+826|Apartamento para Venda em Natal, Ponta Negra, 3 dormitórios, 1 suíte, 2 banheiros, 2 vagas|R$ 790.000|3 quartos|101m²|R$ 0|2 vagas|Natal, Ponta Negra | |2
+827|Apartamento para Venda em Natal, Lagoa Nova, 2 dormitórios, 1 banheiro, 1 vaga|R$ 220.000|2 quartos|77m²|R$ 0|1 vaga|Natal, Lagoa Nova | |1
+828|Apartamento para Venda em Natal, Ponta Negra, 1 dormitório, 1 suíte, 1 banheiro, 1 vaga|R$ 200.000|1 quarto|42m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+829|Apartamento para Venda em Natal, Tirol, 4 dormitórios, 4 suítes, 6 banheiros, 1 vaga|R$ 1.600.000|4 quartos|286m²|R$ 0|1 vaga|Natal, Tirol | |1
+830|Apartamento para Venda em Natal, Ponta Negra, 2 dormitórios, 1 suíte, 2 banheiros, 1 vaga|R$ 300.000|2 quartos|52m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+831|Apartamento para Venda em Natal, Ponta Negra, 2 dormitórios, 1 suíte, 2 banheiros, 1 vaga|R$ 240.000|2 quartos|55m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+832|Apartamento para Venda em Natal, Tirol, 2 dormitórios, 1 suíte, 2 banheiros, 1 vaga|R$ 340.000|2 quartos|52m²|R$ 0|1 vaga|Natal, Tirol | |1
+833|Apartamento para Venda em Natal, Lagoa Nova, 3 dormitórios, 3 suítes, 1 banheiro, 2 vagas|R$ 876.000|3 quartos|142m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+834|Apartamento para Venda em Natal, Tirol, 3 dormitórios, 2 suítes, 2 banheiros, 2 vagas|R$ 743.000|3 quartos|88m²|R$ 880|2 vagas|Natal, Tirol | |2
+835|Apartamento para Venda em Natal, Planalto, 2 dormitórios, 1 banheiro, 1 vaga|R$ 110.000|2 quartos|43m²|R$ 240|1 vaga|Natal, Planalto | |1
+836|Apartamento para Venda em Natal, Pitimbu, 2 dormitórios, 1 banheiro, 1 vaga|R$ 90.000|2 quartos|58m²|R$ 260|1 vaga|Natal, Pitimbu | |1
+837|Apartamento para Venda em Natal, LAGOA NOVA - ED. ARAGUAIA, 3 dormitórios, 1 suíte, 2 ban|R$ 280.000|3 quartos|106m²|R$ 300|1 vaga|Natal, Lagoa Nova | |1
+838| | | | | | | | | 
+839|Apartamento para Venda em Natal, TIROL - TERRAÇO DAS DUNAS, 3 dormitórios, 1 suíte, 3 ban|R$ 650.000|3 quartos|104m²|R$ 800|2 vagas|Natal, Tirol | |2
+840| | | | | | | | | 
+841|Apartamento para Venda em Natal, AREIA PRETA - RESIDENCIAL PAVAROTTI, 4 dormitórios, 4 su|R$ 1.950.000|4 quartos|240m²|R$ 2.000|4 vagas|Natal, Areia Preta | |4
+842|Apartamento para Venda em Natal, LAGOA NOVA- VERNIER, 3 dormitórios, 1 suíte, 3 banheiros|R$ 550.000|3 quartos|168m²|R$ 1.400|3 vagas|Natal, Lagoa Nova | |3
+843|Apartamento para Venda em Natal, TIROL - EDIFÍCIO KOPENHAGEM, 3 dormitórios, 1 suíte, 3 b|R$ 430.000|3 quartos|120m²|R$ 1.500|2 vagas|Natal, Barro Vermelho | |2
+844|Apartamento para Venda em Natal, PONTA NEGRA - CONDOMÍNIO MARIA ANTONIETTA, 2 dormitórios|R$ 450.000|2 quartos|114m²|R$ 1.100|1 vaga|Natal, Ponta Negra | |1
+845|Apartamento para Venda em Natal, LAGOA NOVA - RESIDENCIAL MARIA RODRIGUES, 3 dormitórios,|R$ 585.000|3 quartos|112m²|R$ 700|2 vagas|Natal, Lagoa Nova | |2
+846|Apartamento para Venda em Natal, PETRÓPOLIS - CONDOMÍNIO RESIDENCIAL ALMÉRIO DE PAIVA, 3|R$ 580.000|3 quartos|160m²|R$ 1.280|2 vagas|Natal, Petrópolis | |2
+847|Apartamento para Venda em Natal, CANDELÁRIA - ED. PALMA VERDI, 3 dormitórios, 3 suítes, 5|R$ 350.000|3 quartos|150m²|R$ 1.150|2 vagas|Natal, Candelária | |2
+848|Apartamento para Venda em Natal, CANDELÁRIA - RESIDENCIAL MARIE GALANTE, 3 dormitórios, 1|R$ 370.000|3 quartos|100m²|R$ 580|3 vagas|Natal, Candelária | |3
+849|Apartamento para Venda em Natal, DIX-SEPT ROSADO/LAGOA NOVA - ALVORADA RESIDENCIAL, 3 dor|R$ 341.000|3 quartos|75m²|R$ 450|2 vagas|Natal, Dix-Sept Rosado | |2
+850|Apartamento para Venda em Natal, TIROL - RESIDENCIAL AVARANDADOS DO TIROL, 3 dormitórios,|R$ 390.000|3 quartos|150m²|R$ 1.000|2 vagas|Natal, Barro Vermelho | |2
+851|Apartamento para Venda em Natal, TIROL - UNIQUE RÉSIDENCE, 4 dormitórios, 4 suítes, 6 ban|R$ 2.350.000|4 quartos|281m²|R$ 2.200|4 vagas|Natal, Tirol | |4
+852|Apartamento Para Venda em Lagoa Nova - Natal-RN|R$ 240.000|3 quartos|90m²|R$ 836|1 vaga|Natal, Lagoa Nova | |1
+853|Lacqua Apartamento para venda com 92 metros quadrados com 3 quartos em Neópolis - Natal - |R$ 387.000|3 quartos|92m²|R$ 555|2 vagas|Natal, Neópolis | |2
+854|Dakota - Apartamento para venda tem 56 metros quadrados com 2 quartos em Tirol - Natal - R|R$ 320.000|2 quartos|56m²|R$ 470|1 vaga|Natal, Tirol | |1
+855|DUO - repasse - Apartamento para venda com 134 m² - 3 suítes - Capim Macio - Natal - RN|R$ 930.283|3 quartos|134m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+856|DUO - repasse - Apartamento para venda com 117 m² - 3 suítes - Capim Macio - Natal - RN|R$ 807.070|3 quartos|117m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+857|Tirol Garden - Apartamento para venda com 161m²  - Tirol - Natal - RN|R$ 1.179.900|4 quartos|161m²|R$ 950|3 vagas|Natal, Tirol | |3
+858| | | | | | | | | 
+859|DUO - repasse - Apartamento para venda com 75 m² - 2 quartos - Capim Macio - Natal - RN|R$ 497.728|2 quartos|75m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+860|Tirol Garden - Apartamento 3 suítes + home office para venda possui 157 m² - Tirol - Natal|R$ 1.190.000|3 quartos|157m²|R$ 0|4 vagas|Natal, Tirol | |4
+861|Flat para venda possui 35 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 2.400|1 quarto|35m²|R$ 1|1 vaga|Natal, Ponta Negra | |1
+862| | | | | | | | | 
+863|Duplex para venda com 126 metros quadrados com 3 quartos em Neópolis - Natal - RN|R$ 950.000|3 quartos|126m²|R$ 595|2 vagas|Natal, Neópolis | |2
+864|Flat para venda com 30 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 185.000|1 quarto|30m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+865|Flat para venda possui 47 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 385.000|1 quarto|47m²|R$ 1.100|1 vaga|Natal, Ponta Negra | |1
+866|Vendo flat 100% mobiliado com vista para o mar em Areia Preta - Natal - RN|R$ 200.000|1 quarto|34m²|R$ 624|1 vaga|Natal, Areia Preta | |1
+867|Flat para venda com 67 metros quadrados com 1 quarto em Areia Preta - Natal - Rio Grande d|R$ 1.800.000|1 quarto|67m²|R$ 624|1 vaga|Natal, Areia Preta | |1
+868|Flat para venda tem 54 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 330.000|1 quarto|54m²|R$ 632|1 vaga|Natal, Ponta Negra | |1
+869|Duplex para venda com 3 quartos em Lagoa Nova - Natal - RN|R$ 819.900|3 quartos|162m²|R$ 780|3 vagas|Natal, Lagoa Nova | |3
+870|Flat para venda possui 42 metros em Ponta Negra - Natal - RN|R$ 200.000|1 quarto|42m²|R$ 300|1 vaga|Natal, Ponta Negra | |1
+871|Flat para venda possui 38 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 400.000|1 quarto|38m²|R$ 333|1 vaga|Natal, Ponta Negra | |1
+872|Flat para venda tem 52 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 255.000|2 quartos|52m²|R$ 1.250|1 vaga|Natal, Ponta Negra | |1
+873|Flat para venda tem 26 m² com 1 qto em Ponta Negra - Natal - RN|R$ 229.000|1 quarto|26m²|R$ 420|1 vaga|Natal, Ponta Negra | |1
+874|Flat para venda metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 290.000|1 quarto|34m²|R$ 748|1 vaga|Natal, Ponta Negra | |1
+875|Cobertura para venda tem 413 metros quadrados com 4 quartos em Areia Preta - Natal - RN|R$ 4.200.000|4 quartos|413m²|R$ 0|4 vagas|Natal, Areia Preta | |4
+876|Flat para venda possui 47m² com vista para o mar com 1 quarto em Areia Preta - Natal - RN|R$ 215.000|1 quarto|47m²|R$ 570|1 vaga|Natal, Areia Preta | |1
+877| | | | | | | | | 
+878|Flat para venda com 240 metros quadrados com 4 quartos em Ponta Negra - Natal - RN|R$ 2.000.000|4 quartos|240m²|R$ 1.500| |Natal, Ponta Negra | |Churrasqueira, Varanda, Piscina, Mobiliado, Ar condicionado, Academia
+879|Flat para venda com 72  metros quadrados com 1 quarto Ponta Negra - Natal - RN|R$ 300.000|1 quarto|72m²|R$ 1.000|1 vaga|Natal, Ponta Negra | |1
+880|Duplex para venda no Infinity Areia Preta com 406 m², 4 suítes - Natal - RN|R$ 4.200.000|4 quartos|406m²|R$ 3.500|5 ou mais vagas|Natal, Areia Preta | |5 ou mais
+881|Triplex para venda possui 1000 metros quadrados com 6 quartos em Capim Macio - Natal - RN|R$ 1.990.000|5 ou mais quartos|1000m²|R$ 0|5 ou mais vagas|Natal, Capim Macio | |5 ou mais
+882|Cobertura para venda possui 506m² com 04 suíte em Tirol - Natal - RN|R$ 1.900.000|4 quartos|506m²|R$ 0|1 vaga|Natal, Tirol | |1
+883|Flat para venda com 43 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 200.000|1 quarto|43m²|R$ 530|1 vaga|Natal, Ponta Negra | |1
+884| | | | | | | | | 
+885|Aptº para venda tem 370m² com 4 suítes - Natal - RN|R$ 2.500.000|4 quartos|370m²|R$ 2.875|4 vagas|Natal, Ribeira | |4
+886|Flat para venda com 32 metros quadrados com 1 quarto em Praia do Meio - Natal - RN|R$ 122.000|1 quarto|32m²|R$ 450|1 vaga|Natal, Praia do Meio | |1
+887|Flat para venda possui 40 metros quadrados com 1 quarto em Praia do Meio - Natal - RN|R$ 100.000|1 quarto|40m²|R$ 510|1 vaga|Natal, Praia do Meio | |1
+888|Flat para venda com 38 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 210.000|1 quarto|38m²|R$ 1.000|1 vaga|Natal, Ponta Negra | |1
+889|Duplex para venda tem 270 metros quadrados com 3 quartos em Lagoa Nova - Natal - RN|R$ 500.000|3 quartos|270m²|R$ 1.250|2 vagas|Natal, Lagoa Nova | |2
+890|Flat para venda mobiliado com 39m²  com 1 quarto em Ponta Negra - Natal - RN|R$ 210.000|1 quarto|39m²|R$ 463|1 vaga|Natal, Ponta Negra | |1
+891| | | | | | | | | 
+892|Cobertura duplex para venda com 126 metros quadrados com 2 quartos em Neópolis - Natal - R|R$ 900.000|2 quartos|126m²|R$ 0|2 vagas|Natal, Neópolis | |2
+893|Flat Residencial para venda, Ponta Negra, Natal - .|R$ 160.000|1 quarto|10m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+894|Loft para venda com 40 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 300.000|1 quarto|40m²|R$ 632|1 vaga|Natal, Ponta Negra | |1
+895| | | | | | | | | 
+896|Duplex para venda com 311 metros quadrados com 4 quartos em Lagoa Nova - Natal - RN|R$ 1.380.000|4 quartos|311m²|R$ 0|3 vagas|Natal, Lagoa Nova | |3
+897|Vendo Apto 64m2 para Investidores no Cond. Quality Suítes Natal Plaza em Ponta Negra|R$ 389.000|2 quartos|64m²|R$ 1.190|1 vaga|Natal, Ponta Negra | |1
+898|Flat para venda tem 45 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 390.000|2 quartos|45m²|R$ 1.500| |Natal, Ponta Negra | |Condomínio fechado, Portaria
+899|Flat para venda com 35 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 350.000|1 quarto|35m²|R$ 333|1 vaga|Natal, Ponta Negra | |1
+900|Flat para venda tem 37 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 219.900|1 quarto|37m²|R$ 545|1 vaga|Natal, Ponta Negra | |1
+901|Flat para venda possui 32 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 195.000|1 quarto|32m²|R$ 532|1 vaga|Natal, Ponta Negra | |1
+902|Cobertura para venda possui 91 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 1.132.000|2 quartos|91m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+903| | | | | | | | | 
+904|Loft para venda tem 47 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 343.400|1 quarto|47m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+905|Flat para venda possui 38 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 210.000|1 quarto|38m²|R$ 1.611| |Natal, Ponta Negra | |Armários na cozinha, Ar condicionado, Mobiliado, Piscina, Academia, Varanda
+906|Flat para venda possui 21 m² com 1 suíte em Ponta Negra - Natal - RN|R$ 159.000|1 quarto|21m²|R$ 773| |Natal, Ponta Negra | |Mobiliado, Ar condicionado, Piscina
+907|Flat para venda tem 34 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 290.000|1 quarto|34m²|R$ 748|1 vaga|Natal, Ponta Negra | |1
+908| | | | | | | | | 
+909|Flat para venda possui 53 metros quadrados em Ponta Negra - Natal - RN|R$ 340.000|2 quartos|53m²|R$ 1.300|2 vagas|Natal, Ponta Negra | |2
+910|Disponível para venda  Quality Suites Natal Ponta Negra|R$ 220.000|1 quarto|27m²|R$ 420|1 vaga|Natal, Ponta Negra | |1
+911|Flat para venda com 30 metros quadrados com 1 quarto em Capim Macio - Natal - RN|R$ 195.000|1 quarto|30m²|R$ 0| |Natal, Capim Macio | |Elevador
+912|Flat para aluguel e venda tem 46 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 290.000|1 quarto|46m²|R$ 662|1 vaga|Natal, Ponta Negra | |1
+913|Cobertura duplex para venda possui 505 metros quadrados com 4 quartos em Tirol - Natal - R|R$ 1.800.000|4 quartos|505m²|R$ 1.800|3 vagas|Natal, Tirol | |3
+914|Cobertura duplex para venda tem 406 metros quadrados com 4 quartos em Areia Preta - Natal |R$ 3.980.000|4 quartos|406m²|R$ 3.300|5 ou mais vagas|Natal, Areia Preta | |5 ou mais
+915|Duplex para venda possui 233 metros quadrados com 4 quartos em Tirol - Natal - RN|R$ 1.000.000|4 quartos|233m²|R$ 1.225|3 vagas|Natal, Tirol | |3
+916|Flat para venda tem 27 metros quadrados com 1 quarto em Ponta Negra - Natal - RN|R$ 152.000|1 quarto|27m²|R$ 750|1 vaga|Natal, Ponta Negra | |1
+917|Cobertura para venda com 136 metros quadrados com 4 quartos em Tirol - Natal - Rio Grande |R$ 800.000|3 quartos|136m²|R$ 0|2 vagas|Natal, Tirol | |2
+918| | | | | | | | | 
+919|Flat residencial para venda e locação, Petrópolis, Natal.|R$ 340.000|1 quarto|46m²|R$ 1.000|1 vaga|Natal, Petrópolis | |1
+920|Flat para venda com 60 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 250.000|2 quartos|60m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+921|Cobertura para venda possui 100 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 550.000|2 quartos|100m²|R$ 890|1 vaga|Natal, Ponta Negra | |1
+922|Apartamento para venda com 79 metros no Terramaris em Ponta Negra, com 3/4.|R$ 730.000|3 quartos|79m²|R$ 0|2 vagas|Natal, Ponta Negra | |2
+923|Apartamento para venda com 56 metros quadrados com 2 quartos|R$ 298.000|2 quartos|56m²|R$ 380|1 vaga|Natal, Ponta Negra | |1
+924| | | | | | | | | 
+925|Prédio Residencial para Venda em Natal, Ponta Negra|R$ 1.080.000|600m²|Condomínio: R$ 0| | |Natal, Ponta Negra | |59090380
+926|Flat para Venda em Natal, Ponta Negra, 1 dormitório, 1 banheiro, 1 vaga|R$ 389.990|1 quarto|38m²|R$ 333|1 vaga|Natal, Ponta Negra | |1
+927|Apartamento para venda com 80m2 Em construção - entrada de 30mil|R$ 30.000|3 quartos|80m²|R$ 0|2 vagas|Natal, Ponta Negra | |2
+928|Apartamento à venda totalmente reformado -  com vista para o mar de Ponta Negra|R$ 560.000|1 quarto|51m²|R$ 607|1 vaga|Natal, Ponta Negra | |1
+929|Apartamento região nobre para venda andar alto com 4 suíte próx. TRE|R$ 1.250.000|4 quartos|100m²|R$ 0|2 vagas|Natal, Tirol | |2
+930| | | | | | | | | 
+931|Apartamento para venda tem 50 metros quadrados com 2 quartos em Cidade da Esperança - Nata|R$ 129.900|2 quartos|50m²|R$ 200|1 vaga|Natal, Cidade da Esperança | |1
+932|Prédio para Venda em Natal, Ponta Negra, 15 dormitórios, 15 suítes, 15 banheiros, 6 vagas|R$ 620.000|5 ou mais quartos|802m²|R$ 0|5 ou mais vagas|Natal, Ponta Negra | |5 ou mais
+933|Apartamento para aluguel e venda tem 46 metros quadrados com 1 quarto em Praia do Meio - N|R$ 1.000|1 quarto|46m²|R$ 0|1 vaga|Natal, Praia do Meio | |1
+934|Apartamento para venda tem 55 m3 - 2 quartos - Ed Olhar das Dunas - MOURA DUBEUX|R$ 381.000|2 quartos|55m²|R$ 0|1 vaga|Natal, Lagoa Nova | |1
+935|Apartamento para venda com 79 metros quadrados com 3 quartos|R$ 420.000|3 quartos|79m²|R$ 350|2 vagas|Natal, Ponta Negra | |2
+936| | | | | | | | | 
+937|Apartamento para venda possui 66 m2 com 2 quartos, ambiente TOP.|R$ 222.000|2 quartos|66m²|R$ 250|1 vaga|Natal, Lagoa Nova | |1
+938|Apartamento para venda a partir de 55m², 2/4, sendo 1 suíte no Paradise Village|R$ 330.000|2 quartos|55m²|R$ 0|1 vaga|Natal, Capim Macio | |1
+939|Apartamento para venda  em Lagoa Nova|R$ 750.000|3 quartos|131m²|R$ 0|3 vagas|Natal, Lagoa Nova | |3
+940|Apartamento para venda tem 165 metros quadrados Condomínio Firenze com 4 Suítes|R$ 1.200.000|5 ou mais quartos|165m²|R$ 980|3 vagas|Natal, Lagoa Nova | |3
+941| | | | | | | | | 
+942|Apartamento para venda possui 175 metros quadrados com 3 suítes entrega em 2025|R$ 1.215.000|4 quartos|175m²|R$ 1|3 vagas|Natal, Tirol | |3
+943|Apartamento para venda possui 73 metros - Entrada Facilitada|R$ 25.000|3 quartos|73m²|R$ 0|1 vaga|Natal, Nossa Senhora de Nazaré | |1
+944|Cobertura para Venda em Natal, Ponta Negra, 2 dormitórios, 2 suítes, 3 banheiros, 2 vagas|R$ 700.000|2 quartos|120m²|R$ 900|2 vagas|Natal, Ponta Negra | |2
+945|Flat para Venda em Natal/RN no bairro Ponta Negra, residencial Kings Flat.|R$ 399.980|1 quarto|74m²|R$ 1.094|1 vaga|Natal, Ponta Negra | |1
+946|Apartamento para venda com 120 m2 em Tirol por R$665.000,00|R$ 665.000|3 quartos|120m²|R$ 0|2 vagas|Natal, Tirol | |2
+947|Apartamento para venda com 53 metros quadrados com 2 quartos|R$ 129.000|2 quartos|53m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+948| | | | | | | | | 
+949|Apartamento para venda com 86 metros|R$ 510.000|3 quartos|86m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+950|Flat para Venda em Natal/RN no bairro Ponta Negra, residencial Kings Flat.|R$ 549.990|1 quarto|74m²|R$ 1.450|1 vaga|Natal, Ponta Negra | |1
+951|Apartamento para venda com 86 metros quadrados com 3 quartos sendo 1 suíte.|R$ 390.000|3 quartos|86m²|R$ 375|2 vagas|Natal, Candelária | |2
+952|Apartamento para aluguel e venda possui 147 metros quadrados com 4 quartos em Tirol - Nata|R$ 3.000|4 quartos|147m²|R$ 1.450|2 vagas|Natal, Tirol | |2
+953|Apartamento para venda com 3 suítes no bairro do Tirol|R$ 559.000|3 quartos|104m²|R$ 840|2 vagas|Natal, Tirol | |2
+954|Apartamento Mobiliado em Ponta Negra, 2 quartos, para venda ou locação.|R$ 580.000|2 quartos|55m²|R$ 600|1 vaga|Natal, Ponta Negra | |1
+955|Apartamento para venda Petrópolis tem 56 metros quadrados com 2 quartos|R$ 240.000|2 quartos|56m²|R$ 400|1 vaga|Natal, Petrópolis | |1
+956|Apartamento para venda tem 77 metros quadrados com 3 quartos em Nossa Senhora de Nazaré - |R$ 360.000|3 quartos|77m²|R$ 390|2 vagas|Natal, Nossa Senhora de Nazaré | |2
+957|Apartamento para aluguel e venda com 60 metros quadrados com 1 quarto|R$ 200.000|1 quarto|60m²|R$ 0|1 vaga|Natal, Petrópolis | |1
+958|Ótimo Apartamento todo reformado no Ville Sainte Anne - Para Locação e Venda - Bairro - La|R$ 320.000|3 quartos|93m²|R$ 1.100|2 vagas|Natal, Lagoa Nova | |2
+959|Apartamento para venda possui 119 m2 TODO reformado com 2 suítes , sendo uma SUPER MASTER!|R$ 890.000|2 quartos|119m²|R$ 1.050|2 vagas|Natal, Tirol | |2
+960|Apartamento para venda possui 449 m2 em Petrópolis|R$ 3.200.000|4 quartos|449m²|R$ 2.500|4 vagas|Natal, Petrópolis | |4
+961|Apartamento para venda com 3 suítes em Lagoa Nova|R$ 900.000|3 quartos|120m²|R$ 900| |Natal, Lagoa Nova | |Churrasqueira, Piscina, Academia
+962|Apartamento para venda no Sun Gardens - Satélite|R$ 220.000|2 quartos|57m²|R$ 350|2 vagas|Natal, Pitimbu | |2
+963|Apartamento para venda possui 196metros quadrados 4suites|R$ 1.600.000|4 quartos|192m²|R$ 0|4 vagas|Natal, Capim Macio | |4
+964|Apartamento para venda com 80 metros quadrados com 3 quartos - 1 suíte - 1 reversível - 1 |R$ 630.000|3 quartos|80m²|R$ 550|2 vagas|Natal, Ponta Negra | |2
+965| | | | | | | | | 
+966|Apartamento para venda possui 70 metros quadrados com 3 quartos|R$ 450.000|3 quartos|70m²|R$ 0|2 vagas|Natal, Nossa Senhora de Nazaré | |2
+967|Apartamento para Venda em Ponta Negra - 2 quartos sendo 1 suíte - Cond. Estrela do Atlânti|R$ 440.895|2 quartos|58m²|R$ 373|1 vaga|Natal, Ponta Negra | |1
+968|Apartamento em Areia Preta Mobiliado para venda|R$ 570.000|2 quartos|89m²|R$ 800|1 vaga|Natal, Areia Preta | |1
+969|Apartamento para venda possui 47 m² com 2 qtos em Nova Parnamirim - Parnamirim - RN|R$ 127.000|2 quartos|47m²|R$ 180|1 vaga|Parnamirim, Nova Parnamirim | |1
+970|Apartamento para venda possui 70 metros quadrados com 2 quartos|R$ 135.000|2 quartos|70m²|R$ 200|1 vaga|Natal, Neópolis | |1
+971|Apartamento para venda com 166 metros quadrados com 3 quartos em Tirol|R$ 1.690.000|3 quartos|166m²|R$ 950|3 vagas|Natal, Tirol | |3
+972|Apartamento para venda tem 113m em lagoa nova|R$ 649.000|3 quartos|113m²|R$ 770|2 vagas|Natal, Lagoa Nova | |2
+973| | | | | | | | | 
+974|Apartamento para venda possui 56 metros quadrados com 2 quartos|R$ 285.000|2 quartos|56m²|R$ 300|1 vaga|Natal, Candelária | |1
+975|Apartamento para venda ponta negra Towers possui 66 metros quadrados com 2 quartos|R$ 450.000|2 quartos|66m²|R$ 480|1 vaga|Natal, Ponta Negra | |1
+976|Apartamento para venda possui 55 metros quadrados com 2 quartos|R$ 260.000|2 quartos|55m²|R$ 0|1 vaga|Natal, Capim Macio | |1
+977|Apartamento com 3 quartos para venda em Lagoa Nova.|R$ 230.000|3 quartos|80m²|R$ 550|2 vagas|Natal, Lagoa Nova | |2
+978| | | | | | | | | 
+979|Apartamento para  venda possui 54m² com 2 quartos sendo 1 suite|R$ 240.000|2 quartos|54m²|R$ 300|1 vaga|Natal, Ponta Negra | |1
+980|Apartamento para aluguel e venda com 79 metros quadrados com 3 quartos em Ponta Negra - Na|R$ 4.300|3 quartos|79m²|R$ 0|2 vagas|Natal, Ponta Negra | |2
+981|Apartamento para venda ponta negra com 56 metros quadrados com 2 quartos|R$ 199.999|2 quartos|56m²|R$ 315|1 vaga|Natal, Ponta Negra | |1
+982|Apartamento para venda Tirol possui 119metros quadrados com 3 suíte+dep. Completa|R$ 520.000|3 quartos|100m²|R$ 700|3 vagas|Natal, Barro Vermelho | |3
+983|Apartamento para venda possui 142m2 no Tirol|R$ 850.000|3 quartos|142m²|R$ 800|2 vagas|Natal, Barro Vermelho | |2
+984|Apartamento duplex para venda tem 179 m2 em Lagoa Nova|R$ 1.350.000|3 quartos|179m²|R$ 0|4 vagas|Natal, Lagoa Nova | |4
+985|Apartamento para aluguel e venda com 79 metros quadrados com 3 quartos em Ponta Negra - Na|R$ 670.000|3 quartos|79m²|R$ 0|2 vagas|Natal, Ponta Negra | |2
+986|Apartamento para venda tem 40m2 , beira-mar, mobiliado|R$ 230.000|1 quarto|40m²|R$ 625|1 vaga|Natal, Areia Preta | |1
+987|Apartamento para venda possui 150 m2 - 3 quartos - 1 suíte|R$ 370.000|3 quartos|150m²|R$ 1.470|2 vagas|Natal, Barro Vermelho | |2
+988|Apartamento para venda possui 90 metros quadrados com 3 quartos|R$ 349.000|3 quartos|90m²|R$ 550|2 vagas|Natal, Lagoa Nova | |2
+989|Apartamento para venda tem 55 metros quadrados com 1 quarto|R$ 115.000|1 quarto|55m²|R$ 0|1 vaga|Natal, Capim Macio | |1
+990|Apartamento para venda tem 98 m2 com 3 quartos em Tirol|R$ 400.000|3 quartos|98m²|R$ 1.650|2 vagas|Natal, Tirol | |2
+991|Apartamento para venda tem 165 metros quadrados|R$ 787.000|3 quartos|165m²|R$ 1.200|3 vagas|Natal, Lagoa Nova | |3
+992|Apartamento para aluguel e venda possui 55 metros quadrados com 2 Q|R$ 350.000|2 quartos|55m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+993|Apartamento para venda tem 57 metros quadrados com 2 quartos sendo 1 suíte.|R$ 210.000|2 quartos|57m²|R$ 0|1 vaga|Natal, Pitimbu | |1
+994|Apartamento para venda com 98 metros quadrados com 3/4 sendo 2 suítes em Lagoa Nova - Nata|R$ 750.000|3 quartos|98m²|R$ 630|2 vagas|Natal, Lagoa Nova | |2
+995|Apartamento para venda tem 150m 3/4 mais escritório|R$ 630.000|4 quartos|150m²|R$ 1.370|2 vagas|Natal, Barro Vermelho | |2
+996|Apartamento para venda possui 110 m3 com 3 quartos - 2 suítes - 1 master c/ closet + roupa|R$ 649.900|3 quartos|110m²|R$ 1|2 vagas|Natal, Tirol | |2
+997|Apartamento para venda tem 252 m² - Tirol|R$ 500.000|4 quartos|252m²|R$ 1.260|2 vagas|Natal, Tirol | |2
+998|Apartamento no Edifício Sol e Mar disponível para venda|R$ 180.000|3 quartos|75m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+999|Apartamento Flat Ponta Negra RN para venda com 36 metros quadrados com 1 quarto|R$ 165.000|1 quarto|36m²|R$ 896|1 vaga|Natal, Ponta Negra | |1
+1000|Apartamento para venda com 44 metros quadrados com 2 quartos em Emaús - Parnamirim - RN|R$ 170.000|2 quartos|44m²|R$ 236|1 vaga|Parnamirim, Emaús | |1
+1001|Deixe seu imóvel conosco para vender ou alugar... temos clientes interessados nele!!!|R$ 100.000|1 quarto|50m²|R$ 0|1 vaga|Natal, Lagoa Nova | |1
+1002|Apartamento para venda com 74 metros quadrados com 3 quartos em Nova Parnamirim - Parnamir|R$ 339.900|3 quartos|74m²|R$ 360|2 vagas|Parnamirim, Nova Parnamirim | |2
+1003| | | | | | | | | 
+1004|Apartamento para aluguel e venda com 60 metros quadrados com 1 quarto|R$ 2.000|1 quarto|60m²|R$ 0|1 vaga|Natal, Petrópolis | |1
+1005|Apartamento para venda com 224m² 4 suítes sendo 1 master c/ Hidro e closet|R$ 1.750.000|4 quartos|224m²|R$ 1.700|4 vagas|Natal, Tirol | |4
+1006|Apartamento para venda tem 113m em lagoa nova|R$ 665.000|3 quartos|113m²|R$ 770|2 vagas|Natal, Lagoa Nova | |2
+1007|Flat para Venda em Natal, Ponta Negra, 1 dormitório, 1 banheiro, 1 vaga|R$ 290.000|1 quarto|34m²|R$ 748|1 vaga|Natal, Ponta Negra | |1
+1008|Apartamento para venda possui 158 metros quadrados com 4 quartos 3 Suítes vista Mar Solar |R$ 1.300.000|4 quartos|158m²|R$ 1.200|2 vagas|Natal, Capim Macio | |2
+1009|Apartamento com 2/4 para Locação e Venda - 53 m² -  Locação R$ 1.580,00 - Venda R$ 218.000|R$ 218.000|2 quartos|53m²|R$ 0|1 vaga|Natal, Cidade da Esperança | |1
+1010|Apartamento para venda 109 metros quadrados com 4 quartos|R$ 660.000|4 quartos|109m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+1011|,Apartamento para venda possui 120 metros quadrados com 2 quartos|R$ 135.000|2 quartos|120m²|R$ 150|1 vaga|Natal, Pajuçara | |1
+1012|Apartamento Para Venda No Vita Condomínio Clube|R$ 200.000|2 quartos|49m²|R$ 0|1 vaga|Natal, Pitimbu | |1
+1013| | | | | | | | | 
+1014|Apartamento para venda tem 123 metros quadrados com 3 quartos|R$ 630.000|3 quartos|123m²|R$ 550|2 vagas|Natal, Candelária | |2
+1015|Apartamento Para Venda No Alameda Boa Esperança 2 - Nova Parnamirim|R$ 118.000|2 quartos|55m²|R$ 0|1 vaga|Parnamirim, Nova Parnamirim | |1
+1016|Apartamento para venda com 112m2 Cidade Alta|R$ 250.000|2 quartos|112m²|R$ 502|1 vaga|Natal, Cidade Alta | |1
+1017| | | | | | | | | 
+1018|Flat para Venda em Natal, Ponta Negra, 1 dormitório, 1 banheiro, 1 vaga|R$ 170.000|1 quarto|26m²|R$ 700|1 vaga|Natal, Ponta Negra | |1
+1019|Apartamento para venda com 300 metros quadrados com 4 quartos|R$ 1.300.000|4 quartos|300m²|R$ 1.500|3 vagas|Natal, Candelária | |3
+1020|Apartamento para venda Porto alto|R$ 245.000|2 quartos|56m²|R$ 0|1 vaga|Natal, Neópolis | |1
+1021|Apartamento para venda tem 243m2 no Tirol R$699.000,00|R$ 690.000|4 quartos|243m²|R$ 0|3 vagas|Natal, Barro Vermelho | |3
+1022|Apartamento para venda no Condomínio Su Rise Ponta Negra.|R$ 320.000|3 quartos|84m²|R$ 0|2 vagas|Natal, Ponta Negra | |2
+1023|Apartamento para venda capim macio|R$ 700.000|3 quartos|109m²|R$ 560|2 vagas|Natal, Capim Macio | |2
+1024|Apartamento para venda tem 49 metros quadrados com 2 quartos,1 vaga garagem .|R$ 280.000|2 quartos|49m²|R$ 0|1 vaga|Natal, Lagoa Seca | |1
+1025|Apartamento 3 Suítes + Dependência 134m² Para Venda No Edifício Plaza Real Lagoa Nova|R$ 890.000|3 quartos|134m²|R$ 0|3 vagas|Natal, Lagoa Nova | |3
+1026|Apartamento Para Venda No Cervin Residence - Candelária|R$ 157.000|1 quarto|45m²|R$ 0|1 vaga|Natal, Candelária | |1
+1027|Apartamento para venda em Tirol|R$ 950.000|4 quartos|170m²|R$ 1.100|3 vagas|Natal, Tirol | |3
+1028|Apartamento para venda tem 55 metros quadrados com 2 quartos|R$ 115.000|2 quartos|55m²|R$ 250|1 vaga|Natal, Pitimbu | |1
+1029|Apartamento Para Aluguel e Venda No Residencial Viver Bem|R$ 1.300|2 quartos|51m²|R$ 0|1 vaga|Natal, Pitimbu | |1
+1030|Apartamento para venda no Living Garden possui 166 metros quadrados com 3 quartos|R$ 1.950.000|3 quartos|166m²|R$ 900|4 vagas|Natal, Tirol | |4
+1031|Apartamento para venda no Park View Residence - Tirol|R$ 320.000|2 quartos|56m²|R$ 434|1 vaga|Natal, Tirol | |1
+1032|apt para vender no tirol|R$ 700.000|3 quartos|186m²|R$ 1.200|3 vagas|Natal, Tirol | |3
+1033|Apartamento para venda tem 210 metros quadrados com 4 quartos, sendo 3 suítes.|R$ 685.000|4 quartos|210m²|R$ 0|3 vagas|Natal, Barro Vermelho | |3
+1034|Apartamento para aluguel e venda tem 60 metros quadrados com 1 quarto|R$ 1.800|1 quarto|60m²|R$ 0|1 vaga|Natal, Petrópolis | |1
+1035|Apartamento para venda com 116 metros quadrados com 3 quartos|R$ 680.000|3 quartos|116m²|R$ 580| |Natal, Ponta Negra | |59092540
+1036|Flat para Venda em Natal/RN no bairro Ponta Negra, residencial Kings Flat.|R$ 399.990|1 quarto|74m²|R$ 1.450|1 vaga|Natal, Ponta Negra | |1
+1037| | | | | | | | | 
+1038|Apartamento para venda tem 56 metros quadrados com 2 quartos|R$ 290.000|2 quartos|56m²|R$ 598|2 vagas|Natal, Capim Macio | |2
+1039|Apartamento para venda possui 56 metros quadrados com 2 quartos|R$ 260.000|2 quartos|56m²|R$ 335|1 vaga|Natal, Ponta Negra | |1
+1040|Apartamento para venda ponta negra ac. financiamento com 3 quartos próx. rota do sol|R$ 190.000|3 quartos|71m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1041|Apartamento para venda em Tirol - La Vivance - 96 metros quadrados com 3/4 com suíte e dep|R$ 410.000|3 quartos|96m²|R$ 780|2 vagas|Natal, Tirol | |2
+1042|Excelente Apartamento para venda com 50 metros quadrados com 2 quartos em Capim Macio - Na|R$ 140.000|2 quartos|50m²|R$ 0|1 vaga|Natal, Capim Macio | |1
+1043|Apartamento para venda tem 95 metros quadrados com 3 quartos|R$ 20.000|3 quartos|95m²|R$ 0|1 vaga|São Gonçalo do Amarante, Golandim | |1
+1044| | | | | | | | | 
+1045|Apartamento para venda possui 82 metros quadrados com 3 quartos|R$ 330.000|3 quartos|82m²|R$ 960|2 vagas|Natal, Petrópolis | |2
+1046|Apartamento para aluguel e venda possui 60 metros quadrados com 2 quartos|R$ 130.000|2 quartos|60m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+1047|Apartamento para aluguel e venda possui 60 metros quadrados com 2 quartos|R$ 1.000|2 quartos|60m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+1048|Apartamento para venda com 105m  com 3 suítes|R$ 399.000|3 quartos|105m²|R$ 1.100|2 vagas|Natal, Lagoa Nova | |2
+1049|Apartamento para venda tem 99m  com 3 quartos sendo 2 suítes|R$ 660.000|3 quartos|99m²|R$ 679|2 vagas|Natal, Lagoa Nova | |2
+1050|Apartamento Para Venda No Torre do Mar I Localização Maravilhosa em Capim Macio|R$ 165.000|2 quartos|74m²|R$ 0|1 vaga|Natal, Capim Macio | |1
+1051| | | | | | | | | 
+1052|Apartamento 3/4 com 170m² Para Venda No Edifício Etoile Bairro Petrópolis, localização pri|R$ 350.000|3 quartos|170m²|R$ 0|2 vagas|Natal, Tirol | |2
+1053|Apartamento para venda no Almerio de Paiva com 170m com 3/4 em Petrópolis|R$ 650.000|3 quartos|170m²|R$ 1.270|3 vagas|Natal, Petrópolis | |3
+1054|Apartamento para venda com 140 metros quadrados, sendo 3 suítes, localizado no Tirol - Nat|R$ 990.000|3 quartos|140m²|R$ 0|2 vagas|Natal, Tirol | |2
+1055|Apartamento Para Venda No Jangada Das Conchas - Ponta Negra|R$ 279.000|2 quartos|55m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1056| | | | | | | | | 
+1057|Apartamento para venda tem 54 metros quadrados com 2 quartos|R$ 320.000|2 quartos|55m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1058|Apartamento para venda possui 165 metros|R$ 1.950.000|4 quartos|165m²|R$ 0|4 vagas|Natal, Petrópolis | |4
+1059|Kitnet para Venda em Natal, Capim Macio, 1 dormitório, 1 banheiro|R$ 95.000|1 quarto|42m²|R$ 0| |Natal, Capim Macio | |59082110
+1060|Apartamento 98m² 3/4 + Dependência Para Venda No  Morada Mandacaru - Capim Macio|R$ 410.000|3 quartos|98m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+1061| | | | | | | | | 
+1062|Apartamento para venda possui 224 metros quadrados|R$ 1.850.000|3 quartos|224m²|R$ 0|2 vagas|Natal, Tirol | |2
+1063|Apartamento para venda sun set Ponta negra tem 56 metros quadrados com 1 quarto|R$ 280.000|1 quarto|56m²|R$ 300|1 vaga|Natal, Ponta Negra | |1
+1064|Apartamento para venda possui 120 metros quadrados com 3 quartos R$330.000,00|R$ 329.000|3 quartos|120m²|R$ 0|2 vagas|Natal, Tirol | |2
+1065|Apartamento para venda tem 170 metros quadrados com 3 quartos|R$ 400.000|3 quartos|170m²|R$ 1.050|3 vagas|Natal, Petrópolis | |3
+1066| | | | | | | | | 
+1067|Apartamento para venda no condomínio Praia Calma|R$ 389.000|2 quartos|52m²|R$ 605|1 vaga|Natal, Ponta Negra | |1
+1068|Apartamento para venda tem 136 metros quadrados com 3 suítes no bairro do Tirol|R$ 799.000|3 quartos|136m²|R$ 1.030|3 vagas|Natal, Tirol | |3
+1069|Apartamento para venda possui 406 metros|R$ 4.200.000|4 quartos|406m²|R$ 0|5 ou mais vagas|Natal, Areia Preta | |5 ou mais
+1070|Apartamento para venda possui 65 metros quadrados|R$ 340.000|2 quartos|65m²|R$ 0|1 vaga|Natal, Neópolis | |1
+1071|Apartamento para venda em Ponta Negra no Terramaris Club condominium. Andar alto, varanda |R$ 600.000|3 quartos|79m²|R$ 480|2 vagas|Natal, Ponta Negra | |2
+1072|Apartamento para venda possui 170m2 no Tirol R$480.000,00|R$ 480.000|3 quartos|170m²|R$ 0|2 vagas|Natal, Tirol | |2
+1073|Apartamento para venda tem 318 metros quadrados com 5 quartos em Tirol|R$ 1.200.000|5 ou mais quartos|318m²|R$ 2.500|3 vagas|Natal, Tirol | |3
+1074|Apartamento para venda possui 65 metros quadrados com 3 quartos em Nova Parnamirim - Parna|R$ 264.900|3 quartos|65m²|R$ 0|1 vaga|Parnamirim, Nova Parnamirim | |1
+1075|Apartamento para venda em ponta negra no residencial estrela do Atlântico vista mar|R$ 450.000|2 quartos|60m²|R$ 490|1 vaga|Natal, Ponta Negra | |1
+1076|Apartamento para venda em Pajuçara de 45.00m² com 2 Quartos e 1 Garagem|R$ 130.000|2 quartos|45m²|R$ 170|1 vaga|Natal, Pajuçara | |1
+1077|Flat para Venda em Natal, Areia Preta, 1 dormitório, 1 banheiro, 1 vaga|R$ 210.000|1 quarto|30m²|R$ 0|1 vaga|Natal, Areia Preta | |1
+1078|Flat para Venda em Natal, Ponta Negra, 1 dormitório, 1 banheiro, 1 vaga|R$ 180.000|1 quarto|21m²|R$ 750|1 vaga|Natal, Ponta Negra | |1
+1079|Apartamento para venda possui 56 metros quadrados|R$ 330.000|2 quartos|56m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1080|Apartamento para venda tem 136 metros quadrados|R$ 1.190.000|3 quartos|136m²|R$ 0|3 vagas|Natal, Alecrim | |3
+1081|Apartamento  para venda no porto do alto|R$ 265.000|2 quartos|56m²|R$ 0|1 vaga|Natal, Neópolis | |1
+1082|Apartamento para venda possui 94 metros quadrados com 3 quartos|R$ 420.000|3 quartos|94m²|R$ 690|2 vagas|Natal, Petrópolis | |2
+1083| | | | | | | | | 
+1084|Apartamento para venda com 154 metros quadrados com 3 quartos Candelária|R$ 350.000|3 quartos|154m²|R$ 0|2 vagas|Natal, Candelária | |2
+1085|Apartamento para venda Parque Cidade Jardim, 76m²,com 3 quartos em Capim Macio|R$ 500.000|3 quartos|76m²|R$ 400|2 vagas|Natal, Capim Macio | |2
+1086|Apartamento para venda com 245 metros quadrados com 4 quartos em Tirol|R$ 1.050.000|4 quartos|245m²|R$ 0|3 vagas|Natal, Tirol | |3
+1087|Apartamento para venda com 156 metros quadrados com 4 quartos entrega em Dezembro 2023|R$ 1.150.766|4 quartos|156m²|R$ 1.000|4 vagas|Natal, Capim Macio | |4
+1088|Apartamento Para Venda No Condomínio Ariano Suassuna No Coração de Lagoa Nova|R$ 699.000|3 quartos|104m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+1089|Apartamento Para Venda No Condomínio Ariano Suassuna No Coração de Lagoa Nova|R$ 699.000|3 quartos|104m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+1090|Apartamento Mobiliado Para Venda  no Condomínio Residencial Ecopark|R$ 165.000|2 quartos|45m²|R$ 0|1 vaga|Parnamirim, Emaús | |1
+1091|Apartamento 3/4 com 91m²  Para Venda No Condomínio Therra Mater Residencial - Lagoa Nova|R$ 349.000|3 quartos|91m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+1092|Apartamento Para Venda No Serra do Cabugi I - Capim Macio|R$ 144.900|2 quartos|63m²|R$ 0|1 vaga|Natal, Capim Macio | |1
+1093|Apartamento Para Venda No Serra do Cabugi I - Capim Macio|R$ 144.900|2 quartos|63m²|R$ 0|1 vaga|Natal, Capim Macio | |1
+1094|Apartamento para venda com 250 metros quadrados com 4 quartos|R$ 2.300.000|4 quartos|250m²|R$ 0|4 vagas|Natal, Areia Preta | |4
+1095|Apartamento para venda com 52 metros quadrados com 2 quartos em Ponta Negra -vista mar|R$ 275.000|2 quartos|52m²|R$ 630|1 vaga|Natal, Ponta Negra | |1
+1096|Apartamento Flat Para Venda No Porto Imperial Residence - Ponta Negra|R$ 250.000|2 quartos|50m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1097|Apartamento com 2/4 para Locação e Venda - 53 m² -  Locação R$ 1.580,00 - Venda R$ 218.000|R$ 1.580|2 quartos|53m²|R$ 0|1 vaga|Natal, Cidade da Esperança | |1
+1098| | | | | | | | | 
+1099|Apartamento para venda com 200 metros quadrados com 4 quartos|R$ 600.000|4 quartos|200m²|R$ 2.000|3 vagas|Natal, Petrópolis | |3
+1100|Apartamento para venda no lacqua em neopolis - 92m planta de 3/4 com remoção de 1/4|R$ 450.000|3 quartos|92m²|R$ 0|2 vagas|Natal, Neópolis | |2
+1101|Apartamento para venda tem 56 metros quadrados com 2 quartos|R$ 410.000|2 quartos|56m²|R$ 380|1 vaga|Natal, Ponta Negra | |1
+1102|Apartamento para aluguel e venda possui 147 metros quadrados com 4 quartos em Tirol - Nata|R$ 499.900|4 quartos|147m²|R$ 1.450|2 vagas|Natal, Tirol | |2
+1103| | | | | | | | | 
+1104|Apartamento para venda possui 60 metros quadrados com 1 quarto|R$ 390.000|2 quartos|60m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1105|Apartamento para venda tem 145 metros quadrados com 3 quartos|R$ 750.000|3 quartos|145m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+1106|Apartamento para venda tem 57 metros quadrados com 2 quartos|R$ 255.000|2 quartos|57m²|R$ 470|1 vaga|Natal, Petrópolis | |1
+1107|Apartamento In Mare para venda com 82 m² com 2 quartos|R$ 539.000|1 quarto|57m²|R$ 650|1 vaga|Parnamirim, Cotovelo (Distrito Litoral) | |1
+1108|Apartamento para venda com 2 quartos wc garagem próximo: supermercado favorito|R$ 90.000|2 quartos|50m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1109|Apartamento para venda com 54 metros quadrados Flat com opções em administração do mesmo!!|R$ 450.000|2 quartos|54m²|R$ 1.010.000|1 vaga|Natal, Ponta Negra | |1
+1110|Apartamento para venda tem 42 metros quadrados com|R$ 190.000|1 quarto|42m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1111|Apartamento para venda capim macio|R$ 330.000|2 quartos|58m²|R$ 0|1 vaga|Natal, Capim Macio | |1
+1112|Apartamento para venda possui 53 metros quadrados com 2 quartos|R$ 295.000|2 quartos|53m²|R$ 363|1 vaga|Natal, Ponta Negra | |1
+1113|Apartamento para venda tem 127 metros2 em Lagoa Nova|R$ 810.000|3 quartos|127m²|R$ 600|2 vagas|Natal, Lagoa Nova | |2
+1114|Apartamento para venda tem 94 metros quadrados com 2 quartos|R$ 350.000|2 quartos|94m²|R$ 0|1 vaga|Natal, Cidade da Esperança | |1
+1115|Apartamento para aluguel e venda possui 300 metros quadrados com 3 quartos|R$ 4.500|3 quartos|300m²|R$ 0|3 vagas|Natal, Petrópolis | |3
+1116| | | | | | | | | 
+1117|Apartamento para aluguel e venda possui 300 metros quadrados com 3 quartos|R$ 800.000|3 quartos|300m²|R$ 0|3 vagas|Natal, Petrópolis | |3
+1118|Flat para Venda em Natal, Ponta Negra, 2 dormitórios, 1 banheiro, 1 vaga|R$ 270.000|2 quartos|56m²|R$ 550|1 vaga|Natal, Ponta Negra | |1
+1119|Apartamento para venda tem 109 metros quadrados|R$ 699.000|3 quartos|109m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+1120|Apartamento para venda no Condomínio Áurea Guedes com 2 quartos sendo 1 suíte|R$ 290.000|2 quartos|55m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1121|Apartamento para venda com 97 metros quadrados com 3 quartos|R$ 470.000|3 quartos|97m²|R$ 1.150|3 vagas|Natal, Capim Macio | |3
+1122|Apartamento no Terramaris para venda 101 metros quadrados com 3 quartos em Ponta Negra - N|R$ 699.900|3 quartos|101m²|R$ 500|2 vagas|Natal, Ponta Negra | |2
+1123|Apartamento para venda possui 120 metros quadrados com 3 quartos|R$ 27.000|3 quartos|120m²|R$ 0|1 vaga|Natal, Tirol | |1
+1124|Apartamento para venda Res. Ouro Branco, 56m², com 2 quartos em Nova Parnamirim|R$ 155.000|2 quartos|56m²|R$ 350|1 vaga|Natal, Neópolis | |1
+1125| | | | | | | | | 
+1126|Apartamento para venda tem 96 metros quadrados com 2 quartos|R$ 460.000|2 quartos|96m²|R$ 0|1 vaga|Natal, Cidade da Esperança | |1
+1127|Apartamento para venda com 62 metros quadrados com 1 quarto|R$ 250.000|1 quarto|62m²|R$ 510|1 vaga|Natal, Capim Macio | |1
+1128|Apartamento para venda tem 196 metros quadrados com 4 quartos|R$ 1.270.000|4 quartos|196m²|R$ 0|4 vagas|Natal, Capim Macio | |4
+1129|Apartamento para venda possui 100 metros quadrados com 3 quartos|R$ 500.000|3 quartos|100m²|R$ 600|2 vagas|Natal, Tirol | |2
+1130|Apartamento para venda com 109 metros quadrados|R$ 665.000|3 quartos|109m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+1131|Apartamento para venda possui 56 metros quadrados com 2 quartos|R$ 420.000|2 quartos|56m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1132| | | | | | | | | 
+1133|Apartamento Novo 2/4 Suíte 61m² Varanda Para Venda No Spazzio Privillege Ponta Negra|R$ 229.990|2 quartos|61m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1134|Apartamento 4/4 Suíte, Varanda, Dependência 117m² Para Venda No L'Acqua Condominium Club|R$ 519.000|4 quartos|117m²|R$ 0|3 vagas|Natal, Neópolis | |3
+1135|Apartamento 3/4 Suíte, Varanda Para Venda No L'Acqua Condominium Club|R$ 429.000|3 quartos|92m²|R$ 0|2 vagas|Natal, Neópolis | |2
+1136|Apartamento Para Venda No Condomínio Florais do Brasil|R$ 109.990|2 quartos|48m²|R$ 0|1 vaga|Natal, Pajuçara | |1
+1137|Apartamento 3/4 com 72m² Para Venda No Condomínio Integracão - Candelária|R$ 180.000|3 quartos|72m²|R$ 0|1 vaga|Natal, Candelária | |1
+1138| | | | | | | | | 
+1139|Apartamento 2/4 Suíte, Elevador, Área de Lazer Para Venda No Residencial Abalone|R$ 179.990|2 quartos|57m²|R$ 0|1 vaga|Natal, Tirol | |1
+1140|Apartamento 3/4 com 116m² Para Venda No Condomínio Parque Das Rosas - Capim Macio|R$ 310.000|3 quartos|116m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+1141|Apartamento Flat  Para Venda No Ponta Negra Flat / Red Roof|R$ 169.990|1 quarto|27m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1142| | | | | | | | | 
+1143|Apartamento Para Venda No Norte Plaza Residencial|R$ 164.000|1 quarto|42m²|R$ 0|1 vaga|Natal, Pajuçara | |1
+1144|Apartamento para venda tem 47 m2 com 2 quartos|R$ 93.000|2 quartos|47m²|R$ 300|1 vaga|Natal, Guarapes | |1
+1145|Apartamento 2/4 Suíte Para Venda No La Playa - Ponta Negra|R$ 299.000|2 quartos|54m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1146|Apartamento Para Venda No Norte Boulevard|R$ 184.000|2 quartos|47m²|R$ 0|1 vaga|Natal, Pajuçara | |1
+1147|Apartamento Para Venda  no Torres do Potiguaras - No  Satélite|R$ 198.000|2 quartos|50m²|R$ 0|1 vaga|Natal, Pitimbu | |1
+1148|Apartamento para venda possui 155 m2 com 3 quartos|R$ 650.000|3 quartos|155m²|R$ 1.250|2 vagas|Natal, Tirol | |2
+1149|Apartamento para venda com 79 m² com 2 quartos no Condomínio Edifício Cariri em Lagoa Nova|R$ 215.000|2 quartos|79m²|R$ 370|1 vaga|Natal, Lagoa Nova | |1
+1150|Apartamento para venda com 280 metros quadrados com 4 Suítes em Areia Preta. Porto Atlânti|R$ 2.150.000|5 ou mais quartos|280m²|R$ 1.800|4 vagas|Natal, Areia Preta | |4
+1151|Apartamento para venda possui 123 metros quadrados 3/4 3 Suítes|R$ 680.000|3 quartos|123m²|R$ 750|2 vagas|Natal, Candelária | |2
+1152|Apartamento para venda possui 102 metros quadrados com 3 quartos|R$ 600.000|3 quartos|102m²|R$ 743|2 vagas|Natal, Ponta Negra | |2
+1153|Apartamento para venda com 156 m2 Em construção|R$ 970.000|3 quartos|156m²|R$ 0|3 vagas|Natal, Capim Macio | |3
+1154|Excelente Oportunidade!!! Apartamento 3/4 para venda Portamaris Club Comdominium|R$ 490.000|3 quartos|79m²|R$ 0|2 vagas|Natal, Ponta Negra | |2
+1155| | | | | | | | | 
+1156|Apartamento para venda com 282 metros quadrados com 4 suítes + escritório - Petrópolis  - |R$ 2.600.000|4 quartos|282m²|R$ 0|4 vagas|Natal, Petrópolis | |4
+1157|Apartamento para venda com 188 metros quadrados com 4 quartos em Tirol|R$ 680.000|4 quartos|188m²|R$ 0|3 vagas|Natal, Tirol | |3
+1158|Apartamento para venda com 188 metros quadrados com 4 quartos em Tirol|R$ 680.000|4 quartos|188m²|R$ 0|3 vagas|Natal, Tirol | |3
+1159|Apartamento para venda com 3 quartos em capim macio|R$ 580.000|3 quartos|140m²|R$ 1.200| |Natal, Capim Macio | |Churrasqueira, Piscina, Academia
+1160|Apartamento para venda com 96 metros quadrados com 3 quartos em Tirol|R$ 410.000|3 quartos|96m²|R$ 834|2 vagas|Natal, Tirol | |2
+1161|Apartamento para venda possui 280 metros quadrados com 4 quartos|R$ 2.150.000|4 quartos|280m²|R$ 0|4 vagas|Natal, Areia Preta | |4
+1162| | | | | | | | | 
+1163|Apartamento para venda com 80 metros quadrados com 2 quartos em RUA ARACATI- Ponta Negra -|R$ 30.000|2 quartos|80m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1164|Apartamento para venda de 156m², 3 ou 4 quartos no Vista Mar Residencial|R$ 954.351|3 quartos|156m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+1165|Oportunidade! Apartamento para venda tem 57 m² com 2 quartos no condomínio Porto do Alto|R$ 220.000|2 quartos|57m²|R$ 0|1 vaga|Natal, Neópolis | |1
+1166|Apartamento para venda escritura pública ac. financiamento com 2 quartos em Neópolis - Nat|R$ 120.000|2 quartos|50m²|R$ 0|1 vaga|Natal, Neópolis | |1
+1167|Apartamento para venda de 109m² com 3/4, sendo 2 suítes no Condomínio Maria Bernadete|R$ 660.000|3 quartos|109m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+1168|Apartamento Para Aluguel e Venda No Residencial Viver Bem|R$ 220.000|2 quartos|51m²|R$ 0|1 vaga|Natal, Pitimbu | |1
+1169| | | | | | | | | 
+1170|Apartamento para venda tem 69 metros quadrados com 2 quartos Com vista Mar <br>.|R$ 350.000|2 quartos|69m²|R$ 620|1 vaga|Natal, Ponta Negra | |1
+1171|Apartamento para venda com 200 metros|R$ 850.000|3 quartos|200m²|R$ 0|2 vagas|Natal, Petrópolis | |2
+1172|Apartamento para venda possui 155m2 R$420.000,00|R$ 420.000|3 quartos|155m²|R$ 0|2 vagas|Natal, Tirol | |2
+1173| | | | | | | | | 
+1174|Apartamento para aluguel e venda tem 109 metros quadrados com 3 quartos em Lagoa Nova - Na|R$ 560.000|3 quartos|109m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+1175|Apartamento para venda possui 75 metros quadrados com 3 quartos, segundo andar|R$ 199.999|3 quartos|75m²|R$ 550|1 vaga|Natal, Candelária | |1
+1176|Apartamento para venda tem 200 metros quadrados com 4 quartos|R$ 910.000|4 quartos|200m²|R$ 0|3 vagas|Natal, Barro Vermelho | |3
+1177|Apartamento para aluguel e venda tem 46 metros quadrados com 1 quarto em Praia do Meio - N|R$ 155.000|1 quarto|46m²|R$ 0|1 vaga|Natal, Praia do Meio | |1
+1178|Apartamento para venda Serrambi I,  57m², com 2 quartos em Nova Parnamirim|R$ 120.000|2 quartos|57m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1179|Apartamento para aluguel e venda possui 90 metros quadrados com 3 quartos em Lagoa Nova - |R$ 210.000|3 quartos|90m²|R$ 0|1 vaga|Natal, Lagoa Nova | |1
+1180| | | | | | | | | 
+1181|Apartamento para aluguel e venda tem 113 metros quadrados com 3 quartos em Lagoa Nova - Na|R$ 3.500|3 quartos|113m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+1182|Apartamento para venda com 62 metros quadrados com 2 quartos|R$ 105.000|2 quartos|62m²|R$ 110|1 vaga|Natal, Capim Macio | |1
+1183|Apartamento para venda Tirol AP 0686|R$ 530.000|3 quartos|93m²|R$ 550|2 vagas|Natal, Tirol | |2
+1184|Apartamento para Venda, Lagoa Nova, 3 dormitórios, 3 suítes, 5 banheiros, 2 vagas|R$ 650.000|3 quartos|189m²|R$ 1.200|2 vagas|Natal, Lagoa Nova | |2
+1185|Flat para Venda em Natal/RN no bairro Ponta Negra, residencial Araça.|R$ 199.000|1 quarto|38m²|R$ 900|1 vaga|Natal, Ponta Negra | |1
+1186|Apartamento para venda possui 82 metros quadrados com 3 quartos|R$ 680.000|3 quartos|82m²|R$ 0|1 vaga|Natal, Barro Vermelho | |1
+1187| | | | | | | | | 
+1188|Apartamento para venda tem 60 metros quadrados com 2 quartos|R$ 355.000|2 quartos|60m²|R$ 240|1 vaga|Natal, Cidade da Esperança | |1
+1189|Apartamento para venda possui 125 metros quadrados com 3 quartos|R$ 26.000|3 quartos|125m²|R$ 0|1 vaga|Natal, Neópolis | |1
+1190|Apartamento projetado para venda no Condomínio Sun Golden|R$ 240.000|2 quartos|58m²|R$ 350|1 vaga|Natal, Ponta Negra | |Área de serviço, Armários embutidos, Armários na cozinha, Varanda
+1191|Apartamento para venda Maximum Flat, 86m², com 2 quartos em Nova Parnamirim|R$ 339.000|2 quartos|86m²|R$ 630|1 vaga|Natal, Ponta Negra | |1
+1192|Apartamento Para Venda em Capim Macio|R$ 250.000|3 quartos|117m²|R$ 400|2 vagas|Natal, Capim Macio | |2
+1193|Apartamento para venda com 141 metros quadrados com 3 suítes|R$ 850.000|3 quartos|141m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+1194|Flat para Venda em Natal / RN no bairro Petrópolis|R$ 359.980|1 quarto|56m²|R$ 650|1 vaga|Natal, Petrópolis | |1
+1195|Apartamento para venda com 140m,  com 3 suítes  e varanda gourmet em TIROL|R$ 950.000|3 quartos|140m²|R$ 880|2 vagas|Natal, Tirol | |2
+1196|Venda de apartamento com vista para o mar em Ponta Negra|R$ 520.000|4 quartos|102m²|R$ 680|2 vagas|Natal, Ponta Negra | |2
+1197|Apartamento para venda Tirol 4 suítes|R$ 800.000|4 quartos|206m²|R$ 1.500|3 vagas|Natal, Tirol | |3
+1198| | | | | | | | | 
+1199|Flat para Venda em Natal / RN no bairro Petrópolis|R$ 359.990|1 quarto|56m²|R$ 650|1 vaga|Natal, Petrópolis | |1
+1200|Apartamento para venda com 110 metros quadrados com 2 quartos|R$ 480.000|2 quartos|110m²|R$ 0|1 vaga|Natal, Petrópolis | |1
+1201|Apartamento para venda tem 116 metros quadrados com 2 quartos|R$ 300.000|2 quartos|116m²|R$ 0|1 vaga|Natal, Petrópolis | |1
+1202|Apartamento para venda tem 100 metros quadrados com 3 quartos|R$ 30.000|3 quartos|100m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1203|Apartamento para venda possui 124 metros quadrados com 3 quartos|R$ 31.000|3 quartos|124m²|R$ 0|1 vaga|Natal, Areia Preta | |1
+1204|Apartamento para venda possui 80 metros quadrados com 2 quartos|R$ 25.000|2 quartos|80m²|R$ 0|1 vaga|Natal, Neópolis | |1
+1205| | | | | | | | | 
+1206|Apartamento para venda tem 112 metros quadrados com 2 quartos|R$ 490.000|2 quartos|112m²|R$ 0|1 vaga|Natal, Petrópolis | |1
+1207|Apartamento para venda possui 115 metros quadrados com 3 quartos em neopolis|R$ 20.000|3 quartos|115m²|R$ 0|1 vaga|Natal, Petrópolis | |1
+1208|Apartamento para venda em ponta negra com 60 metros quadrados com 2 quartos/ sendo 1 suíte|R$ 399.990|2 quartos|60m²|R$ 440|1 vaga|Natal, Ponta Negra | |1
+1209|Apartamento para venda  em tirol|R$ 870.000|3 quartos|220m²|R$ 0|2 vagas|Natal, Tirol | |2
+1210|Apartamento para venda com 220 metros quadrados com 4 quartos|R$ 1.550.000|4 quartos|220m²|R$ 1.700| |Natal, Ribeira | |0
+1211|Apartamento para venda Sun Happy, 84m², com 3 quartos em Nova Parnamirim|R$ 330.000|3 quartos|84m²|R$ 0|1 vaga|Natal, Candelária | |1
+1212|Apartamento para venda com 56m², 2/4 sendo 01 suíte, 01 wc social e varanda,  por R$320.00|R$ 320.000|2 quartos|56m²|R$ 520| |Natal, Lagoa Nova | |59054550
+1213| | | | | | | | | 
+1214|Apartamento para Venda, Barro Vermelho, 3 dormitórios, 1 suíte, 3 banheiros, 2 vagas|R$ 340.000|3 quartos|139m²|R$ 0|2 vagas|Natal, Barro Vermelho | |2
+1215|Apartamento para venda possui 150 metros quadrados com 3 quartos|R$ 21.000|3 quartos|150m²|R$ 0|1 vaga|Natal, Neópolis | |1
+1216|Apartamento para venda possui 90 metros quadrados com 3 quartos|R$ 20.000|3 quartos|90m²|R$ 0|2 vagas|Natal, Quintas | |2
+1217|Apartamento para venda com 273 metros quadrados c/ mobilia com 4 suites em Capim Macio - N|R$ 990.000|4 quartos|273m²|R$ 0|3 vagas|Natal, Capim Macio | |3
+1218| | | | | | | | | 
+1219|Apartamento para venda possui 142 metros quadrados com 3 quartos|R$ 750.000|3 quartos|142m²|R$ 890|2 vagas|Natal, Lagoa Nova | |2
+1220|Apartamento para venda no Planalto.|R$ 105.000|2 quartos|60m²|R$ 0|1 vaga|Natal, Planalto | |1
+1221|Apartamento para Venda, Petropolis, 4 dormitórios, 2 suítes, 3 banheiros, 2 vagas|R$ 1.100.000|4 quartos|313m²|R$ 0|2 vagas|Natal, Petrópolis | |2
+1222|Apartamento para venda tem 68 metros quadrados com 2 quartos|R$ 20.000|2 quartos|68m²|R$ 0|2 vagas|Natal, Pajuçara | |2
+1223|Apartamento para venda tem 130 metros quadrados com 3 quartos|R$ 30.000|3 quartos|130m²|R$ 0|1 vaga|Natal, Nordeste | |1
+1224|Apartamento para venda possui 150 metros quadrados com 2 quartos|R$ 28.000|2 quartos|150m²|R$ 0|1 vaga|Natal, Cidade Nova | |1
+1225| | | | | | | | | 
+1226|Apartamento para venda com 49 metros quadrados com 2 quartos|R$ 20.000|2 quartos|49m²|R$ 0|1 vaga|Natal, Neópolis | |1
+1227|Apartamento para venda no Tirol villa lobos 3/4|R$ 300.000|3 quartos|120m²|R$ 1.400|1 vaga|Natal, Tirol | |1
+1228|Apartamento para venda tem 150 metros quadrados com 3 quartos|R$ 32.000|3 quartos|150m²|R$ 0| |Natal, Barro Vermelho | |59030570
+1229|Apartamento para venda tem 110 metros quadrados com 3 quartos|R$ 25.000|3 quartos|110m²|R$ 0|2 vagas|Natal, Neópolis | |2
+1230|Apartamento para venda possui 95 metros quadrados com 3 quartos|R$ 20.000|3 quartos|95m²|R$ 0|2 vagas|Natal, Neópolis | |2
+1231| | | | | | | | | 
+1232|Apartamento para venda possui 80 metros quadrados com 3 quartos|R$ 200.000|3 quartos|80m²|R$ 0|2 vagas|Natal, Neópolis | |2
+1233|Apartamento para aluguel e venda tem 109 metros quadrados com 3 quartos em Lagoa Nova - Na|R$ 3.500|3 quartos|109m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+1234|Apartamento para venda com 160 metros quadrados com 3 quartos|R$ 32.000|3 quartos|160m²|R$ 0| |Natal, Neópolis | |59084060
+1235|Apartamento para venda possui 140 metros quadrados com 3 quartos|R$ 28.000|3 quartos|140m²|R$ 0| |Natal, Cidade Nova | |59072645
+1236|Apartamento para venda com 120 metros quadrados com 3 quartos|R$ 25.700|3 quartos|120m²|R$ 0| |Natal, Nova Descoberta | |59075391
+1237|Apartamento para venda possui 100 metros quadrados com 3 quartos|R$ 40.000|3 quartos|100m²|R$ 0|2 vagas|Natal, Potengi | |2
+1238|Apartamento para venda possui 160 metros quadrados com 3 quartos|R$ 28.000|3 quartos|160m²|R$ 0| |Natal, Redinha | |59122155
+1239|Apartamento para venda possui 120 metros quadrados com 2 quartos|R$ 25.000|2 quartos|120m²|R$ 0|2 vagas|Natal, Planalto | |2
+1240|Vendo apartamento 2 quartos no centro da Cidade Alta e vista para o Rio Potengi.|R$ 130.000|2 quartos|53m²| | |Natal, Cidade Alta | |59025100
+1241|Venda Apartamento 4 suítes na de frente para o mar|R$ 1.000.000|5 ou mais quartos|389m²|R$ 2.400|3 vagas|Natal, Petrópolis | |3
+1242|Apartamento para venda possui 75 metros quadrados com 3 quartos.|R$ 540.000|3 quartos|75m²|R$ 850|2 vagas|Natal, Lagoa Nova | |2
+1243|Apartamento Para Venda No Condomínio Smile Village Lagoa Nova|R$ 270.000|2 quartos|60m²|R$ 0|1 vaga|Natal, Cidade da Esperança | |1
+1244|Apartamento 3/4 Para Venda No Cond. Bairro Latino - Candelária|R$ 199.999|3 quartos|89m²|R$ 0|1 vaga|Natal, Candelária | |1
+1245| | | | | | | | | 
+1246|Vendo apartamento todo reformado e pronto para morar - Barro Vermelho|R$ 550.000|3 quartos|108m²|R$ 650|2 vagas|Natal, Barro Vermelho | |2
+1247|Apartamento de 2/4 para venda no Natture |R$ 290.000| | | | |Natal, Candelária | | 
+1248|Apartamento para venda Sun Happy, 84m², com 3 quartos em Nova Parnamirim RN|R$ 330.000|3 quartos|84m²|R$ 0|1 vaga|Natal, Candelária | |1
+1249|Apartamento para venda Serrambi II, 56m², com 2 quartos em Nova Parnamirim - RN|R$ 155.000|2 quartos|56m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1250|Apartamento para aluguel e venda possui 79 metros quadrados com 3 quartos|R$ 4.500|3 quartos|79m²|R$ 0|2 vagas|Natal, Ponta Negra | |2
+1251|Apartamento para aluguel e venda possui 79 metros quadrados com 3 quartos|R$ 680.000|3 quartos|79m²|R$ 0|2 vagas|Natal, Ponta Negra | |2
+1252| | | | | | | | | 
+1253|Apartamento para aluguel e venda com 47 metros quadrados com 1 quarto em Ponta Negra - Nat|R$ 4.000|1 quarto|47m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1254|Apartamento para aluguel e venda com 47 metros quadrados com 1 quarto em Ponta Negra - Nat|R$ 370.000|1 quarto|47m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1255|Apartamento para venda tem 54 metros quadrados com 2 quartos|R$ 350.000|2 quartos|54m²|R$ 390|2 vagas|Natal, Capim Macio | |2
+1256|Apartamento para Venda em São Gonçalo do Amarante, Novo Amarante, 2 dormitórios, 1 suíte, |R$ 80.000|2 quartos|55m²|R$ 0|1 vaga|São Gonçalo do Amarante, Novo Amarante | |1
+1257|Apartamento para venda no Tirol com 2 quartos sendo 1 suíte, ao lado do Marista|R$ 280.000|2 quartos|58m²|R$ 370|1 vaga|Natal, Tirol | |1
+1258|Apartamento para venda tem 62 metros quadrados com 3 quartos|R$ 140.000|3 quartos|62m²|R$ 246|1 vaga|Natal, Planalto | |1
+1259| | | | | | | | | 
+1260|Apartamento para venda tem 55 metros quadrados com 2 quartos|R$ 100.000|2 quartos|55m²|R$ 250| |Natal, Cidade da Esperança | |59070600
+1261|Apartamento para venda possui 118 metros quadrados com 3 quartos|R$ 540.000|3 quartos|118m²|R$ 0| |Natal, Nossa Senhora de Nazaré | |Armários embutidos, Armários na cozinha, Piscina, Ar condicionado, Academia, Churrasqueira
+1262|Apartamento para aluguel e venda com 90 m2<br>com 3 quartos|R$ 550.000|3 quartos|90m²|R$ 0|1 vaga|Natal, Tirol | |1
+1263| | | | | | | | | 
+1264|Apartamento Para venda No Vita Condomínio Clube|R$ 200.000|2 quartos|49m²|R$ 0|1 vaga|Natal, Pitimbu | |1
+1265|Apartamento  para venda no Planalto, rua Santa  Quitéria por R$ 110.000,00|R$ 110.000|2 quartos|60m²|R$ 320|1 vaga|Natal, Planalto | |1
+1266|Apartamento para Venda no Anita Monteiro|R$ 280.000|2 quartos|75m²|R$ 350|1 vaga|Natal, Nova Descoberta | |1
+1267|Apartamento para Venda em São Gonçalo do Amarante, Jardins, 2 dormitórios, 1 banheiro, 1 v|R$ 113.000|2 quartos|49m²|R$ 115|1 vaga|São Gonçalo do Amarante, Jardins | |1
+1268|Apartamento para venda|R$ 95.000|3 quartos|120m²|R$ 0| |Natal, Potengi | |59108130
+1269|Apartamento para venda com 55 metros quadrados com 2 quartos, 01 banheiro, area de serviço|R$ 95.000|2 quartos|55m²|R$ 250|1 vaga|Natal, Planalto | |1
+1270|Apartamento para venda Tirol 4 suítes|R$ 800.000|4 quartos|200m²|R$ 1.500|3 vagas|Natal, Tirol | |3
+1271|Apartamento para aluguel e venda com 90 m2<br>com 3 quartos|R$ 3.000|3 quartos|90m²|R$ 0|1 vaga|Natal, Tirol | |1
+1272|Apartamento para venda tem 22 metros quadrados com 1 quarto.|R$ 215.000|1 quarto|22m²|R$ 460|1 vaga|Natal, Ponta Negra | |1
+1273|Apartamento com acabamento perfeito para venda|R$ 630.000|3 quartos|95m²|R$ 0|2 vagas|Natal, Rocas | |2
+1274|Apartamento para venda em Tirol - La Vivance - com 3/4 com suíte e dependência|R$ 410.000|3 quartos|96m²|R$ 784|2 vagas|Natal, Tirol | |2
+1275| | | | | | | | | 
+1276|Apartamento para venda possui 63 metros quadrados com 2 quartos|R$ 130.000|2 quartos|63m²|R$ 247|1 vaga|Natal, Planalto | |1
+1277|Apartamento em Capim Macio, 98m² para venda por R$450.000,00|R$ 450.000|3 quartos|98m²|R$ 1.050| |Natal, Capim Macio | |Varanda, Armários na cozinha, Churrasqueira, Área de serviço, Academia, Armários embutidos, Piscina, Quarto de serviço
+1278|Apartamento para venda com 140 metros quadrados|R$ 1.400.000|4 quartos|140m²|R$ 0|3 vagas|Natal, Lagoa Nova | |3
+1279|Apartamento para venda tem 58 metros quadrados com 2 quartos|R$ 238.000|2 quartos|58m²|R$ 500|1 vaga|Natal, Ponta Negra | |1
+1280|Apartamento para venda possui 56 metros quadrados com 2 quartos|R$ 220.000|2 quartos|56m²|R$ 600|1 vaga|Natal, Petrópolis | |1
+1281|Baixei para vender! Repasse no condomínio Terramaris |R$ 160.000|3 quartos|101m²|2 vagas| |Natal, Ponta Negra | |Condomínio fechado, Elevador, Segurança 24h, Portaria, Permitido animais, Piscina, Salão de festas
+1282|Apartamento para venda em Tirol|R$ 1.800.000|4 quartos|350m²|R$ 0|4 vagas|Natal, Tirol | |4
+1283|Apartamento para aluguel e venda possui 77 metros quadrados com 3 quartos em Candelária - |R$ 390.000|3 quartos|77m²|R$ 0|2 vagas|Natal, Candelária | |2
+1284|Apartamento para Venda em ponta negra|R$ 120.000|2 quartos|51m²|R$ 250|1 vaga|Natal, Ponta Negra | |1
+1285|Apartamento para aluguel e venda tem 78 metros quadrados com 3 quartos|R$ 1.600|3 quartos|78m²|R$ 0|2 vagas|Natal, Capim Macio | |2
+1286|Apartamento para venda com 47 metros quadrados  em Areia Preta - 9.9982.5105|R$ 229.000|1 quarto|47m²|R$ 825|1 vaga|Natal, Areia Preta | |1
+1287| | | | | | | | | 
+1288|Apartamento Para Venda No Cervin Residence - Candelária|R$ 157.000|1 quarto|46m²|R$ 0|1 vaga|Natal, Candelária | |1
+1289|Apartamento para venda com 160 metros quadrados com 4 quartos|R$ 580.000|4 quartos|160m²|R$ 1.000|1 vaga|Natal, Petrópolis | |1
+1290|Apartamento para venda possui 171 metros quadrados com 5 quartos sendo quatro suítes.|R$ 1.200.000|5 ou mais quartos|171m²|R$ 0|3 vagas|Natal, Tirol | |3
+1291|Apartamento no Edifício Jerónimo Costa - para venda tem 87 metros quadrados com 3 quartos|R$ 485.000|3 quartos|87m²|R$ 550|2 vagas|Natal, Candelária | |2
+1292| | | | | | | | | 
+1293|Apartamento 2/4 Suite Varanda, 2 Vagas de Garagem, Ultimo Andar, No Para Venda Condomínio |R$ 249.900|2 quartos|58m²|R$ 0|2 vagas|Natal, Pitimbu | |2
+1294|Flat para Venda em Natal, Ponta Negra, 1 dormitório, 1 suíte, 1 banheiro, 1 vaga|R$ 225.400|1 quarto|29m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1295|Apartamento 3/4 Para Venda No Coração de Candelária|R$ 180.000|3 quartos|78m²|R$ 0|1 vaga|Natal, Candelária | |1
+1296| | | | | | | | | 
+1297|Apartamento para venda tem 47 metros quadrados com 2 quartos - Potiguaras - Satélite|R$ 198.000|2 quartos|47m²|R$ 0|1 vaga|Natal, Pitimbu | |1
+1298|Apartamento para venda tem 47 metros quadrados com 2 quartos, La Playa|R$ 310.000|2 quartos|47m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1299|Apartamento para venda possui 93 metros quadrados com 3 quartos no Mirante da Praia|R$ 430.000|3 quartos|93m²|R$ 490|2 vagas|Natal, Ponta Negra | |2
+1300|Apartamento à venda e para locação com 52m² com  2 quartos a 100 metros da Av. Prudente de|R$ 114.998|3 quartos|52m²|R$ 70|1 vaga|Natal, Barro Vermelho | |1
+1301| | | | | | | | | 
+1302|Apartamento à venda e para locação com 52m² com  2 quartos a 100 metros da Av. Prudente de|R$ 799|3 quartos|52m²|R$ 70|1 vaga|Natal, Barro Vermelho | |1
+1303|Apartamento para venda no Edifício Spazzio Beach tem 56M² com 2 quartos em Ponta Negra|R$ 280.000|2 quartos|56m²|R$ 450|1 vaga|Natal, Ponta Negra | |1
+1304|Venda- Apartamento no Edifício Spazzio Beach com vista livre para o mar de Ponta negra|R$ 250.000|2 quartos|56m²|R$ 450|1 vaga|Natal, Ponta Negra | |1
+1305|Apartamento Para Venda em Emaús - Parnamirim - RN|R$ 180.000|2 quartos|47m²|R$ 237|1 vaga|Parnamirim, Emaús | |1
+1306|Apartamento para aluguel com 2 quartos em Pajuçara - Natal - RN|R$ 700|2 quartos|58m²|R$ 0|1 vaga|Natal, Pajuçara | |1
+1307| | | | | | | | | 
+1308|Apartamento para aluguel com 81 metros quadrados com 3 quartos em Capim Macio - Natal - RN|R$ 2.700|3 quartos|81m²|R$ 0|1 vaga|Natal, Capim Macio | |1
+1309|Apartamento para aluguel com 47 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 1.900|2 quartos|47m²|R$ 0| |Natal, Ponta Negra | |59090568
+1310|Apartamento para aluguel tem 57 metros quadrados com 2 quartos em Ponta Negra - Natal - RN|R$ 1.300|2 quartos|57m²|R$ 500|1 vaga|Natal, Ponta Negra | |1
+1311| | | | | | | | | 
+1312|Apartamento para aluguel possui 48 metros quadrados com 2 quartos em Ponta Negra - Natal -|R$ 1.600|2 quartos|48m²|R$ 0|5 ou mais vagas|Natal, Ponta Negra | |5 ou mais
+1313|Oportunidade apartamento mobiliado em andar alto com vista para o mar no Apple Flat|R$ 300.000|1 quarto|34m²|R$ 578|1 vaga|Natal, Ponta Negra | |1
+1314|Apartamento luxuoso com vista para a Praia de Ponta Negra|R$ 3.200|2 quartos|59m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1315|Apartamento 1/4 mobiliado em ponta negra - vista para morro do careca|R$ 200.000|1 quarto|36m²|R$ 700|1 vaga|Natal, Ponta Negra | |1
+1316|Apartamento luxuoso com vista para a Praia de Ponta Negra|R$ 480.000|2 quartos|59m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1317|Apartamento de 2 quartos para 6 pessoas|R$ 160|Acomoda: 6 pessoas|1 vaga| | |Natal, Ponta Negra | |59090450
+1318|Apartamento mobiliado para locação no Tirol, 180m², 03 suítes por R$5.900,00 com taxas|R$ 5.900|3 quartos|180m²|R$ 0|3 vagas|Natal, Petrópolis | |3
+1319|Apartamento Espetacular com 1/4 e Vista para o Mar!|R$ 560.000|1 quarto|51m²|R$ 607|1 vaga|Natal, Ponta Negra | |1
+1320|Apartamento com 2 dormitórios à venda, 58 m² por R$ 80.000,00 - Redinha - Natal/RN|R$ 80.000|2 quartos|58m²|R$ 0|1 vaga|Natal, Redinha | |1
+1321|Apartamento com 2 dormitórios à venda, 70 m² por R$ 180.000,00 - Ribeira - Natal/RN|R$ 180.000|2 quartos|70m²|R$ 0|2 vagas|Natal, Ribeira | |2
+1322|Apartamento com 2 dormitórios à venda, 45 m² por R$ 154.900 - Pajuçara - Natal/RN|R$ 154.900|2 quartos|45m²|R$ 0|1 vaga|Natal, Pajuçara | |1
+1323|Apartamento com 2 quartos à venda, 59 m² por R$ 100.000 - Planalto - Natal/RN|R$ 100.000|2 quartos|59m²|R$ 250|1 vaga|Natal, Planalto | |1
+1324|Apartamento com 2 dormitórios à venda no Natture Club- Candelária - Natal/RN|R$ 390.000|2 quartos|75m²|R$ 545|2 vagas|Natal, Candelária | |2
+1325|Apartamento com 3/4 à venda, 75 m² por R$ 385.000 - Neópolis - Natal/RN|R$ 385.000|3 quartos|75m²|R$ 417|2 vagas|Natal, Neópolis | |2
+1326|Apartamento á venda com 3 quartos em Lagoa Nova - Natal - RN|R$ 470.000|3 quartos|94m²|R$ 840|2 vagas|Natal, Lagoa Nova | |2
+1327|Apartamento com 4 quartos à venda no Edifício Soneto Potengi- Bairro Ribeira - Natal/RN|R$ 1.250.000|4 quartos|214m²|R$ 1.600| |Natal, Ribeira | |0
+1328| | | | | | | | | 
+1329|Apartamento à venda, 3 quartos, 2 vagas, Lagoa Nova - Natal/RN|R$ 840.000|3 quartos|126m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+1330|Apartamento à venda, 4 quartos, 4 suítes, 3 vagas, Lagoa Nova - Natal/RN|R$ 950.000|4 quartos|258m²|R$ 1.500|3 vagas|Natal, Lagoa Nova | |3
+1331|Apartamento com 1 dormitório à venda, 34 m² por R$ 265.000,00 - Ponta Negra - Natal/RN|R$ 265.000|1 quarto|34m²|R$ 578|1 vaga|Natal, Ponta Negra | |1
+1332|Apartamento à venda com 190 m2, 04 quartos sendo 01 suíte - Petrópolis/Natal/RN|R$ 518.900|4 quartos|190m²|R$ 880|2 vagas|Natal, Petrópolis | |2
+1333|Apartamento à venda, 3 quartos, 3 suítes, 2 vagas, Capim Macio - Natal/RN|R$ 500.000|3 quartos|213m²|R$ 1.800|2 vagas|Natal, Capim Macio | |2
+1334|Apartamento com 3 suítes à venda, 149 m² por R$ 980.000 - Areia Preta, Natal/RN|R$ 980.000|3 quartos|149m²|R$ 1.750|3 vagas|Natal, Areia Preta | |3
+1335|Apartamento à venda com 47m2 com 2 quartos em Planalto - Natal - RN|R$ 100.000|2 quartos|47m²|R$ 0|1 vaga|Natal, Planalto | |1
+1336|Apartamento à venda, 3 quartos, 1 suíte, 2 vagas, Tirol - Natal/RN|R$ 515.000|3 quartos|98m²|R$ 792|2 vagas|Natal, Tirol | |2
+1337|Apartamento com 2 dormitórios à venda, 56 m² por R$ 245.000 - Ponta Negra - Natal/RN|R$ 245.000|2 quartos|56m²|R$ 0|1 vaga|Natal, Ponta Negra | |1
+1338|Apartamento à venda no Sports Garden, 170m², 4 quartos, 4 vagas, Lagoa Nova - Natal/RN|R$ 1.499.000|4 quartos|170m²|R$ 1.100|4 vagas|Natal, Lagoa Nova | |4
+1339|Apartamento com 2 dormitórios à venda, 101 m² - Barro Vermelho - Natal/RN - AP0589|R$ 225.000|2 quartos|101m²|R$ 697|1 vaga|Natal, Barro Vermelho | |1
+1340|Apartamento Residencial à venda, Ponta Negra, Natal - .|R$ 195.000|1 quarto|10m²|R$ 0| |Natal, Ponta Negra | |Piscina, Churrasqueira
+1341|Apartamento com 2 dormitórios à venda, 57 m² por R$ 270.000,00 - Tirol - Natal/RN|R$ 270.000|2 quartos|57m²|R$ 370|1 vaga|Natal, Tirol | |1
+1342|Apartamento residencial à venda, Planalto, Natal.|R$ 145.000|2 quartos|62m²|R$ 0| |Natal, Planalto | |0
+1343|Apartamento com 3 dormitórios à venda, 150 m² - Candelária - Natal/RN - AP0484|R$ 350.000|3 quartos|150m²|R$ 1.250|2 vagas|Natal, Candelária | |2
+1344|Apartamento com 2 dormitórios à venda, 58 m² por R$ 230.000,00 - Capim Macio - Natal/RN|R$ 230.000|2 quartos|58m²|R$ 350|1 vaga|Natal, Capim Macio | |1
+1345|Apartamento com 2 dormitórios à venda, 56 m² por R$ 350.000,00 - Tirol - Natal/RN|R$ 350.000|2 quartos|56m²|R$ 515|2 vagas|Natal, Tirol | |2
+1346|Apartamento à venda em Capim Macio - Natal - RN  Ref.:0006|R$ 230.000|2 quartos|80m²|R$ 500|1 vaga|Natal, Capim Macio | |1
+1347|Apartamento com 3 dormitórios à venda, 256 m² - Tirol - Natal/RN - AP0622|R$ 470.000|3 quartos|257m²|R$ 1.200|4 vagas|Natal, Tirol | |4
+1348|Apartamento com 3 dormitórios à venda, 75 m² por R$ 130.000 - Cidade Alta - Natal/RN|R$ 130.000|3 quartos|75m²|R$ 0| |Natal, Cidade Alta | |Área de serviço
+1349|Apartamento com 2 dormitórios à venda, 58 m² por R$ 220.000,00 - Cidade Alta - Natal/RN|R$ 220.000|2 quartos|58m²|R$ 480| |Natal, Cidade Alta | |Churrasqueira, Ar condicionado
+1350|Apartamento com 2 dormitórios à venda, 80 m² por R$ 152.000,00 - Candelária - Natal/RN|R$ 152.000|2 quartos|80m²|R$ 200|1 vaga|Natal, Candelária | |1
+1351| | | | | | | | | 
+1352|Apartamento à venda, Ponta Negra, Natal, RN|R$ 300.000|2 quartos|10m²|R$ 0| |Natal, Ponta Negra | |59092550
+1353|Lindo apartamento à venda c/ 2 quartos todo reformado na entrada de Natal/RN|R$ 180.000|2 quartos|52m²|R$ 300|1 vaga|Natal, Pitimbu | |1
+1354|Apartamento com 2 dormitórios à venda, 54 m² por R$ 129.000,00 - Planalto - Natal/RN|R$ 129.000|2 quartos|54m²|R$ 250|1 vaga|Natal, Planalto | |1
+1355|Apartamento à venda, 3 quartos, 1 suíte, 2 vagas, Petrópolis - Natal/RN|R$ 525.000|3 quartos|98m²|R$ 400|2 vagas|Natal, Petrópolis | |2
+1356|"Apartamento à venda Capim Macio (Natal/RN) | Resid. Parque Cidade Jardim - 76m"|R$ 530.000|3 quartos|76m²|R$ 400|1 vaga|Natal, Capim Macio | |1
+1357|Apartamento com 3 dormitórios à venda, 87 m² por R$ 550.000,00 - Lagoa Nova - Natal/RN|R$ 550.000|3 quartos|87m²|R$ 723|2 vagas|Natal, Lagoa Nova | |2
+1358|Apartamento com 2 Quartos à venda, 54m² - Tirol, Natal/RN|R$ 300.000|2 quartos|54m²|R$ 470|1 vaga|Natal, Tirol | |1
+1359|Apartamento com 1 dormitório à venda, 55 m² por R$ 560.000,00 - Ponta Negra - Natal/RN|R$ 560.000|1 quarto|55m²|R$ 720|1 vaga|Natal, Ponta Negra | |1
+1360|Apartamento à venda, 1 quarto, 1 vaga, Lagoa Nova - Natal/RN|R$ 278.300|1 quarto|40m²|R$ 0|1 vaga|Natal, Lagoa Nova | |1
+1361|Apartamento à venda, 3 quartos, 1 suíte, 2 vagas, Tirol - Natal/RN|R$ 715.000|3 quartos|100m²|R$ 665|2 vagas|Natal, Tirol | |2
+1362|Apartamento com 2 dormitórios à venda, 58 m² por R$ 130.000,00 - Neópolis - Natal/RN|R$ 130.000|2 quartos|58m²|R$ 277|1 vaga|Natal, Neópolis | |1
+1363|Apartamento à venda, 3 suítes, 2 vagas, Barro Vermelho - Natal/RN|R$ 630.000|3 quartos|123m²|R$ 870|2 vagas|Natal, Barro Vermelho | |2
+1364|Apartamento com 2 quartos 64m² à venda em Neópolis - Natal/RN|R$ 315.000|2 quartos|64m²|R$ 413|1 vaga|Natal, Neópolis | |1
+1365|Apartamento com 2 dormitórios à venda, 98 m² - Pitimbu - Natal/RN|R$ 200.000|2 quartos|98m²|R$ 0| |Natal, Pitimbu | |0
+1366|Apartamento à venda, 3 quartos, 3 suítes, 2 vagas, Nova Descoberta - Natal/RN|R$ 650.000|3 quartos|120m²|R$ 1.050|2 vagas|Natal, Nova Descoberta | |2
+1367|Apartamento com 3 dormitórios à venda, 110 m² por R$ 430.000,00 - Lagoa Nova - Natal/RN|R$ 430.000|3 quartos|110m²|R$ 1.200|2 vagas|Natal, Lagoa Nova | |2
+1368|Apartamento com 3 dormitórios à venda, 114 m² por R$ 580.000,00 - Capim Macio - Natal/RN|R$ 580.000|3 quartos|114m²|R$ 700|3 vagas|Natal, Capim Macio | |3
+1369|Apartamento à venda, 3 quartos, 1 suíte, 2 vagas, Lagoa Nova - Natal/RN|R$ 470.000|3 quartos|94m²|R$ 840|2 vagas|Natal, Lagoa Nova | |2
+1370|Apartamento à venda, 3 quartos, 3 suítes, 2 vagas, Lagoa Nova - Natal/RN|R$ 420.000|3 quartos|111m²|R$ 1.227|2 vagas|Natal, Lagoa Nova | |2
+1371|Apartamento Residencial à venda, Candelária, Natal - AP0085.|R$ 330.000|2 quartos|56m²|R$ 419|1 vaga|Natal, Candelária | |1
+1372|Apartamento à venda, 3 quartos, 3 suítes, 2 vagas, Tirol - Natal/RN|R$ 950.000|3 quartos|138m²|R$ 1.100|2 vagas|Natal, Tirol | |2
+1373|Apartamento na Planta à venda, 2 quartos, 1 suíte, 1 vaga, Ponta Negra - Natal/RN|R$ 333.500|2 quartos|55m²|R$ 350|1 vaga|Natal, Ponta Negra | |1
+1374|Apartamento com 2 dormitórios à venda, 156 m² por R$ 350.000,00 - Lagoa Nova - Natal/RN|R$ 350.000|2 quartos|156m²|R$ 500|2 vagas|Natal, Lagoa Nova | |2
+1375|Apartamento na Planta à venda, 2 quartos, 1 suíte, 1 vaga, Ponta Negra - Natal/RN|R$ 333.500|2 quartos|55m²|R$ 350|1 vaga|Natal, Ponta Negra | |1
+1376| | | | | | | | | 
+1377|Apartamento na Planta à venda, 2 quartos, 1 suíte, 1 vaga, Ponta Negra - Natal/RN|R$ 333.500|2 quartos|55m²|R$ 350|1 vaga|Natal, Ponta Negra | |1
+1378|Apartamento na Planta à venda, 2 quartos, 1 suíte, 1 vaga, Ponta Negra - Natal/RN|R$ 318.000|2 quartos|55m²|R$ 300|1 vaga|Natal, Ponta Negra | |1
+1379|Excelente apartamento com 3 suítes à venda em Ponta Negra, Natal/RN|R$ 730.000|3 quartos|94m²|R$ 742|2 vagas|Natal, Ponta Negra | |2
+1380|Apartamento com 3 dormitórios à venda, 81 m² por R$ 130.000,00 - Cidade Alta - Natal/RN|R$ 130.000|3 quartos|81m²|R$ 0| |Natal, Cidade Alta | |59025400
+1381|Apartamento com 3 dormitórios à venda, 127 m² por R$ 677.382 - Lagoa Nova - Natal/RN|R$ 677.383|3 quartos|127m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
+1382|Apartamento à venda em Capim Macio (Natal/RN) I 51m² - 2 quartos|R$ 230.000|2 quartos|51m²|R$ 380| |Natal, Capim Macio | |Varanda
+1383|Apartamento à venda em Cidade Alta (Natal/RN) I Condomínio Beira Rio- 42m² - 1 quarto|R$ 100.000|1 quarto|42m²|R$ 380| |Natal, Cidade Alta | |Varanda
+1384|Apartamento com 3 dormitórios à venda, 98 m² por R$ 285.000,00 - Petrópolis - Natal/RN|R$ 285.000|3 quartos|98m²|R$ 800|2 vagas|Natal, Petrópolis | |2
+1385|Apartamento com 3 dormitórios à venda, 98 m² por R$ 285.000,00 - Petrópolis - Natal/RN|R$ 285.000|3 quartos|98m²|R$ 800|2 vagas|Natal, Petrópolis | |2
+1386| | | | | | | | | 
+1387|Apartamento à venda com 95m² em Capim Macio - Natal - RN|R$ 650.000|3 quartos|95m²|R$ 545|2 vagas|Natal, Capim Macio | |2
+1388|Apartamento com 3 dormitórios à venda, 80 m² por R$ 180.000,00 - Alecrim - Natal/RN|R$ 180.000|3 quartos|80m²|R$ 400|1 vaga|Natal, Alecrim | |1
+1389| | | | | | | | | 
+1390|Apartamento à venda, 100 m² por R$ 350.000,00 - Barro Vermelho - Natal/RN|R$ 350.000|3 quartos|100m²|R$ 730|2 vagas|Natal, Barro Vermelho | |2
+1391|Apartamento à venda 50m2 com 2 quartos em Igapó - Natal - RN|R$ 105.000|2 quartos|50m²|R$ 152|1 vaga|Natal, Igapó | |1
+1392|Apartamento com 2 dormitórios à venda, 75 m² - Capim Macio - Natal/RN - AP0592|R$ 170.000|2 quartos|75m²|R$ 0|1 vaga|Natal, Capim Macio | |1
+1393|Apartamento com 3 dormitórios à venda, 119 m² por R$ 290.000,00 - Tirol - Natal/RN|R$ 290.000|3 quartos|119m²|R$ 300|2 vagas|Natal, Tirol | |2
+1394|Apartamento à venda, 4 quartos, 4 suítes, 7 vagas, Areia Preta - Natal/RN|R$ 2.990.000|4 quartos|442m²|R$ 2.552|5 ou mais vagas|Natal, Areia Preta | |5 ou mais
+1395|Apartamento à venda, 3 suítes, 2 vagas, Lagoa Nova - Natal/RN|R$ 820.000|3 quartos|126m²|R$ 0|2 vagas|Natal, Lagoa Nova | |2
